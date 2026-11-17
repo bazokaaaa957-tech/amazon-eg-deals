@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-17T11:55:01Z",
+    "updated_at": "2026-11-17T13:06:15Z",
     "status": "blocked",
     "block_reason": "robot check",
     "last_success_at": "2026-11-17T05:36:36Z",
@@ -11,8 +11,8 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
+      "pages": 1,
+      "products": 48,
       "candidates": 0,
       "verified": 0,
       "new_deals": 0,
