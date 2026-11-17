@@ -1,0 +1,15 @@
+{
+  "max_price": 1000,
+  "min_price": 0,
+  "min_discount": 70,
+  "discount_basis": "highest",
+
+  "pages_per_run": 20,
+  "max_verifications_per_run": 40,
+  "max_rechecks_per_run": 25,
+  "max_whatsapp_per_run": 8,
+
+  "renotify_price_drop_percent": 10,
+  "forget_after_days": 30,
+  "request_delay_seconds": [1.5, 3.0]
+}
