@@ -1,10 +1,66 @@
 {
   "cursor": {
-    "band": 13,
-    "page": 6
+    "band": 2,
+    "page": 7
   },
-  "queue": [],
+  "queue": [
+    {
+      "asin": "B0DPVF59WL",
+      "title": "Zubitech Samsung Galaxy S25 Plus Clear Magnetic Cover | Mag Safe Compatible | Clear Hard Back Case | Shockproof Silicone Frame Edge Bumper | Slim Transparent Case for Samsung Galaxy S25 Plus",
+      "image": "https://m.media-amazon.com/images/I/61s-T7BRSBL._AC_UL320_.jpg",
+      "main_price": 125.0,
+      "list_price": null,
+      "secondary_price": 36.57,
+      "prelim_discount": 70.7
+    },
+    {
+      "asin": "B0DLTQ7B7F",
+      "title": "V VOLT Compatible with iPhone 14 Pro Max Case, Liquid Silicone Case, Full Body Protective Cover, Shockproof, Slim Phone Case, Anti-Scratch Soft Microfiber Lining (Pink)",
+      "image": "https://m.media-amazon.com/images/I/61l-5G5ltkL._AC_UL320_.jpg",
+      "main_price": 145.0,
+      "list_price": null,
+      "secondary_price": 42.94,
+      "prelim_discount": 70.4
+    },
+    {
+      "asin": "B0BN44LG9S",
+      "title": "Isomars 1875 - Sanitary drawing template - ISO Mars model",
+      "image": "https://m.media-amazon.com/images/I/718xPENGMCL._AC_UL320_.jpg",
+      "main_price": 124.4,
+      "list_price": null,
+      "secondary_price": 37.0,
+      "prelim_discount": 70.3
+    },
+    {
+      "asin": "B0DJN4BN12",
+      "title": "Next Store Compatible with Samsung Galaxy Watch 7 40mm Case Hard PC Edge with Tempered Glass Cover Shockproof Anti-Scratch - Men and Women (Clear)",
+      "image": "https://m.media-amazon.com/images/I/714KOmNgMeL._AC_UL320_.jpg",
+      "main_price": 151.88,
+      "list_price": null,
+      "secondary_price": 45.12,
+      "prelim_discount": 70.3
+    },
+    {
+      "asin": "B08YNM3H9Q",
+      "title": "Microwave Popcorn Maker - Yellow",
+      "image": "https://m.media-amazon.com/images/I/41GFxw0+vmL._AC_UL320_.jpg",
+      "main_price": 165.0,
+      "list_price": null,
+      "secondary_price": 49.5,
+      "prelim_discount": 70.0
+    },
+    {
+      "asin": "B0BDLXDKBQ",
+      "title": "Yrzper Compatible with Apple Watch Ultra 49mm Hard PC Case Cover Resistant Impact Shockproof Protective All-Around Edge Protective PC Hard Bumper Cover Face for Apple Watch Ultra 49mm (Star Color)",
+      "image": "https://m.media-amazon.com/images/I/71WfJQcwSuL._AC_UL320_.jpg",
+      "main_price": 245.0,
+      "list_price": null,
+      "secondary_price": 73.44,
+      "prelim_discount": 70.0
+    }
+  ],
   "notified": {},
-  "sweeps_completed": 0,
-  "blocked_streak": 2
+  "sweeps_completed": 1,
+  "blocked_streak": 0,
+  "last_sweep_completed_at": "2026-11-17T22:55:54Z"
 }
