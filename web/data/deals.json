@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-17T03:25:15Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-17T00:31:43Z",
+    "updated_at": "2026-11-17T04:36:14Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-17T04:36:14Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 1,
-      "products": 48,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 868,
+      "candidates": 49,
+      "verified": 40,
+      "new_deals": 21,
+      "expired": 1,
       "alerts": 0
     },
     "sweep": {
-      "band": 1,
+      "band": 4,
       "bands": 15,
       "completed": 0,
       "last_completed_at": null
@@ -41,7 +41,7 @@
       "reference_price": 581.0,
       "discount": 91.8,
       "first_seen": "2026-11-17T00:26:47Z",
-      "last_checked": "2026-11-17T00:30:46Z"
+      "last_checked": "2026-11-17T04:33:57Z"
     },
     {
       "asin": "B0BLN5VD8W",
@@ -57,7 +57,55 @@
       "reference_price": 220.0,
       "discount": 90.6,
       "first_seen": "2026-11-17T00:26:50Z",
-      "last_checked": "2026-11-17T00:30:50Z"
+      "last_checked": "2026-11-17T04:34:00Z"
+    },
+    {
+      "asin": "B0DSSXZF2P",
+      "title": "Carbon Fiber Pattern Car Key Fob Cover, Silicon Protector, Metal Body, Compatible with Opel (Grey)",
+      "image": "https://m.media-amazon.com/images/I/7170MagR0AL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DSSXZF2P?aod=1",
+      "price": 67.5,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 713.0,
+      "list_price": null,
+      "reference_price": 713.0,
+      "discount": 90.5,
+      "first_seen": "2026-11-17T04:34:03Z",
+      "last_checked": "2026-11-17T04:34:03Z"
+    },
+    {
+      "asin": "B0D49G7BNR",
+      "title": "WiWU LG-003 Sapphire Lens Protector iPhone 15 Pro Max - Titanium",
+      "image": "https://m.media-amazon.com/images/I/51qaBLq7cFL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0D49G7BNR?aod=1",
+      "price": 89.1,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 608.76,
+      "list_price": null,
+      "reference_price": 608.76,
+      "discount": 85.4,
+      "first_seen": "2026-11-17T04:34:07Z",
+      "last_checked": "2026-11-17T04:34:07Z"
+    },
+    {
+      "asin": "B09HS5H4G4",
+      "title": "Tensea for iPhone 13 Pro - iPhone 13 Pro Max Camera Lens Protector, 9H Tempered Glass Camera Cover Screen Protector Metal Individual Ring for iPhone 13Pro 6.1 inch iPhone 13 ProMax 6.7 inch 2021",
+      "image": "https://m.media-amazon.com/images/I/71E-lnrx6dL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B09HS5H4G4?aod=1",
+      "price": 39.47,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 259.0,
+      "list_price": null,
+      "reference_price": 259.0,
+      "discount": 84.8,
+      "first_seen": "2026-11-17T04:34:09Z",
+      "last_checked": "2026-11-17T04:34:09Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -73,39 +121,39 @@
       "reference_price": 150.0,
       "discount": 83.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-17T00:30:53Z"
+      "last_checked": "2026-11-17T04:34:11Z"
     },
     {
       "asin": "B0FJ2KFK88",
       "title": "Next Store Number Birthday Candle – Elegant Design Birthday Cake Decorating Wax – Perfect for All Ages and Occasions (0)",
       "image": "https://m.media-amazon.com/images/I/51sbufYOQ9L._AC_UL320_.jpg",
       "url": "https://www.amazon.eg/dp/B0FJ2KFK88?aod=1",
-      "price": 19.95,
+      "price": 19.54,
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
       "new_price": 95.15,
       "list_price": 120.04,
       "reference_price": 120.04,
-      "discount": 83.4,
+      "discount": 83.7,
       "first_seen": "2026-11-17T00:26:58Z",
-      "last_checked": "2026-11-17T00:30:56Z"
+      "last_checked": "2026-11-17T04:34:15Z"
     },
     {
-      "asin": "B0BCRTC5CR",
-      "title": "Fresh Toothpick Holder Dispenser, Pop-Up Automatic Toothpick Dispenser, Toothpick Storage Box (Pink)",
-      "image": "https://m.media-amazon.com/images/I/41JP+VUU2UL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0BCRTC5CR?aod=1",
-      "price": 11.88,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
+      "asin": "B0CWFKL6Q2",
+      "title": "Silicone Baking Sheets Large 40 * 50cm Stretch Baking Sheet for Kitchen Easy and Clean Food Preparation - Random Supply - Available by Di Pegui Bell",
+      "image": "https://m.media-amazon.com/images/I/71kmN-bRWtL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CWFKL6Q2?aod=1",
+      "price": 61.5,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
       "seller": "Amazon Resale",
-      "new_price": 66.21,
+      "new_price": 361.0,
       "list_price": null,
-      "reference_price": 66.21,
-      "discount": 82.1,
-      "first_seen": "2026-11-17T00:27:01Z",
-      "last_checked": "2026-11-17T00:30:58Z"
+      "reference_price": 361.0,
+      "discount": 83.0,
+      "first_seen": "2026-11-17T04:34:21Z",
+      "last_checked": "2026-11-17T04:34:21Z"
     },
     {
       "asin": "B0B5HBY451",
@@ -121,7 +169,7 @@
       "reference_price": 237.0,
       "discount": 81.9,
       "first_seen": "2026-11-17T00:29:27Z",
-      "last_checked": "2026-11-17T00:30:41Z"
+      "last_checked": "2026-11-17T04:34:24Z"
     },
     {
       "asin": "1405328576",
@@ -137,7 +185,39 @@
       "reference_price": 195.0,
       "discount": 80.9,
       "first_seen": "2026-11-17T00:27:05Z",
-      "last_checked": "2026-11-17T00:31:02Z"
+      "last_checked": "2026-11-17T04:34:28Z"
+    },
+    {
+      "asin": "B0DFH6VTXM",
+      "title": "T Tersely Case for Samsung Galaxy S24 FE 5G 2024, Magnetic Cover Compatible with MagSafe, Hard Back Slim Shockproof Bumper, Support Wireless Charging",
+      "image": "https://m.media-amazon.com/images/I/61BlE2g6kML._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DFH6VTXM?aod=1",
+      "price": 52.55,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 263.0,
+      "list_price": null,
+      "reference_price": 263.0,
+      "discount": 80.0,
+      "first_seen": "2026-11-17T04:34:31Z",
+      "last_checked": "2026-11-17T04:34:31Z"
+    },
+    {
+      "asin": "B008DDDFY4",
+      "title": "Omada ECOLIVING Jar 0.5 LT - Ivory",
+      "image": "https://m.media-amazon.com/images/I/61vxzvx+HaL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B008DDDFY4?aod=1",
+      "price": 97.6,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 461.16,
+      "list_price": null,
+      "reference_price": 461.16,
+      "discount": 78.8,
+      "first_seen": "2026-11-17T04:34:37Z",
+      "last_checked": "2026-11-17T04:34:37Z"
     },
     {
       "asin": "B09232FTX8",
@@ -153,7 +233,39 @@
       "reference_price": 119.0,
       "discount": 78.7,
       "first_seen": "2026-11-17T00:27:08Z",
-      "last_checked": "2026-11-17T00:31:05Z"
+      "last_checked": "2026-11-17T04:34:41Z"
+    },
+    {
+      "asin": "B0B9P24XQX",
+      "title": "Acrylic Ice Bowl With Plastic Handle And Plastic Ice Tong - Clear",
+      "image": "https://m.media-amazon.com/images/I/412SFjdp7YL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0B9P24XQX?aod=1",
+      "price": 54.01,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 252.0,
+      "list_price": null,
+      "reference_price": 252.0,
+      "discount": 78.6,
+      "first_seen": "2026-11-17T04:34:44Z",
+      "last_checked": "2026-11-17T04:34:44Z"
+    },
+    {
+      "asin": "B0DJFVH12D",
+      "title": "V VOLT Compatible with Huawei Band 7 Mesh Stainless Steel Magnetic Clasp Replacement Watch Band",
+      "image": "https://m.media-amazon.com/images/I/51ViEmSoSEL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DJFVH12D?aod=1",
+      "price": 54.26,
+      "condition": "Open Box - Very Good",
+      "condition_ar": "علبة مفتوحة - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 250.0,
+      "list_price": null,
+      "reference_price": 250.0,
+      "discount": 78.3,
+      "first_seen": "2026-11-17T04:34:33Z",
+      "last_checked": "2026-11-17T04:34:33Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -169,7 +281,23 @@
       "reference_price": 199.0,
       "discount": 78.2,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-17T00:31:07Z"
+      "last_checked": "2026-11-17T04:34:47Z"
+    },
+    {
+      "asin": "B0B4WKS1YM",
+      "title": "فوطه مطبخ قطن 5 قطعه من الياسين 30 * 30 سم - متعدد الالوان",
+      "image": "https://m.media-amazon.com/images/I/61LJk452P6L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0B4WKS1YM?aod=1",
+      "price": 51.08,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 230.49,
+      "list_price": null,
+      "reference_price": 230.49,
+      "discount": 77.8,
+      "first_seen": "2026-11-17T04:34:50Z",
+      "last_checked": "2026-11-17T04:34:50Z"
     },
     {
       "asin": "B091CX7C8K",
@@ -185,7 +313,71 @@
       "reference_price": 98.99,
       "discount": 77.4,
       "first_seen": "2026-11-17T00:27:13Z",
-      "last_checked": "2026-11-17T00:31:10Z"
+      "last_checked": "2026-11-17T04:34:53Z"
+    },
+    {
+      "asin": "B0CZJ3T8FN",
+      "title": "Banana Protection Storage Box, Safe Plastic with Air Holes, Cute Durable Holder - 3 Pcs Random Colors",
+      "image": "https://m.media-amazon.com/images/I/51BruYF-SxL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CZJ3T8FN?aod=1",
+      "price": 51.56,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 228.0,
+      "list_price": null,
+      "reference_price": 228.0,
+      "discount": 77.4,
+      "first_seen": "2026-11-17T04:34:56Z",
+      "last_checked": "2026-11-17T04:34:56Z"
+    },
+    {
+      "asin": "B087H1RD62",
+      "title": "Sky-Touch Resistance Bands Fabric,Exercise Bands Non Slip Hip Elastic Bands For Hip, Legs, Butt, Glutes And Thighs Workout, Set Of 3 Pack, Assorted Colors",
+      "image": "https://m.media-amazon.com/images/I/81X6xra5dwL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B087H1RD62?aod=1",
+      "price": 87.71,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 161.0,
+      "list_price": 386.0,
+      "reference_price": 386.0,
+      "discount": 77.3,
+      "first_seen": "2026-11-17T04:34:59Z",
+      "last_checked": "2026-11-17T04:34:59Z"
+    },
+    {
+      "asin": "B0DJFT654B",
+      "title": "V VOLT Compatible with Huawei Honor Band 4 / Band 5 Smart Watch Band, Durable Strong Silicone Replacement Strap",
+      "image": "https://m.media-amazon.com/images/I/51X7JeU8qcL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DJFT654B?aod=1",
+      "price": 39.54,
+      "condition": "Open Box - Very Good",
+      "condition_ar": "علبة مفتوحة - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 168.75,
+      "list_price": null,
+      "reference_price": 168.75,
+      "discount": 76.6,
+      "first_seen": "2026-11-17T04:35:02Z",
+      "last_checked": "2026-11-17T04:35:02Z"
+    },
+    {
+      "asin": "B09J2TSHS7",
+      "title": "Ultra Slim Palm Garden Mouse Pad Protector for MacBook Air A1932/A2179/A2337 (Gray,13In)",
+      "image": "https://m.media-amazon.com/images/I/61Wx7zSnhFL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B09J2TSHS7?aod=1",
+      "price": 84.18,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 350.0,
+      "list_price": null,
+      "reference_price": 350.0,
+      "discount": 75.9,
+      "first_seen": "2026-11-17T04:35:04Z",
+      "last_checked": "2026-11-17T04:35:04Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -201,7 +393,23 @@
       "reference_price": 150.0,
       "discount": 75.4,
       "first_seen": "2026-11-17T00:27:15Z",
-      "last_checked": "2026-11-17T00:31:13Z"
+      "last_checked": "2026-11-17T04:35:07Z"
+    },
+    {
+      "asin": "B0B7FD4MFH",
+      "title": "Adapter 6V 1A",
+      "image": "https://m.media-amazon.com/images/I/51z6rkZM4VL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0B7FD4MFH?aod=1",
+      "price": 66.75,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 267.0,
+      "list_price": null,
+      "reference_price": 267.0,
+      "discount": 75.0,
+      "first_seen": "2026-11-17T04:35:10Z",
+      "last_checked": "2026-11-17T04:35:10Z"
     },
     {
       "asin": "B0CLYR41RL",
@@ -217,7 +425,7 @@
       "reference_price": 179.0,
       "discount": 74.0,
       "first_seen": "2026-11-17T00:27:17Z",
-      "last_checked": "2026-11-17T00:31:16Z"
+      "last_checked": "2026-11-17T04:35:17Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -233,7 +441,7 @@
       "reference_price": 184.68,
       "discount": 73.9,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-17T00:31:19Z"
+      "last_checked": "2026-11-17T04:35:21Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -249,7 +457,39 @@
       "reference_price": 93.0,
       "discount": 73.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-17T00:31:21Z"
+      "last_checked": "2026-11-17T04:35:23Z"
+    },
+    {
+      "asin": "B091CGHJ6W",
+      "title": "Outer Space Planet 3D Wall Sticker Room Decor Removable Decals Home Living Room Decoration",
+      "image": "https://m.media-amazon.com/images/I/51b4-2T6cpL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B091CGHJ6W?aod=1",
+      "price": 72.47,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 276.0,
+      "list_price": null,
+      "reference_price": 276.0,
+      "discount": 73.7,
+      "first_seen": "2026-11-17T04:35:14Z",
+      "last_checked": "2026-11-17T04:35:14Z"
+    },
+    {
+      "asin": "B0DBSR9Z6J",
+      "title": "Dream Catcher Mirror Hanging - Multi Color",
+      "image": "https://m.media-amazon.com/images/I/413QyF6bFwL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DBSR9Z6J?aod=1",
+      "price": 40.02,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 149.0,
+      "list_price": null,
+      "reference_price": 149.0,
+      "discount": 73.1,
+      "first_seen": "2026-11-17T04:35:26Z",
+      "last_checked": "2026-11-17T04:35:26Z"
     },
     {
       "asin": "B0DF4FNHM2",
@@ -265,7 +505,7 @@
       "reference_price": 190.0,
       "discount": 73.0,
       "first_seen": "2026-11-17T00:30:38Z",
-      "last_checked": "2026-11-17T00:30:38Z"
+      "last_checked": "2026-11-17T04:35:30Z"
     },
     {
       "asin": "B0F99P33ZL",
@@ -281,7 +521,7 @@
       "reference_price": 53.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:26Z",
-      "last_checked": "2026-11-17T00:31:24Z"
+      "last_checked": "2026-11-17T04:35:32Z"
     },
     {
       "asin": "B0B71Y7DS7",
@@ -297,7 +537,7 @@
       "reference_price": 119.9,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:29Z",
-      "last_checked": "2026-11-17T00:31:27Z"
+      "last_checked": "2026-11-17T04:35:34Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -313,7 +553,71 @@
       "reference_price": 119.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-17T00:31:29Z"
+      "last_checked": "2026-11-17T04:35:38Z"
+    },
+    {
+      "asin": "B0CVH9S847",
+      "title": "Portable Blender, Personal Size Blender, Battery Operated USB Juicer Blender for Juices and Smoothies for Travel and Sports",
+      "image": "https://m.media-amazon.com/images/I/6121jZhAgeL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CVH9S847?aod=1",
+      "price": 48.25,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 149.99,
+      "list_price": 176.02,
+      "reference_price": 176.02,
+      "discount": 72.6,
+      "first_seen": "2026-11-17T04:35:41Z",
+      "last_checked": "2026-11-17T04:35:41Z"
+    },
+    {
+      "asin": "B0FWS4P8TK",
+      "title": "Next Store 18mm Stainless Steel Magnetic Metal Smart Watch Band | Compatible with Huawei Watch gt4 41mm & gt5 41mm & gt6 41mm Stylish Adjustable Replacement Strap Durable Comfortable",
+      "image": "https://m.media-amazon.com/images/I/61Uaa6BxmeL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FWS4P8TK?aod=1",
+      "price": 70.52,
+      "condition": "Open Box - Like New",
+      "condition_ar": "علبة مفتوحة - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 254.86,
+      "list_price": null,
+      "reference_price": 254.86,
+      "discount": 72.3,
+      "first_seen": "2026-11-17T04:35:44Z",
+      "last_checked": "2026-11-17T04:35:44Z"
+    },
+    {
+      "asin": "B0D5MHJND8",
+      "title": "Next Store Compatible with iPhone 14 Pro Case, Support Wireless Charging, Military-Grade Protection, Non-Yellowing, Scratch Resistant Back, Magnetic Phone Case, Classic Series, Clear",
+      "image": "https://m.media-amazon.com/images/I/61GmZqhkJvL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0D5MHJND8?aod=1",
+      "price": 52.23,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 187.31,
+      "list_price": null,
+      "reference_price": 187.31,
+      "discount": 72.1,
+      "first_seen": "2026-11-17T04:35:50Z",
+      "last_checked": "2026-11-17T04:35:50Z"
+    },
+    {
+      "asin": "B0DHDDZ8ZT",
+      "title": "Next Store Silicone Case Compatible with iPhone 15 Pro Max - Perfect Protection and Stylish Design, Compatible with Wireless Charging, Protects Against Bumps and Scratches (Maroon)",
+      "image": "https://m.media-amazon.com/images/I/612avzGTsBL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DHDDZ8ZT?aod=1",
+      "price": 54.51,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 194.94,
+      "list_price": null,
+      "reference_price": 194.94,
+      "discount": 72.0,
+      "first_seen": "2026-11-17T04:35:53Z",
+      "last_checked": "2026-11-17T04:35:53Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -329,7 +633,23 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-17T00:31:31Z"
+      "last_checked": "2026-11-17T04:35:56Z"
+    },
+    {
+      "asin": "B091BSGSRJ",
+      "title": "Simulation Stone Wallpaper Living Room Bedroom Restaurant Bar Wall Sticker",
+      "image": "https://m.media-amazon.com/images/I/61XMc-l78vL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B091BSGSRJ?aod=1",
+      "price": 97.88,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 342.0,
+      "list_price": null,
+      "reference_price": 342.0,
+      "discount": 71.4,
+      "first_seen": "2026-11-17T04:35:47Z",
+      "last_checked": "2026-11-17T04:35:47Z"
     },
     {
       "asin": "B0C5TZBNT3",
@@ -345,7 +665,7 @@
       "reference_price": 126.0,
       "discount": 71.3,
       "first_seen": "2026-11-17T00:27:38Z",
-      "last_checked": "2026-11-17T00:31:34Z"
+      "last_checked": "2026-11-17T04:36:05Z"
     },
     {
       "asin": "B09P4FFDCH",
@@ -361,7 +681,7 @@
       "reference_price": 117.57,
       "discount": 70.9,
       "first_seen": "2026-11-17T00:27:42Z",
-      "last_checked": "2026-11-17T00:31:37Z"
+      "last_checked": "2026-11-17T04:36:08Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -377,7 +697,7 @@
       "reference_price": 145.0,
       "discount": 70.4,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-17T00:30:43Z"
+      "last_checked": "2026-11-17T04:35:59Z"
     },
     {
       "asin": "B0BN44LG9S",
@@ -393,7 +713,7 @@
       "reference_price": 124.4,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-17T00:31:40Z"
+      "last_checked": "2026-11-17T04:36:11Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -409,7 +729,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-17T00:31:43Z"
+      "last_checked": "2026-11-17T04:36:14Z"
     }
   ]
 }
