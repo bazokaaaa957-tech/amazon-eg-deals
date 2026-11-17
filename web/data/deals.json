@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-17T13:06:15Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-17T05:36:36Z",
+    "updated_at": "2026-11-17T14:26:08Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-17T14:26:08Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 1,
-      "products": 48,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 853,
+      "candidates": 7,
+      "verified": 7,
+      "new_deals": 7,
+      "expired": 1,
       "alerts": 0
     },
     "sweep": {
-      "band": 7,
+      "band": 10,
       "bands": 15,
       "completed": 0,
       "last_completed_at": null
@@ -41,7 +41,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-17T05:34:33Z"
+      "last_checked": "2026-11-17T14:25:37Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -90,6 +90,22 @@
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
       "last_checked": "2026-11-17T05:35:33Z"
+    },
+    {
+      "asin": "B08T7P3J1S",
+      "title": "Acrylic Tea Bags Organizer Box - Clear Storage Box with Lid - Ideal for Tea Bags, Packets, Condiments, Crafts - 9 Compartments",
+      "image": "https://m.media-amazon.com/images/I/61Yf8i7VUBL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B08T7P3J1S?aod=1",
+      "price": 264.92,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 2107.0,
+      "list_price": null,
+      "reference_price": 2107.0,
+      "discount": 87.4,
+      "first_seen": "2026-11-17T14:24:39Z",
+      "last_checked": "2026-11-17T14:24:39Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -188,6 +204,22 @@
       "last_checked": "2026-11-17T05:35:50Z"
     },
     {
+      "asin": "B08W9K5CMK",
+      "title": "L-00737 Ice Cream Plate and Spoon Set 3-Pieces",
+      "image": "https://m.media-amazon.com/images/I/51--1A0Ln6L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B08W9K5CMK?aod=1",
+      "price": 119.94,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 635.0,
+      "list_price": null,
+      "reference_price": 635.0,
+      "discount": 81.1,
+      "first_seen": "2026-11-17T05:34:36Z",
+      "last_checked": "2026-11-17T14:25:40Z"
+    },
+    {
       "asin": "1405328576",
       "title": "Indiana Jones Heroes and Villains Sticker Book",
       "image": "https://m.media-amazon.com/images/I/61IpQKmMaXL._AC_UL320_.jpg",
@@ -204,20 +236,20 @@
       "last_checked": "2026-11-17T05:35:53Z"
     },
     {
-      "asin": "B08W9K5CMK",
-      "title": "L-00737 Ice Cream Plate and Spoon Set 3-Pieces",
-      "image": "https://m.media-amazon.com/images/I/51--1A0Ln6L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B08W9K5CMK?aod=1",
-      "price": 121.08,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
+      "asin": "0241583160",
+      "title": "Diary of a Wimpy Kid: Hot Mess (Book 19)",
+      "image": "https://m.media-amazon.com/images/I/8123aKCLCLL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/0241583160?aod=1",
+      "price": 264.05,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
       "seller": "Amazon Resale",
-      "new_price": 635.0,
-      "list_price": null,
-      "reference_price": 635.0,
+      "new_price": 750.0,
+      "list_price": 1382.0,
+      "reference_price": 1382.0,
       "discount": 80.9,
-      "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-17T05:34:36Z"
+      "first_seen": "2026-11-17T14:24:41Z",
+      "last_checked": "2026-11-17T14:24:41Z"
     },
     {
       "asin": "B0DFH6VTXM",
@@ -313,7 +345,7 @@
       "reference_price": 401.28,
       "discount": 78.3,
       "first_seen": "2026-11-17T05:34:38Z",
-      "last_checked": "2026-11-17T05:34:38Z"
+      "last_checked": "2026-11-17T14:25:42Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -380,6 +412,22 @@
       "last_checked": "2026-11-17T05:36:19Z"
     },
     {
+      "asin": "B0FR3J4YQ5",
+      "title": "Royal Leerdam Freya 12-Piece Glassware Set, Premium Crystal for Wine, Water, or Cocktails",
+      "image": "https://m.media-amazon.com/images/I/71+o6salTiL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FR3J4YQ5?aod=1",
+      "price": 397.7,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 1757.79,
+      "list_price": null,
+      "reference_price": 1757.79,
+      "discount": 77.4,
+      "first_seen": "2026-11-17T14:24:45Z",
+      "last_checked": "2026-11-17T14:24:45Z"
+    },
+    {
       "asin": "B087H1RD62",
       "title": "Sky-Touch Resistance Bands Fabric,Exercise Bands Non Slip Hip Elastic Bands For Hip, Legs, Butt, Glutes And Thighs Workout, Set Of 3 Pack, Assorted Colors",
       "image": "https://m.media-amazon.com/images/I/81X6xra5dwL._AC_UL320_.jpg",
@@ -394,6 +442,22 @@
       "discount": 77.3,
       "first_seen": "2026-11-17T04:34:59Z",
       "last_checked": "2026-11-17T05:36:22Z"
+    },
+    {
+      "asin": "B0FHKZMKHK",
+      "title": "Double face cork board 45 * 60 cm ideal for both adults and kids - wooden",
+      "image": "https://m.media-amazon.com/images/I/81n2Ht0OrhL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FHKZMKHK?aod=1",
+      "price": 113.14,
+      "condition": "Used - Acceptable",
+      "condition_ar": "مستعمل - مقبول",
+      "seller": "Amazon Resale",
+      "new_price": 499.0,
+      "list_price": null,
+      "reference_price": 499.0,
+      "discount": 77.3,
+      "first_seen": "2026-11-17T05:34:41Z",
+      "last_checked": "2026-11-17T14:25:45Z"
     },
     {
       "asin": "B0DJFT654B",
@@ -425,23 +489,7 @@
       "reference_price": 506.76,
       "discount": 76.3,
       "first_seen": "2026-11-17T05:34:44Z",
-      "last_checked": "2026-11-17T05:34:44Z"
-    },
-    {
-      "asin": "B0FHKZMKHK",
-      "title": "Double face cork board 45 * 60 cm ideal for both adults and kids - wooden",
-      "image": "https://m.media-amazon.com/images/I/81n2Ht0OrhL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FHKZMKHK?aod=1",
-      "price": 118.65,
-      "condition": "Used - Acceptable",
-      "condition_ar": "مستعمل - مقبول",
-      "seller": "Amazon Resale",
-      "new_price": 499.0,
-      "list_price": null,
-      "reference_price": 499.0,
-      "discount": 76.2,
-      "first_seen": "2026-11-17T05:34:41Z",
-      "last_checked": "2026-11-17T05:34:41Z"
+      "last_checked": "2026-11-17T14:25:48Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -457,7 +505,7 @@
       "reference_price": 350.0,
       "discount": 75.9,
       "first_seen": "2026-11-17T04:35:04Z",
-      "last_checked": "2026-11-17T05:34:46Z"
+      "last_checked": "2026-11-17T14:25:50Z"
     },
     {
       "asin": "B0C8TQXV4W",
@@ -473,7 +521,23 @@
       "reference_price": 468.0,
       "discount": 75.9,
       "first_seen": "2026-11-17T05:34:49Z",
-      "last_checked": "2026-11-17T05:34:49Z"
+      "last_checked": "2026-11-17T14:25:52Z"
+    },
+    {
+      "asin": "B09DKG7M9J",
+      "title": "Midkart Hard Shell Plastic Case Cover Compatible with MacBook Pro 13 Inch (Model M2 A2338 / M1 A2338 / A2289 / A2251 / A1706 / A1708 / A2159 / A1989, Release 2023-2016), Carbon Fiber Black",
+      "image": "https://m.media-amazon.com/images/I/61h97Xy2E8L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B09DKG7M9J?aod=1",
+      "price": 164.34,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 680.0,
+      "list_price": null,
+      "reference_price": 680.0,
+      "discount": 75.8,
+      "first_seen": "2026-11-17T14:24:47Z",
+      "last_checked": "2026-11-17T14:24:47Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -521,7 +585,7 @@
       "reference_price": 460.0,
       "discount": 74.6,
       "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-17T05:34:52Z"
+      "last_checked": "2026-11-17T14:25:55Z"
     },
     {
       "asin": "B0CLYR41RL",
@@ -553,7 +617,7 @@
       "reference_price": 184.68,
       "discount": 73.9,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-17T04:35:21Z"
+      "last_checked": "2026-11-17T14:24:59Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -569,7 +633,7 @@
       "reference_price": 93.0,
       "discount": 73.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-17T04:35:23Z"
+      "last_checked": "2026-11-17T14:25:02Z"
     },
     {
       "asin": "B091CGHJ6W",
@@ -588,6 +652,22 @@
       "last_checked": "2026-11-17T05:36:33Z"
     },
     {
+      "asin": "B0FWS4P8TK",
+      "title": "Next Store 18mm Stainless Steel Magnetic Metal Smart Watch Band | Compatible with Huawei Watch gt4 41mm & gt5 41mm & gt6 41mm Stylish Adjustable Replacement Strap Durable Comfortable",
+      "image": "https://m.media-amazon.com/images/I/61Uaa6BxmeL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FWS4P8TK?aod=1",
+      "price": 67.42,
+      "condition": "Open Box - Like New",
+      "condition_ar": "علبة مفتوحة - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 254.86,
+      "list_price": null,
+      "reference_price": 254.86,
+      "discount": 73.5,
+      "first_seen": "2026-11-17T04:35:44Z",
+      "last_checked": "2026-11-17T14:25:22Z"
+    },
+    {
       "asin": "B0DBSR9Z6J",
       "title": "Dream Catcher Mirror Hanging - Multi Color",
       "image": "https://m.media-amazon.com/images/I/413QyF6bFwL._AC_UL320_.jpg",
@@ -601,23 +681,7 @@
       "reference_price": 149.0,
       "discount": 73.1,
       "first_seen": "2026-11-17T04:35:26Z",
-      "last_checked": "2026-11-17T04:35:26Z"
-    },
-    {
-      "asin": "B0DF4FNHM2",
-      "title": "Case for Apple Watch Screen Protector, Ultra 3/2/1 49mm",
-      "image": "https://m.media-amazon.com/images/I/617fal2bQLL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DF4FNHM2?aod=1",
-      "price": 51.23,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 190.0,
-      "list_price": null,
-      "reference_price": 190.0,
-      "discount": 73.0,
-      "first_seen": "2026-11-17T00:30:38Z",
-      "last_checked": "2026-11-17T04:35:30Z"
+      "last_checked": "2026-11-17T14:25:04Z"
     },
     {
       "asin": "B0F99P33ZL",
@@ -633,7 +697,7 @@
       "reference_price": 53.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:26Z",
-      "last_checked": "2026-11-17T04:35:32Z"
+      "last_checked": "2026-11-17T14:25:10Z"
     },
     {
       "asin": "B0B71Y7DS7",
@@ -649,7 +713,7 @@
       "reference_price": 119.9,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:29Z",
-      "last_checked": "2026-11-17T04:35:34Z"
+      "last_checked": "2026-11-17T14:25:13Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -665,7 +729,7 @@
       "reference_price": 119.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-17T04:35:38Z"
+      "last_checked": "2026-11-17T14:25:16Z"
     },
     {
       "asin": "B0CVH9S847",
@@ -681,23 +745,7 @@
       "reference_price": 176.02,
       "discount": 72.6,
       "first_seen": "2026-11-17T04:35:41Z",
-      "last_checked": "2026-11-17T04:35:41Z"
-    },
-    {
-      "asin": "B0FWS4P8TK",
-      "title": "Next Store 18mm Stainless Steel Magnetic Metal Smart Watch Band | Compatible with Huawei Watch gt4 41mm & gt5 41mm & gt6 41mm Stylish Adjustable Replacement Strap Durable Comfortable",
-      "image": "https://m.media-amazon.com/images/I/61Uaa6BxmeL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FWS4P8TK?aod=1",
-      "price": 70.52,
-      "condition": "Open Box - Like New",
-      "condition_ar": "علبة مفتوحة - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 254.86,
-      "list_price": null,
-      "reference_price": 254.86,
-      "discount": 72.3,
-      "first_seen": "2026-11-17T04:35:44Z",
-      "last_checked": "2026-11-17T04:35:44Z"
+      "last_checked": "2026-11-17T14:25:18Z"
     },
     {
       "asin": "B09FZYP7DV",
@@ -713,7 +761,7 @@
       "reference_price": 295.89,
       "discount": 72.2,
       "first_seen": "2026-11-17T05:34:55Z",
-      "last_checked": "2026-11-17T05:34:55Z"
+      "last_checked": "2026-11-17T14:25:59Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -729,7 +777,7 @@
       "reference_price": 187.31,
       "discount": 72.1,
       "first_seen": "2026-11-17T04:35:50Z",
-      "last_checked": "2026-11-17T04:35:50Z"
+      "last_checked": "2026-11-17T14:25:28Z"
     },
     {
       "asin": "B0DHDDZ8ZT",
@@ -745,7 +793,7 @@
       "reference_price": 194.94,
       "discount": 72.0,
       "first_seen": "2026-11-17T04:35:53Z",
-      "last_checked": "2026-11-17T04:35:53Z"
+      "last_checked": "2026-11-17T14:25:31Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -761,7 +809,23 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-17T04:35:56Z"
+      "last_checked": "2026-11-17T14:25:35Z"
+    },
+    {
+      "asin": "B0BD63TK8P",
+      "title": "Mr Joe womens 3776 Heeled Sandal",
+      "image": "https://m.media-amazon.com/images/I/51ep7Fh462L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0BD63TK8P?aod=1",
+      "price": 291.66,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 1029.0,
+      "list_price": null,
+      "reference_price": 1029.0,
+      "discount": 71.7,
+      "first_seen": "2026-11-17T14:24:51Z",
+      "last_checked": "2026-11-17T14:24:51Z"
     },
     {
       "asin": "B091BSGSRJ",
@@ -777,7 +841,7 @@
       "reference_price": 342.0,
       "discount": 71.4,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-17T04:35:47Z"
+      "last_checked": "2026-11-17T14:25:25Z"
     },
     {
       "asin": "B0C5TZBNT3",
@@ -793,7 +857,7 @@
       "reference_price": 126.0,
       "discount": 71.3,
       "first_seen": "2026-11-17T00:27:38Z",
-      "last_checked": "2026-11-17T05:34:59Z"
+      "last_checked": "2026-11-17T14:26:02Z"
     },
     {
       "asin": "B09P4FFDCH",
@@ -809,7 +873,7 @@
       "reference_price": 117.57,
       "discount": 70.9,
       "first_seen": "2026-11-17T00:27:42Z",
-      "last_checked": "2026-11-17T05:35:02Z"
+      "last_checked": "2026-11-17T14:26:05Z"
     },
     {
       "asin": "B0F924T6L2",
@@ -825,7 +889,7 @@
       "reference_price": 322.0,
       "discount": 70.8,
       "first_seen": "2026-11-17T05:35:05Z",
-      "last_checked": "2026-11-17T05:35:05Z"
+      "last_checked": "2026-11-17T14:26:08Z"
     },
     {
       "asin": "B0DPVF59WL",
@@ -858,6 +922,22 @@
       "discount": 70.7,
       "first_seen": "2026-11-17T05:35:11Z",
       "last_checked": "2026-11-17T05:35:11Z"
+    },
+    {
+      "asin": "B0FCXQWRHW",
+      "title": "3 PCS Silicone Fishing Rod Holder Ball Straps with 5 Hole Portable,Rubber Fishing Pole Clips Fly Fishing Accessories.",
+      "image": "https://m.media-amazon.com/images/I/51n8thXOkeL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FCXQWRHW?aod=1",
+      "price": 176.18,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 599.0,
+      "list_price": null,
+      "reference_price": 599.0,
+      "discount": 70.6,
+      "first_seen": "2026-11-17T14:24:56Z",
+      "last_checked": "2026-11-17T14:24:56Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -922,6 +1002,22 @@
       "discount": 70.3,
       "first_seen": "2026-11-17T05:35:21Z",
       "last_checked": "2026-11-17T05:35:21Z"
+    },
+    {
+      "asin": "B0D4BWDG51",
+      "title": "BasketBall Size 5, Multi Color",
+      "image": "https://m.media-amazon.com/images/I/819TffIOacL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0D4BWDG51?aod=1",
+      "price": 232.6,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 779.0,
+      "list_price": null,
+      "reference_price": 779.0,
+      "discount": 70.1,
+      "first_seen": "2026-11-17T14:24:53Z",
+      "last_checked": "2026-11-17T14:24:53Z"
     },
     {
       "asin": "B0BDLXDKBQ",
