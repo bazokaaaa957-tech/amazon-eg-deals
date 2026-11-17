@@ -1,0 +1,63 @@
+name: Amazon EG Deal Tracker
+
+on:
+  schedule:
+    # Every 30 minutes, 24/7 (minutes 7 and 37 - off the busy :00/:30 marks,
+    # where GitHub delays scheduled jobs the most).
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_whatsapp:
+        description: "Send a WhatsApp test message only (no scan)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deal-tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+      CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: WhatsApp test message
+        if: ${{ inputs.test_whatsapp }}
+        run: python scraper/tracker.py --test-whatsapp
+
+      - name: Run tracker
+        if: ${{ !inputs.test_whatsapp }}
+        run: python scraper/tracker.py
+
+      - name: Save results back to the repository
+        if: ${{ !inputs.test_whatsapp }}
+        run: |
+          # Commit as the repository owner so Vercel accepts the commit and redeploys the dashboard.
+          git config user.name "${{ github.repository_owner }}"
+          git config user.email "${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com"
+          git add data/state.json web/data/deals.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "deals: update $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase --autostash
+            git push
+          fi
