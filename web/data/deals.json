@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated_at": "2026-11-17T17:39:15Z",
+    "updated_at": "2026-11-17T18:59:46Z",
     "status": "blocked",
-    "block_reason": "robot check",
+    "block_reason": "unexpected search page layout",
     "last_success_at": "2026-11-17T14:26:08Z",
     "filters": {
       "max_price": 1000,
