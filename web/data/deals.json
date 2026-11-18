@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-18T13:12:44Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-18T12:06:12Z",
+    "updated_at": "2026-11-18T14:32:56Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-18T14:32:56Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
+      "pages": 20,
+      "products": 868,
+      "candidates": 4,
+      "verified": 4,
       "new_deals": 0,
-      "expired": 0,
+      "expired": 1,
       "alerts": 0
     },
     "sweep": {
-      "band": 5,
+      "band": 8,
       "bands": 15,
       "completed": 2,
       "last_completed_at": "2026-11-18T11:06:19Z"
@@ -41,7 +41,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-18T12:03:17Z"
+      "last_checked": "2026-11-18T14:32:47Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -57,7 +57,7 @@
       "reference_price": 581.0,
       "discount": 91.8,
       "first_seen": "2026-11-17T00:26:47Z",
-      "last_checked": "2026-11-18T11:08:15Z"
+      "last_checked": "2026-11-18T14:32:25Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -73,7 +73,7 @@
       "reference_price": 713.0,
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
-      "last_checked": "2026-11-18T12:03:20Z"
+      "last_checked": "2026-11-18T14:32:50Z"
     },
     {
       "asin": "B08T7P3J1S",
@@ -105,7 +105,7 @@
       "reference_price": 608.76,
       "discount": 85.4,
       "first_seen": "2026-11-17T04:34:07Z",
-      "last_checked": "2026-11-18T12:03:23Z"
+      "last_checked": "2026-11-18T14:32:53Z"
     },
     {
       "asin": "B00BHHIPU2",
@@ -121,7 +121,7 @@
       "reference_price": 1161.42,
       "discount": 85.0,
       "first_seen": "2026-11-18T02:36:56Z",
-      "last_checked": "2026-11-18T11:08:54Z"
+      "last_checked": "2026-11-18T14:31:34Z"
     },
     {
       "asin": "B09HS5H4G4",
@@ -137,7 +137,7 @@
       "reference_price": 259.0,
       "discount": 84.8,
       "first_seen": "2026-11-17T04:34:09Z",
-      "last_checked": "2026-11-18T12:03:25Z"
+      "last_checked": "2026-11-18T14:32:56Z"
     },
     {
       "asin": "B093G5NQBH",
@@ -233,7 +233,7 @@
       "reference_price": 389.0,
       "discount": 81.5,
       "first_seen": "2026-11-17T22:57:07Z",
-      "last_checked": "2026-11-18T11:08:28Z"
+      "last_checked": "2026-11-18T14:32:27Z"
     },
     {
       "asin": "B0DNBLH879",
@@ -297,7 +297,7 @@
       "reference_price": 1382.0,
       "discount": 80.9,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-18T11:08:57Z"
+      "last_checked": "2026-11-18T14:32:33Z"
     },
     {
       "asin": "B0DFH6VTXM",
@@ -425,7 +425,7 @@
       "reference_price": 1250.0,
       "discount": 78.5,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-18T11:09:00Z"
+      "last_checked": "2026-11-18T14:32:37Z"
     },
     {
       "asin": "B0B4WKS1YM",
@@ -505,7 +505,7 @@
       "reference_price": 228.0,
       "discount": 78.0,
       "first_seen": "2026-11-17T04:34:56Z",
-      "last_checked": "2026-11-18T11:08:42Z"
+      "last_checked": "2026-11-18T14:32:30Z"
     },
     {
       "asin": "B0DJFT654B",
@@ -585,7 +585,7 @@
       "reference_price": 499.0,
       "discount": 77.3,
       "first_seen": "2026-11-17T05:34:41Z",
-      "last_checked": "2026-11-18T12:05:27Z"
+      "last_checked": "2026-11-18T14:31:36Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -649,7 +649,7 @@
       "reference_price": 680.0,
       "discount": 75.8,
       "first_seen": "2026-11-17T14:24:47Z",
-      "last_checked": "2026-11-18T11:09:21Z"
+      "last_checked": "2026-11-18T14:32:44Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -745,7 +745,7 @@
       "reference_price": 93.0,
       "discount": 73.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-18T11:07:31Z"
+      "last_checked": "2026-11-18T14:31:44Z"
     },
     {
       "asin": "B091CGHJ6W",
@@ -780,22 +780,6 @@
       "last_checked": "2026-11-18T12:06:07Z"
     },
     {
-      "asin": "B0CYQ8ZLBG",
-      "title": "Toothpaste Dispenser with 5 Toothbrush Holder, Wall Mounted Holder, White",
-      "image": "https://m.media-amazon.com/images/I/511eeyORe+L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CYQ8ZLBG?aod=1",
-      "price": 27.55,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 104.25,
-      "list_price": null,
-      "reference_price": 104.25,
-      "discount": 73.6,
-      "first_seen": "2026-11-18T11:07:35Z",
-      "last_checked": "2026-11-18T11:07:35Z"
-    },
-    {
       "asin": "B0FWS4P8TK",
       "title": "Next Store 18mm Stainless Steel Magnetic Metal Smart Watch Band | Compatible with Huawei Watch gt4 41mm & gt5 41mm & gt6 41mm Stylish Adjustable Replacement Strap Durable Comfortable",
       "image": "https://m.media-amazon.com/images/I/61Uaa6BxmeL._AC_UL320_.jpg",
@@ -825,7 +809,7 @@
       "reference_price": 2591.0,
       "discount": 73.3,
       "first_seen": "2026-11-17T20:07:38Z",
-      "last_checked": "2026-11-18T11:07:38Z"
+      "last_checked": "2026-11-18T14:31:50Z"
     },
     {
       "asin": "B0DBSR9Z6J",
@@ -841,7 +825,7 @@
       "reference_price": 149.0,
       "discount": 73.1,
       "first_seen": "2026-11-17T04:35:26Z",
-      "last_checked": "2026-11-18T11:07:40Z"
+      "last_checked": "2026-11-18T14:31:54Z"
     },
     {
       "asin": "B0F99P33ZL",
@@ -857,7 +841,7 @@
       "reference_price": 53.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:26Z",
-      "last_checked": "2026-11-18T11:07:46Z"
+      "last_checked": "2026-11-18T14:32:00Z"
     },
     {
       "asin": "B0B71Y7DS7",
@@ -873,7 +857,7 @@
       "reference_price": 119.9,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:29Z",
-      "last_checked": "2026-11-18T11:07:43Z"
+      "last_checked": "2026-11-18T14:31:57Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -905,7 +889,7 @@
       "reference_price": 230.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T22:58:04Z",
-      "last_checked": "2026-11-18T11:09:09Z"
+      "last_checked": "2026-11-18T14:32:42Z"
     },
     {
       "asin": "B0CVH9S847",
@@ -988,6 +972,22 @@
       "last_checked": "2026-11-18T12:04:40Z"
     },
     {
+      "asin": "B0DPVF59WL",
+      "title": "Zubitech Samsung Galaxy S25 Plus Clear Magnetic Cover | Mag Safe Compatible | Clear Hard Back Case | Shockproof Silicone Frame Edge Bumper | Slim Transparent Case for Samsung Galaxy S25 Plus",
+      "image": "https://m.media-amazon.com/images/I/61s-T7BRSBL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DPVF59WL?aod=1",
+      "price": 35.06,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 125.0,
+      "list_price": null,
+      "reference_price": 125.0,
+      "discount": 72.0,
+      "first_seen": "2026-11-17T05:35:08Z",
+      "last_checked": "2026-11-18T14:32:16Z"
+    },
+    {
       "asin": "B0FJGXWS2T",
       "title": "Silicone Case High Quality Padded Inside With Camera Protection For Oppo A5X (Navy)",
       "image": "https://m.media-amazon.com/images/I/61FtGfddyZL._AC_UL320_.jpg",
@@ -1001,7 +1001,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-18T11:07:51Z"
+      "last_checked": "2026-11-18T14:32:03Z"
     },
     {
       "asin": "B08YNPJKX3",
@@ -1081,7 +1081,7 @@
       "reference_price": 126.0,
       "discount": 71.3,
       "first_seen": "2026-11-17T00:27:38Z",
-      "last_checked": "2026-11-18T11:07:54Z"
+      "last_checked": "2026-11-18T14:32:06Z"
     },
     {
       "asin": "B0F4RLYTNR",
@@ -1129,7 +1129,7 @@
       "reference_price": 117.57,
       "discount": 70.9,
       "first_seen": "2026-11-17T00:27:42Z",
-      "last_checked": "2026-11-18T11:07:57Z"
+      "last_checked": "2026-11-18T14:32:10Z"
     },
     {
       "asin": "B0F924T6L2",
@@ -1148,22 +1148,6 @@
       "last_checked": "2026-11-18T12:04:49Z"
     },
     {
-      "asin": "B0DPVF59WL",
-      "title": "Zubitech Samsung Galaxy S25 Plus Clear Magnetic Cover | Mag Safe Compatible | Clear Hard Back Case | Shockproof Silicone Frame Edge Bumper | Slim Transparent Case for Samsung Galaxy S25 Plus",
-      "image": "https://m.media-amazon.com/images/I/61s-T7BRSBL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DPVF59WL?aod=1",
-      "price": 36.57,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 125.0,
-      "list_price": null,
-      "reference_price": 125.0,
-      "discount": 70.7,
-      "first_seen": "2026-11-17T05:35:08Z",
-      "last_checked": "2026-11-18T11:08:03Z"
-    },
-    {
       "asin": "B0D5MQ5627",
       "title": "Reebok Womens LUX HR MINI-FLARE PANT Sweatpants",
       "image": "https://m.media-amazon.com/images/I/61baqvkOR2L._AC_UL320_.jpg",
@@ -1177,7 +1161,7 @@
       "reference_price": 2569.0,
       "discount": 70.7,
       "first_seen": "2026-11-17T20:07:42Z",
-      "last_checked": "2026-11-18T11:08:00Z"
+      "last_checked": "2026-11-18T14:32:13Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -1193,7 +1177,7 @@
       "reference_price": 599.0,
       "discount": 70.6,
       "first_seen": "2026-11-17T14:24:56Z",
-      "last_checked": "2026-11-18T11:09:24Z"
+      "last_checked": "2026-11-18T14:31:39Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1241,7 +1225,7 @@
       "reference_price": 124.4,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-18T11:08:08Z"
+      "last_checked": "2026-11-18T14:32:23Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1257,7 +1241,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-18T11:08:05Z"
+      "last_checked": "2026-11-18T14:32:19Z"
     },
     {
       "asin": "B07W554911",
@@ -1273,7 +1257,7 @@
       "reference_price": 389.0,
       "discount": 70.3,
       "first_seen": "2026-11-17T05:35:21Z",
-      "last_checked": "2026-11-18T12:05:37Z"
+      "last_checked": "2026-11-18T14:31:41Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1337,7 +1321,7 @@
       "reference_price": 779.0,
       "discount": 70.1,
       "first_seen": "2026-11-17T14:24:53Z",
-      "last_checked": "2026-11-18T11:09:03Z"
+      "last_checked": "2026-11-18T14:32:39Z"
     },
     {
       "asin": "B08YNM3H9Q",
