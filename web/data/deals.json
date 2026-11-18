@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-18T15:32:12Z",
+    "updated_at": "2026-11-18T16:40:33Z",
     "status": "ok",
     "block_reason": null,
-    "last_success_at": "2026-11-18T15:32:12Z",
+    "last_success_at": "2026-11-18T16:40:33Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -12,18 +12,18 @@
     },
     "run": {
       "pages": 20,
-      "products": 854,
-      "candidates": 9,
-      "verified": 9,
-      "new_deals": 1,
-      "expired": 2,
+      "products": 875,
+      "candidates": 5,
+      "verified": 5,
+      "new_deals": 0,
+      "expired": 0,
       "alerts": 0
     },
     "sweep": {
-      "band": 11,
+      "band": 1,
       "bands": 15,
-      "completed": 2,
-      "last_completed_at": "2026-11-18T11:06:19Z"
+      "completed": 3,
+      "last_completed_at": "2026-11-18T16:39:00Z"
     }
   },
   "deals": [
@@ -121,7 +121,7 @@
       "reference_price": 1161.42,
       "discount": 85.0,
       "first_seen": "2026-11-18T02:36:56Z",
-      "last_checked": "2026-11-18T14:31:34Z"
+      "last_checked": "2026-11-18T16:40:22Z"
     },
     {
       "asin": "B09HS5H4G4",
@@ -169,7 +169,7 @@
       "reference_price": 150.0,
       "discount": 83.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-18T12:05:40Z"
+      "last_checked": "2026-11-18T16:39:52Z"
     },
     {
       "asin": "B0FJ2KFK88",
@@ -185,7 +185,7 @@
       "reference_price": 120.04,
       "discount": 83.7,
       "first_seen": "2026-11-17T00:26:58Z",
-      "last_checked": "2026-11-18T12:05:44Z"
+      "last_checked": "2026-11-18T16:39:55Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -281,7 +281,7 @@
       "reference_price": 195.0,
       "discount": 80.9,
       "first_seen": "2026-11-17T00:27:05Z",
-      "last_checked": "2026-11-18T12:05:46Z"
+      "last_checked": "2026-11-18T16:39:57Z"
     },
     {
       "asin": "0241583160",
@@ -377,7 +377,7 @@
       "reference_price": 119.0,
       "discount": 78.7,
       "first_seen": "2026-11-17T00:27:08Z",
-      "last_checked": "2026-11-18T12:05:49Z"
+      "last_checked": "2026-11-18T16:40:01Z"
     },
     {
       "asin": "B0B9P24XQX",
@@ -409,7 +409,7 @@
       "reference_price": 199.0,
       "discount": 78.6,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-18T12:05:52Z"
+      "last_checked": "2026-11-18T16:40:04Z"
     },
     {
       "asin": "B0C4M3D5ZN",
@@ -441,7 +441,7 @@
       "reference_price": 230.49,
       "discount": 78.4,
       "first_seen": "2026-11-17T04:34:50Z",
-      "last_checked": "2026-11-18T12:05:55Z"
+      "last_checked": "2026-11-18T16:40:07Z"
     },
     {
       "asin": "B0DJFVH12D",
@@ -505,7 +505,7 @@
       "reference_price": 168.75,
       "discount": 77.8,
       "first_seen": "2026-11-17T04:35:02Z",
-      "last_checked": "2026-11-18T12:05:57Z"
+      "last_checked": "2026-11-18T16:40:10Z"
     },
     {
       "asin": "B0FR3J4YQ5",
@@ -537,7 +537,7 @@
       "reference_price": 98.99,
       "discount": 77.4,
       "first_seen": "2026-11-17T00:27:13Z",
-      "last_checked": "2026-11-18T12:06:01Z"
+      "last_checked": "2026-11-18T16:40:13Z"
     },
     {
       "asin": "B087H1RD62",
@@ -569,7 +569,7 @@
       "reference_price": 499.0,
       "discount": 77.3,
       "first_seen": "2026-11-17T05:34:41Z",
-      "last_checked": "2026-11-18T14:31:36Z"
+      "last_checked": "2026-11-18T16:40:24Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -697,7 +697,7 @@
       "reference_price": 179.0,
       "discount": 74.0,
       "first_seen": "2026-11-17T00:27:17Z",
-      "last_checked": "2026-11-18T12:06:09Z"
+      "last_checked": "2026-11-18T16:40:16Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -713,7 +713,7 @@
       "reference_price": 184.68,
       "discount": 73.9,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-18T12:06:12Z"
+      "last_checked": "2026-11-18T16:40:19Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -729,7 +729,7 @@
       "reference_price": 93.0,
       "discount": 73.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-18T14:31:44Z"
+      "last_checked": "2026-11-18T16:40:33Z"
     },
     {
       "asin": "B091CGHJ6W",
@@ -761,7 +761,7 @@
       "reference_price": 3589.0,
       "discount": 73.6,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-18T12:06:07Z"
+      "last_checked": "2026-11-18T16:39:06Z"
     },
     {
       "asin": "B0FWS4P8TK",
@@ -793,7 +793,7 @@
       "reference_price": 2591.0,
       "discount": 73.3,
       "first_seen": "2026-11-17T20:07:38Z",
-      "last_checked": "2026-11-18T14:31:50Z"
+      "last_checked": "2026-11-18T16:39:09Z"
     },
     {
       "asin": "B0DBSR9Z6J",
@@ -889,7 +889,7 @@
       "reference_price": 176.02,
       "discount": 72.6,
       "first_seen": "2026-11-17T04:35:41Z",
-      "last_checked": "2026-11-18T12:05:02Z"
+      "last_checked": "2026-11-18T16:39:44Z"
     },
     {
       "asin": "B09H66P611",
@@ -953,7 +953,7 @@
       "reference_price": 194.94,
       "discount": 72.0,
       "first_seen": "2026-11-17T04:35:53Z",
-      "last_checked": "2026-11-18T12:04:40Z"
+      "last_checked": "2026-11-18T16:39:22Z"
     },
     {
       "asin": "B0DPVF59WL",
@@ -970,6 +970,22 @@
       "discount": 72.0,
       "first_seen": "2026-11-17T05:35:08Z",
       "last_checked": "2026-11-18T14:32:16Z"
+    },
+    {
+      "asin": "B0FCXQWRHW",
+      "title": "3 PCS Silicone Fishing Rod Holder Ball Straps with 5 Hole Portable,Rubber Fishing Pole Clips Fly Fishing Accessories.",
+      "image": "https://m.media-amazon.com/images/I/51n8thXOkeL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FCXQWRHW?aod=1",
+      "price": 167.78,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 599.0,
+      "list_price": null,
+      "reference_price": 599.0,
+      "discount": 72.0,
+      "first_seen": "2026-11-17T14:24:56Z",
+      "last_checked": "2026-11-18T16:40:27Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -1001,7 +1017,7 @@
       "reference_price": 300.0,
       "discount": 71.8,
       "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-18T12:04:43Z"
+      "last_checked": "2026-11-18T16:39:25Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -1081,7 +1097,7 @@
       "reference_price": 187.5,
       "discount": 71.1,
       "first_seen": "2026-11-17T05:35:11Z",
-      "last_checked": "2026-11-18T12:04:47Z"
+      "last_checked": "2026-11-18T16:39:28Z"
     },
     {
       "asin": "B0DJQNPHRW",
@@ -1097,7 +1113,7 @@
       "reference_price": 2019.0,
       "discount": 71.0,
       "first_seen": "2026-11-17T20:07:40Z",
-      "last_checked": "2026-11-18T12:05:22Z"
+      "last_checked": "2026-11-18T16:39:13Z"
     },
     {
       "asin": "B09P4FFDCH",
@@ -1129,7 +1145,7 @@
       "reference_price": 322.0,
       "discount": 70.8,
       "first_seen": "2026-11-17T05:35:05Z",
-      "last_checked": "2026-11-18T12:04:49Z"
+      "last_checked": "2026-11-18T16:39:32Z"
     },
     {
       "asin": "B0D5MQ5627",
@@ -1145,23 +1161,7 @@
       "reference_price": 2569.0,
       "discount": 70.7,
       "first_seen": "2026-11-17T20:07:42Z",
-      "last_checked": "2026-11-18T14:32:13Z"
-    },
-    {
-      "asin": "B0FCXQWRHW",
-      "title": "3 PCS Silicone Fishing Rod Holder Ball Straps with 5 Hole Portable,Rubber Fishing Pole Clips Fly Fishing Accessories.",
-      "image": "https://m.media-amazon.com/images/I/51n8thXOkeL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FCXQWRHW?aod=1",
-      "price": 176.18,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 599.0,
-      "list_price": null,
-      "reference_price": 599.0,
-      "discount": 70.6,
-      "first_seen": "2026-11-17T14:24:56Z",
-      "last_checked": "2026-11-18T14:31:39Z"
+      "last_checked": "2026-11-18T16:39:15Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1177,7 +1177,7 @@
       "reference_price": 145.0,
       "discount": 70.4,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-18T12:04:53Z"
+      "last_checked": "2026-11-18T16:39:34Z"
     },
     {
       "asin": "B000R9T0KU",
@@ -1193,7 +1193,7 @@
       "reference_price": 1829.09,
       "discount": 70.4,
       "first_seen": "2026-11-17T20:07:45Z",
-      "last_checked": "2026-11-18T12:05:24Z"
+      "last_checked": "2026-11-18T16:39:19Z"
     },
     {
       "asin": "B0BN44LG9S",
@@ -1241,7 +1241,7 @@
       "reference_price": 389.0,
       "discount": 70.3,
       "first_seen": "2026-11-17T05:35:21Z",
-      "last_checked": "2026-11-18T14:31:41Z"
+      "last_checked": "2026-11-18T16:40:30Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1257,7 +1257,7 @@
       "reference_price": 285.0,
       "discount": 70.3,
       "first_seen": "2026-11-18T01:14:55Z",
-      "last_checked": "2026-11-18T12:04:56Z"
+      "last_checked": "2026-11-18T16:39:38Z"
     },
     {
       "asin": "B0DF68NMF8",
@@ -1273,7 +1273,7 @@
       "reference_price": 285.2,
       "discount": 70.2,
       "first_seen": "2026-11-18T01:14:59Z",
-      "last_checked": "2026-11-18T12:05:30Z"
+      "last_checked": "2026-11-18T16:39:47Z"
     },
     {
       "asin": "B0BDLXDKBQ",
@@ -1289,7 +1289,7 @@
       "reference_price": 245.0,
       "discount": 70.2,
       "first_seen": "2026-11-17T05:35:25Z",
-      "last_checked": "2026-11-18T12:04:59Z"
+      "last_checked": "2026-11-18T16:39:41Z"
     },
     {
       "asin": "B0D4BWDG51",
@@ -1321,7 +1321,7 @@
       "reference_price": 165.0,
       "discount": 70.0,
       "first_seen": "2026-11-18T01:15:02Z",
-      "last_checked": "2026-11-18T12:05:33Z"
+      "last_checked": "2026-11-18T16:39:50Z"
     }
   ]
 }
