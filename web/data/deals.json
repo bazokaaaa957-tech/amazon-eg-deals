@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-19T21:51:52Z",
-    "status": "blocked",
-    "block_reason": "unexpected search page layout",
-    "last_success_at": "2026-11-19T17:59:09Z",
+    "updated_at": "2026-11-19T22:53:02Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-19T22:53:02Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
+      "pages": 20,
+      "products": 821,
+      "candidates": 7,
+      "verified": 7,
       "new_deals": 0,
-      "expired": 0,
+      "expired": 2,
       "alerts": 0
     },
     "sweep": {
-      "band": 9,
+      "band": 13,
       "bands": 15,
       "completed": 4,
       "last_completed_at": "2026-11-19T14:34:24Z"
@@ -89,7 +89,7 @@
       "reference_price": 713.0,
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
-      "last_checked": "2026-11-19T15:37:07Z"
+      "last_checked": "2026-11-19T22:53:02Z"
     },
     {
       "asin": "B08T7P3J1S",
@@ -105,7 +105,7 @@
       "reference_price": 2107.0,
       "discount": 87.4,
       "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-19T17:57:29Z"
+      "last_checked": "2026-11-19T22:51:32Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -185,7 +185,7 @@
       "reference_price": 1805.67,
       "discount": 82.3,
       "first_seen": "2026-11-18T15:30:38Z",
-      "last_checked": "2026-11-19T15:37:17Z"
+      "last_checked": "2026-11-19T22:51:35Z"
     },
     {
       "asin": "B08W9K5CMK",
@@ -457,7 +457,23 @@
       "reference_price": 1669.9,
       "discount": 76.4,
       "first_seen": "2026-11-17T14:24:45Z",
-      "last_checked": "2026-11-19T15:37:23Z"
+      "last_checked": "2026-11-19T22:51:38Z"
+    },
+    {
+      "asin": "B0972NJM6W",
+      "title": "Stefanplast Tosca peçete tutucu, plastik, mavi",
+      "image": "https://m.media-amazon.com/images/I/41FRUtV83wL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0972NJM6W?aod=1",
+      "price": 109.4,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 137.63,
+      "list_price": 460.0,
+      "reference_price": 460.0,
+      "discount": 76.2,
+      "first_seen": "2026-11-17T05:34:52Z",
+      "last_checked": "2026-11-19T22:52:05Z"
     },
     {
       "asin": "B008DDDFY4",
@@ -537,7 +553,7 @@
       "reference_price": 1537.68,
       "discount": 75.7,
       "first_seen": "2026-11-19T10:08:32Z",
-      "last_checked": "2026-11-19T15:37:26Z"
+      "last_checked": "2026-11-19T22:51:40Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -569,7 +585,23 @@
       "reference_price": 184.68,
       "discount": 75.3,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-19T15:35:55Z"
+      "last_checked": "2026-11-19T22:51:52Z"
+    },
+    {
+      "asin": "B0B7FD4MFH",
+      "title": "Adapter 6V 1A",
+      "image": "https://m.media-amazon.com/images/I/51z6rkZM4VL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0B7FD4MFH?aod=1",
+      "price": 66.16,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 267.0,
+      "list_price": null,
+      "reference_price": 267.0,
+      "discount": 75.2,
+      "first_seen": "2026-11-17T04:35:10Z",
+      "last_checked": "2026-11-19T22:51:55Z"
     },
     {
       "asin": "B0DFH6VTXM",
@@ -588,84 +620,36 @@
       "last_checked": "2026-11-19T17:58:08Z"
     },
     {
-      "asin": "B0B7FD4MFH",
-      "title": "Adapter 6V 1A",
-      "image": "https://m.media-amazon.com/images/I/51z6rkZM4VL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0B7FD4MFH?aod=1",
-      "price": 66.75,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 267.0,
-      "list_price": null,
-      "reference_price": 267.0,
-      "discount": 75.0,
-      "first_seen": "2026-11-17T04:35:10Z",
-      "last_checked": "2026-11-19T15:35:57Z"
-    },
-    {
-      "asin": "B0972NJM6W",
-      "title": "Stefanplast Tosca peçete tutucu, plastik, mavi",
-      "image": "https://m.media-amazon.com/images/I/41FRUtV83wL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0972NJM6W?aod=1",
-      "price": 116.99,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 137.63,
-      "list_price": 460.0,
-      "reference_price": 460.0,
-      "discount": 74.6,
-      "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-19T15:36:05Z"
-    },
-    {
-      "asin": "B0FY65KTRF",
-      "title": "Air Conditioner Cover, Wall Mounted Type, Indoor Air Conditioner Cover, Sunscreen, Waterproof Indoor Unit Cover, Air Conditioner Cables (Multicolor, 2.25 HP)",
-      "image": "https://m.media-amazon.com/images/I/51rlDfywVgL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FY65KTRF?aod=1",
-      "price": 44.8,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 175.0,
-      "list_price": null,
-      "reference_price": 175.0,
-      "discount": 74.4,
-      "first_seen": "2026-11-19T04:38:17Z",
-      "last_checked": "2026-11-19T15:36:09Z"
-    },
-    {
-      "asin": "B09F9V7M2T",
-      "title": "Christmas Natural Pine Cones Bulk Garland Ornaments Pendant for Xmas Tree DIY Craft Fall Thanksgiving Hanging Decoration",
-      "image": "https://m.media-amazon.com/images/I/71S3dvwFDOL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B09F9V7M2T?aod=1",
-      "price": 37.15,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 43.7,
-      "list_price": 144.99,
-      "reference_price": 144.99,
-      "discount": 74.4,
-      "first_seen": "2026-11-19T04:38:21Z",
-      "last_checked": "2026-11-19T15:36:12Z"
-    },
-    {
       "asin": "B0CF9DK8L3",
       "title": "Keendex KX 1180 Mobile Cover Back Stand IPhone 8G / 7G - Black",
       "image": "https://m.media-amazon.com/images/I/61SSV1FI1hL._AC_UL320_.jpg",
       "url": "https://www.amazon.eg/dp/B0CF9DK8L3?aod=1",
-      "price": 24.36,
+      "price": 23.45,
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
       "new_price": 93.0,
       "list_price": null,
       "reference_price": 93.0,
-      "discount": 73.8,
+      "discount": 74.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-19T15:36:14Z"
+      "last_checked": "2026-11-19T22:52:13Z"
+    },
+    {
+      "asin": "B0DBSR9Z6J",
+      "title": "Dream Catcher Mirror Hanging - Multi Color",
+      "image": "https://m.media-amazon.com/images/I/413QyF6bFwL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DBSR9Z6J?aod=1",
+      "price": 37.93,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 149.0,
+      "list_price": null,
+      "reference_price": 149.0,
+      "discount": 74.5,
+      "first_seen": "2026-11-17T04:35:26Z",
+      "last_checked": "2026-11-19T22:52:16Z"
     },
     {
       "asin": "B091CGHJ6W",
@@ -681,7 +665,7 @@
       "reference_price": 276.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T04:35:14Z",
-      "last_checked": "2026-11-19T15:36:03Z"
+      "last_checked": "2026-11-19T22:52:02Z"
     },
     {
       "asin": "B0CQ6ZGNBK",
@@ -697,7 +681,7 @@
       "reference_price": 3589.0,
       "discount": 73.6,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-19T15:36:01Z"
+      "last_checked": "2026-11-19T22:51:58Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -716,22 +700,6 @@
       "last_checked": "2026-11-19T15:37:37Z"
     },
     {
-      "asin": "B0DBSR9Z6J",
-      "title": "Dream Catcher Mirror Hanging - Multi Color",
-      "image": "https://m.media-amazon.com/images/I/413QyF6bFwL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DBSR9Z6J?aod=1",
-      "price": 40.02,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 149.0,
-      "list_price": null,
-      "reference_price": 149.0,
-      "discount": 73.1,
-      "first_seen": "2026-11-17T04:35:26Z",
-      "last_checked": "2026-11-19T15:36:17Z"
-    },
-    {
       "asin": "B08Y96XHX8",
       "title": "Tempered glass screen protector for huawei honor 8X-black5d",
       "image": "https://m.media-amazon.com/images/I/61zorf1MdfL._AC_UL320_.jpg",
@@ -745,7 +713,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-19T15:37:02Z"
+      "last_checked": "2026-11-19T22:52:56Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -761,7 +729,7 @@
       "reference_price": 157.01,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-19T15:37:05Z"
+      "last_checked": "2026-11-19T22:52:59Z"
     },
     {
       "asin": "B0F99P33ZL",
@@ -777,7 +745,7 @@
       "reference_price": 53.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:26Z",
-      "last_checked": "2026-11-19T15:36:21Z"
+      "last_checked": "2026-11-19T22:52:18Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -793,7 +761,7 @@
       "reference_price": 119.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-19T15:36:23Z"
+      "last_checked": "2026-11-19T22:52:22Z"
     },
     {
       "asin": "B0F8C3KKCM",
@@ -825,7 +793,7 @@
       "reference_price": 176.02,
       "discount": 72.6,
       "first_seen": "2026-11-17T04:35:41Z",
-      "last_checked": "2026-11-19T15:36:58Z"
+      "last_checked": "2026-11-19T22:52:52Z"
     },
     {
       "asin": "B0G262S77Z",
@@ -841,7 +809,7 @@
       "reference_price": 437.0,
       "discount": 72.5,
       "first_seen": "2026-11-17T05:34:44Z",
-      "last_checked": "2026-11-19T15:36:29Z"
+      "last_checked": "2026-11-19T22:52:26Z"
     },
     {
       "asin": "B0DPVF59WL",
@@ -889,7 +857,7 @@
       "reference_price": 342.0,
       "discount": 72.0,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-19T15:36:26Z"
+      "last_checked": "2026-11-19T22:52:24Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -905,7 +873,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-19T15:36:32Z"
+      "last_checked": "2026-11-19T22:52:30Z"
     },
     {
       "asin": "B08YNPJKX3",
@@ -921,7 +889,7 @@
       "reference_price": 300.0,
       "discount": 71.8,
       "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-19T15:36:53Z"
+      "last_checked": "2026-11-19T22:52:46Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -937,7 +905,23 @@
       "reference_price": 1029.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-19T15:37:29Z"
+      "last_checked": "2026-11-19T22:51:44Z"
+    },
+    {
+      "asin": "B0DLTQ7B7F",
+      "title": "V VOLT Compatible with iPhone 14 Pro Max Case, Liquid Silicone Case, Full Body Protective Cover, Shockproof, Slim Phone Case, Anti-Scratch Soft Microfiber Lining (Pink)",
+      "image": "https://m.media-amazon.com/images/I/61l-5G5ltkL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DLTQ7B7F?aod=1",
+      "price": 41.0,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 145.0,
+      "list_price": null,
+      "reference_price": 145.0,
+      "discount": 71.7,
+      "first_seen": "2026-11-17T00:29:30Z",
+      "last_checked": "2026-11-19T22:52:40Z"
     },
     {
       "asin": "B0CP87RW7M",
@@ -953,7 +937,7 @@
       "reference_price": 1278.68,
       "discount": 71.6,
       "first_seen": "2026-11-18T05:41:19Z",
-      "last_checked": "2026-11-19T17:58:01Z"
+      "last_checked": "2026-11-19T22:51:47Z"
     },
     {
       "asin": "B0BN44LG9S",
@@ -969,7 +953,7 @@
       "reference_price": 120.0,
       "discount": 71.1,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-19T15:36:38Z"
+      "last_checked": "2026-11-19T22:52:32Z"
     },
     {
       "asin": "B0DJQNPHRW",
@@ -985,7 +969,7 @@
       "reference_price": 2019.0,
       "discount": 71.0,
       "first_seen": "2026-11-17T20:07:40Z",
-      "last_checked": "2026-11-19T15:37:40Z"
+      "last_checked": "2026-11-19T22:51:50Z"
     },
     {
       "asin": "B0F924T6L2",
@@ -1001,7 +985,7 @@
       "reference_price": 322.0,
       "discount": 70.8,
       "first_seen": "2026-11-17T05:35:05Z",
-      "last_checked": "2026-11-19T15:36:56Z"
+      "last_checked": "2026-11-19T22:52:49Z"
     },
     {
       "asin": "B0D5MQ5627",
@@ -1033,7 +1017,7 @@
       "reference_price": 310.0,
       "discount": 70.7,
       "first_seen": "2026-11-19T05:39:54Z",
-      "last_checked": "2026-11-19T15:36:41Z"
+      "last_checked": "2026-11-19T22:52:35Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1049,23 +1033,7 @@
       "reference_price": 258.72,
       "discount": 70.5,
       "first_seen": "2026-11-19T05:39:57Z",
-      "last_checked": "2026-11-19T15:36:44Z"
-    },
-    {
-      "asin": "B0DLTQ7B7F",
-      "title": "V VOLT Compatible with iPhone 14 Pro Max Case, Liquid Silicone Case, Full Body Protective Cover, Shockproof, Slim Phone Case, Anti-Scratch Soft Microfiber Lining (Pink)",
-      "image": "https://m.media-amazon.com/images/I/61l-5G5ltkL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DLTQ7B7F?aod=1",
-      "price": 42.94,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 145.0,
-      "list_price": null,
-      "reference_price": 145.0,
-      "discount": 70.4,
-      "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-19T15:36:46Z"
+      "last_checked": "2026-11-19T22:52:38Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1081,7 +1049,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-19T15:36:49Z"
+      "last_checked": "2026-11-19T22:52:43Z"
     },
     {
       "asin": "B0D8199FKW",
