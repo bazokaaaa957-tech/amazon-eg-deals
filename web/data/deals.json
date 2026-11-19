@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-19T04:40:19Z",
+    "updated_at": "2026-11-19T05:41:08Z",
     "status": "ok",
     "block_reason": null,
-    "last_success_at": "2026-11-19T04:40:19Z",
+    "last_success_at": "2026-11-19T05:41:08Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -12,15 +12,15 @@
     },
     "run": {
       "pages": 20,
-      "products": 890,
-      "candidates": 36,
-      "verified": 36,
-      "new_deals": 4,
-      "expired": 8,
+      "products": 875,
+      "candidates": 11,
+      "verified": 11,
+      "new_deals": 3,
+      "expired": 10,
       "alerts": 0
     },
     "sweep": {
-      "band": 4,
+      "band": 7,
       "bands": 15,
       "completed": 3,
       "last_completed_at": "2026-11-18T16:39:00Z"
@@ -41,7 +41,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-19T04:39:29Z"
+      "last_checked": "2026-11-19T05:39:29Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -57,7 +57,7 @@
       "reference_price": 581.0,
       "discount": 91.8,
       "first_seen": "2026-11-17T00:26:47Z",
-      "last_checked": "2026-11-19T04:37:22Z"
+      "last_checked": "2026-11-19T05:40:58Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -73,7 +73,7 @@
       "reference_price": 713.0,
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
-      "last_checked": "2026-11-19T04:37:24Z"
+      "last_checked": "2026-11-19T05:41:01Z"
     },
     {
       "asin": "B08T7P3J1S",
@@ -105,7 +105,7 @@
       "reference_price": 608.76,
       "discount": 85.4,
       "first_seen": "2026-11-17T04:34:07Z",
-      "last_checked": "2026-11-19T04:37:27Z"
+      "last_checked": "2026-11-19T05:41:03Z"
     },
     {
       "asin": "B00BHHIPU2",
@@ -121,23 +121,7 @@
       "reference_price": 1161.42,
       "discount": 85.0,
       "first_seen": "2026-11-18T02:36:56Z",
-      "last_checked": "2026-11-18T16:40:22Z"
-    },
-    {
-      "asin": "B08Y96XHX8",
-      "title": "Tempered glass screen protector for huawei honor 8X-black5d",
-      "image": "https://m.media-amazon.com/images/I/61zorf1MdfL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B08Y96XHX8?aod=1",
-      "price": 24.26,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 150.0,
-      "list_price": null,
-      "reference_price": 150.0,
-      "discount": 83.8,
-      "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-18T16:39:52Z"
+      "last_checked": "2026-11-19T05:40:52Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -169,7 +153,7 @@
       "reference_price": 195.0,
       "discount": 82.4,
       "first_seen": "2026-11-17T00:27:05Z",
-      "last_checked": "2026-11-19T04:37:30Z"
+      "last_checked": "2026-11-19T05:41:06Z"
     },
     {
       "asin": "B0D56NMF1M",
@@ -201,7 +185,7 @@
       "reference_price": 635.0,
       "discount": 81.1,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-19T04:40:11Z"
+      "last_checked": "2026-11-19T05:39:31Z"
     },
     {
       "asin": "0241583160",
@@ -233,7 +217,7 @@
       "reference_price": 478.0,
       "discount": 80.7,
       "first_seen": "2026-11-19T04:37:34Z",
-      "last_checked": "2026-11-19T04:37:34Z"
+      "last_checked": "2026-11-19T05:41:08Z"
     },
     {
       "asin": "B0FJ2KFK88",
@@ -281,7 +265,7 @@
       "reference_price": 401.28,
       "discount": 78.8,
       "first_seen": "2026-11-17T05:34:38Z",
-      "last_checked": "2026-11-19T04:40:19Z"
+      "last_checked": "2026-11-19T05:39:34Z"
     },
     {
       "asin": "B09232FTX8",
@@ -298,22 +282,6 @@
       "discount": 78.7,
       "first_seen": "2026-11-17T00:27:08Z",
       "last_checked": "2026-11-19T04:37:46Z"
-    },
-    {
-      "asin": "B0CM4XDW4Q",
-      "title": "Next store Compatible with Xiaomi Redmi Watch 3 Watch Band, Silicone Replacement Sport Wristband with Buckle",
-      "image": "https://m.media-amazon.com/images/I/61bb5uIw9mL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CM4XDW4Q?aod=1",
-      "price": 42.68,
-      "condition": "Open Box - Like New",
-      "condition_ar": "علبة مفتوحة - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 199.0,
-      "list_price": null,
-      "reference_price": 199.0,
-      "discount": 78.6,
-      "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-18T16:40:04Z"
     },
     {
       "asin": "B0C4M3D5ZN",
@@ -396,38 +364,6 @@
       "last_checked": "2026-11-19T04:37:52Z"
     },
     {
-      "asin": "B0DJFT654B",
-      "title": "V VOLT Compatible with Huawei Honor Band 4 / Band 5 Smart Watch Band, Durable Strong Silicone Replacement Strap",
-      "image": "https://m.media-amazon.com/images/I/51X7JeU8qcL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DJFT654B?aod=1",
-      "price": 37.44,
-      "condition": "Open Box - Very Good",
-      "condition_ar": "علبة مفتوحة - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 168.75,
-      "list_price": null,
-      "reference_price": 168.75,
-      "discount": 77.8,
-      "first_seen": "2026-11-17T04:35:02Z",
-      "last_checked": "2026-11-18T16:40:10Z"
-    },
-    {
-      "asin": "B091CX7C8K",
-      "title": "Disposable Underarm Shields Pads - 6 Pairs for Short Sleeve and 6 Pairs for Long Sleeve",
-      "image": "https://m.media-amazon.com/images/I/61NiFVdrwDL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B091CX7C8K?aod=1",
-      "price": 22.38,
-      "condition": "Open Box - Very Good",
-      "condition_ar": "علبة مفتوحة - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 98.99,
-      "list_price": null,
-      "reference_price": 98.99,
-      "discount": 77.4,
-      "first_seen": "2026-11-17T00:27:13Z",
-      "last_checked": "2026-11-18T16:40:13Z"
-    },
-    {
       "asin": "B087H1RD62",
       "title": "Sky-Touch Resistance Bands Fabric,Exercise Bands Non Slip Hip Elastic Bands For Hip, Legs, Butt, Glutes And Thighs Workout, Set Of 3 Pack, Assorted Colors",
       "image": "https://m.media-amazon.com/images/I/81X6xra5dwL._AC_UL320_.jpg",
@@ -452,12 +388,12 @@
       "condition": "Used - Acceptable",
       "condition_ar": "مستعمل - مقبول",
       "seller": "Amazon Resale",
-      "new_price": 499.0,
-      "list_price": null,
+      "new_price": 456.11,
+      "list_price": 499.0,
       "reference_price": 499.0,
       "discount": 77.3,
       "first_seen": "2026-11-17T05:34:41Z",
-      "last_checked": "2026-11-18T16:40:24Z"
+      "last_checked": "2026-11-19T05:39:37Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -508,22 +444,6 @@
       "last_checked": "2026-11-19T04:39:52Z"
     },
     {
-      "asin": "B0G262S77Z",
-      "title": "M-Store Super J Hula Hoop Fitting",
-      "image": "https://m.media-amazon.com/images/I/41P4NtMln-L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0G262S77Z?aod=1",
-      "price": 120.3,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 506.76,
-      "list_price": null,
-      "reference_price": 506.76,
-      "discount": 76.3,
-      "first_seen": "2026-11-17T05:34:44Z",
-      "last_checked": "2026-11-18T15:31:42Z"
-    },
-    {
       "asin": "B008DDDFY4",
       "title": "Omada ECOLIVING Jar 0.5 LT - Ivory",
       "image": "https://m.media-amazon.com/images/I/61vxzvx+HaL._AC_UL320_.jpg",
@@ -540,6 +460,22 @@
       "last_checked": "2026-11-19T04:38:01Z"
     },
     {
+      "asin": "B096K9Y8K9",
+      "title": "Gemmac Moon Lamp with Bluetooth Speaker, 5.9 inch 3D Moon Light 16 Colors Dimmable Baby Music Moon Night Light USB Charging Touch Sensor LED Moonlight with Remote Control for Kids Gift Room Decor",
+      "image": "https://m.media-amazon.com/images/I/71-q6biK26S._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B096K9Y8K9?aod=1",
+      "price": 177.79,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 741.54,
+      "list_price": null,
+      "reference_price": 741.54,
+      "discount": 76.0,
+      "first_seen": "2026-11-19T05:39:40Z",
+      "last_checked": "2026-11-19T05:39:40Z"
+    },
+    {
       "asin": "B0C8TQXV4W",
       "title": "UGREEN for iPhone 15 Pro Max 6.7 inch With Easy Install Kit",
       "image": "https://m.media-amazon.com/images/I/710MOUKRYDL._AC_UL320_.jpg",
@@ -553,7 +489,7 @@
       "reference_price": 468.0,
       "discount": 75.9,
       "first_seen": "2026-11-17T05:34:49Z",
-      "last_checked": "2026-11-18T15:31:44Z"
+      "last_checked": "2026-11-19T05:39:43Z"
     },
     {
       "asin": "B09DKG7M9J",
@@ -649,7 +585,7 @@
       "reference_price": 460.0,
       "discount": 74.6,
       "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-18T15:31:56Z"
+      "last_checked": "2026-11-19T05:39:45Z"
     },
     {
       "asin": "B0FY65KTRF",
@@ -682,22 +618,6 @@
       "discount": 74.4,
       "first_seen": "2026-11-19T04:38:21Z",
       "last_checked": "2026-11-19T04:38:21Z"
-    },
-    {
-      "asin": "B0CLYR41RL",
-      "title": "Next store Compatible with Huawei Band 8 Strap, Soft Durable Silicone Replacement Watch Strap Compatible with Huawei Band 8 Watch Band 8 for Men Women",
-      "image": "https://m.media-amazon.com/images/I/71iCnkYfkNL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CLYR41RL?aod=1",
-      "price": 46.61,
-      "condition": "Open Box - Like New",
-      "condition_ar": "علبة مفتوحة - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 179.0,
-      "list_price": null,
-      "reference_price": 179.0,
-      "discount": 74.0,
-      "first_seen": "2026-11-17T00:27:17Z",
-      "last_checked": "2026-11-18T16:40:16Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -745,23 +665,7 @@
       "reference_price": 3589.0,
       "discount": 73.6,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-18T16:39:06Z"
-    },
-    {
-      "asin": "B0FWS4P8TK",
-      "title": "Next Store 18mm Stainless Steel Magnetic Metal Smart Watch Band | Compatible with Huawei Watch gt4 41mm & gt5 41mm & gt6 41mm Stylish Adjustable Replacement Strap Durable Comfortable",
-      "image": "https://m.media-amazon.com/images/I/61Uaa6BxmeL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FWS4P8TK?aod=1",
-      "price": 67.42,
-      "condition": "Open Box - Like New",
-      "condition_ar": "علبة مفتوحة - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 254.86,
-      "list_price": null,
-      "reference_price": 254.86,
-      "discount": 73.5,
-      "first_seen": "2026-11-17T04:35:44Z",
-      "last_checked": "2026-11-18T15:32:00Z"
+      "last_checked": "2026-11-19T05:40:09Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -777,7 +681,7 @@
       "reference_price": 2591.0,
       "discount": 73.3,
       "first_seen": "2026-11-17T20:07:38Z",
-      "last_checked": "2026-11-18T16:39:09Z"
+      "last_checked": "2026-11-19T05:40:12Z"
     },
     {
       "asin": "B0DBSR9Z6J",
@@ -794,6 +698,38 @@
       "discount": 73.1,
       "first_seen": "2026-11-17T04:35:26Z",
       "last_checked": "2026-11-19T04:38:26Z"
+    },
+    {
+      "asin": "B08Y96XHX8",
+      "title": "Tempered glass screen protector for huawei honor 8X-black5d",
+      "image": "https://m.media-amazon.com/images/I/61zorf1MdfL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B08Y96XHX8?aod=1",
+      "price": 24.26,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 89.09,
+      "list_price": null,
+      "reference_price": 89.09,
+      "discount": 72.8,
+      "first_seen": "2026-11-17T00:26:52Z",
+      "last_checked": "2026-11-19T05:40:39Z"
+    },
+    {
+      "asin": "B0CM4XDW4Q",
+      "title": "Next store Compatible with Xiaomi Redmi Watch 3 Watch Band, Silicone Replacement Sport Wristband with Buckle",
+      "image": "https://m.media-amazon.com/images/I/61bb5uIw9mL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CM4XDW4Q?aod=1",
+      "price": 42.68,
+      "condition": "Open Box - Like New",
+      "condition_ar": "علبة مفتوحة - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 157.01,
+      "list_price": null,
+      "reference_price": 157.01,
+      "discount": 72.8,
+      "first_seen": "2026-11-17T00:27:10Z",
+      "last_checked": "2026-11-19T05:40:41Z"
     },
     {
       "asin": "B0F99P33ZL",
@@ -852,60 +788,28 @@
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
-      "new_price": 149.99,
+      "new_price": 154.11,
       "list_price": 176.02,
       "reference_price": 176.02,
       "discount": 72.6,
       "first_seen": "2026-11-17T04:35:41Z",
-      "last_checked": "2026-11-18T16:39:44Z"
+      "last_checked": "2026-11-19T05:40:36Z"
     },
     {
-      "asin": "B09FZYP7DV",
-      "title": "Elevate Your Apple Watch with our Luxury Apple Watch Frame for Men -Premium Design and Protection for Your Device - Hard Watch Case Compatible With Apple Watch-Apple Watch Ultra Case (Silver, 44mm)",
-      "image": "https://m.media-amazon.com/images/I/512GV4mTWsL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B09FZYP7DV?aod=1",
-      "price": 82.3,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
+      "asin": "B0G262S77Z",
+      "title": "M-Store Super J Hula Hoop Fitting",
+      "image": "https://m.media-amazon.com/images/I/41P4NtMln-L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0G262S77Z?aod=1",
+      "price": 120.3,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
-      "new_price": 295.89,
+      "new_price": 437.0,
       "list_price": null,
-      "reference_price": 295.89,
-      "discount": 72.2,
-      "first_seen": "2026-11-17T05:34:55Z",
-      "last_checked": "2026-11-18T15:32:08Z"
-    },
-    {
-      "asin": "B0D5MHJND8",
-      "title": "Next Store Compatible with iPhone 14 Pro Case, Support Wireless Charging, Military-Grade Protection, Non-Yellowing, Scratch Resistant Back, Magnetic Phone Case, Classic Series, Clear",
-      "image": "https://m.media-amazon.com/images/I/61GmZqhkJvL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0D5MHJND8?aod=1",
-      "price": 52.23,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 187.31,
-      "list_price": null,
-      "reference_price": 187.31,
-      "discount": 72.1,
-      "first_seen": "2026-11-17T04:35:50Z",
-      "last_checked": "2026-11-18T15:32:12Z"
-    },
-    {
-      "asin": "B0DHDDZ8ZT",
-      "title": "Next Store Silicone Case Compatible with iPhone 15 Pro Max - Perfect Protection and Stylish Design, Compatible with Wireless Charging, Protects Against Bumps and Scratches (Maroon)",
-      "image": "https://m.media-amazon.com/images/I/612avzGTsBL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DHDDZ8ZT?aod=1",
-      "price": 54.51,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 194.94,
-      "list_price": null,
-      "reference_price": 194.94,
-      "discount": 72.0,
-      "first_seen": "2026-11-17T04:35:53Z",
-      "last_checked": "2026-11-18T16:39:22Z"
+      "reference_price": 437.0,
+      "discount": 72.5,
+      "first_seen": "2026-11-17T05:34:44Z",
+      "last_checked": "2026-11-19T05:39:48Z"
     },
     {
       "asin": "B0DPVF59WL",
@@ -937,7 +841,7 @@
       "reference_price": 599.0,
       "discount": 72.0,
       "first_seen": "2026-11-17T14:24:56Z",
-      "last_checked": "2026-11-18T16:40:27Z"
+      "last_checked": "2026-11-19T05:39:51Z"
     },
     {
       "asin": "B091BSGSRJ",
@@ -985,7 +889,7 @@
       "reference_price": 300.0,
       "discount": 71.8,
       "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-18T16:39:25Z"
+      "last_checked": "2026-11-19T05:40:28Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -1020,22 +924,6 @@
       "last_checked": "2026-11-19T04:40:00Z"
     },
     {
-      "asin": "B0F4RLYTNR",
-      "title": "QSHOP 1 Piece Premium Swim Ring for Swimming Water Relaxation Water Sports with Floating Power and Strong Support to Ensure Safety and Maximum Fun, Suitable for Kids and Adults (Random Color)",
-      "image": "https://m.media-amazon.com/images/I/61Ko-+S8z4L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0F4RLYTNR?aod=1",
-      "price": 54.18,
-      "condition": "Used - Acceptable",
-      "condition_ar": "مستعمل - مقبول",
-      "seller": "Amazon Resale",
-      "new_price": 187.5,
-      "list_price": null,
-      "reference_price": 187.5,
-      "discount": 71.1,
-      "first_seen": "2026-11-17T05:35:11Z",
-      "last_checked": "2026-11-18T16:39:28Z"
-    },
-    {
       "asin": "B0BN44LG9S",
       "title": "Isomars 1875 - Sanitary drawing template - ISO Mars model",
       "image": "https://m.media-amazon.com/images/I/718xPENGMCL._AC_UL320_.jpg",
@@ -1065,7 +953,7 @@
       "reference_price": 2019.0,
       "discount": 71.0,
       "first_seen": "2026-11-17T20:07:40Z",
-      "last_checked": "2026-11-18T16:39:13Z"
+      "last_checked": "2026-11-19T05:40:16Z"
     },
     {
       "asin": "B09P4FFDCH",
@@ -1097,7 +985,7 @@
       "reference_price": 322.0,
       "discount": 70.8,
       "first_seen": "2026-11-17T05:35:05Z",
-      "last_checked": "2026-11-18T16:39:32Z"
+      "last_checked": "2026-11-19T05:40:33Z"
     },
     {
       "asin": "B0D5MQ5627",
@@ -1113,7 +1001,39 @@
       "reference_price": 2569.0,
       "discount": 70.7,
       "first_seen": "2026-11-17T20:07:42Z",
-      "last_checked": "2026-11-18T16:39:15Z"
+      "last_checked": "2026-11-19T05:40:18Z"
+    },
+    {
+      "asin": "B091BVQ91K",
+      "title": "Children's cartoon wall stickers solar wall stickers children's room background decorative wall stickers",
+      "image": "https://m.media-amazon.com/images/I/619hMk5mk3L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B091BVQ91K?aod=1",
+      "price": 90.84,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 310.0,
+      "list_price": null,
+      "reference_price": 310.0,
+      "discount": 70.7,
+      "first_seen": "2026-11-19T05:39:54Z",
+      "last_checked": "2026-11-19T05:39:54Z"
+    },
+    {
+      "asin": "B0DGDT46N6",
+      "title": "Premium Kitchen Towels Resistant Cloth, Washable Reusable Large Wipes, Magic Cleaning Wipes High Efficiency Oil-Proof Waterproof (Box of 10)",
+      "image": "https://m.media-amazon.com/images/I/81bXjPpsjML._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DGDT46N6?aod=1",
+      "price": 76.45,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 258.72,
+      "list_price": null,
+      "reference_price": 258.72,
+      "discount": 70.5,
+      "first_seen": "2026-11-19T05:39:57Z",
+      "last_checked": "2026-11-19T05:39:57Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1132,22 +1052,6 @@
       "last_checked": "2026-11-19T04:38:52Z"
     },
     {
-      "asin": "B000R9T0KU",
-      "title": "Villeroy & Boch NewWave Bread and Butter Plate, 15 x 13 cm, Premium Porcelain, White",
-      "image": "https://m.media-amazon.com/images/I/31dkN7cSZ0L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B000R9T0KU?aod=1",
-      "price": 541.57,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 1829.09,
-      "list_price": null,
-      "reference_price": 1829.09,
-      "discount": 70.4,
-      "first_seen": "2026-11-17T20:07:45Z",
-      "last_checked": "2026-11-18T16:39:19Z"
-    },
-    {
       "asin": "B0DJN4BN12",
       "title": "Next Store Compatible with Samsung Galaxy Watch 7 40mm Case Hard PC Edge with Tempered Glass Cover Shockproof Anti-Scratch - Men and Women (Clear)",
       "image": "https://m.media-amazon.com/images/I/714KOmNgMeL._AC_UL320_.jpg",
@@ -1162,22 +1066,6 @@
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
       "last_checked": "2026-11-19T04:38:56Z"
-    },
-    {
-      "asin": "B07W554911",
-      "title": "Portable Mini Sewing Machine - Handheld Electric Quick Handy Stitch Tool for Fabric, Clothing, Kids Cloth - Home and Travel Use",
-      "image": "https://m.media-amazon.com/images/I/61BBSrMGqkL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B07W554911?aod=1",
-      "price": 115.37,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 389.0,
-      "list_price": null,
-      "reference_price": 389.0,
-      "discount": 70.3,
-      "first_seen": "2026-11-17T05:35:21Z",
-      "last_checked": "2026-11-18T16:40:30Z"
     },
     {
       "asin": "B0D8199FKW",
