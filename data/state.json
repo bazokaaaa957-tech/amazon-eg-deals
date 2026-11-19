@@ -1,39 +1,11 @@
 {
   "cursor": {
-    "band": 5,
+    "band": 8,
     "page": 5
   },
-  "queue": [
-    {
-      "asin": "B0D8199FKW",
-      "title": "Fresh Lemon Cup With Straw 0,7L",
-      "image": "https://m.media-amazon.com/images/I/41SRhPCMhZL._AC_UL320_.jpg",
-      "main_price": 285.0,
-      "list_price": null,
-      "secondary_price": 84.72,
-      "prelim_discount": 70.3
-    },
-    {
-      "asin": "B0BDLXDKBQ",
-      "title": "Yrzper Compatible with Apple Watch Ultra 49mm Hard PC Case Cover Resistant Impact Shockproof Protective All-Around Edge Protective PC Hard Bumper Cover Face for Apple Watch Ultra 49mm (Star Color)",
-      "image": "https://m.media-amazon.com/images/I/71WfJQcwSuL._AC_UL320_.jpg",
-      "main_price": 245.0,
-      "list_price": null,
-      "secondary_price": 72.9,
-      "prelim_discount": 70.2
-    },
-    {
-      "asin": "B0DF68NMF8",
-      "title": "360 Degree Z0IAG1UYXC MIQISA Volley Ball, Multicolor",
-      "image": "https://m.media-amazon.com/images/I/51uIqSV2-4L._AC_UL320_.jpg",
-      "main_price": 247.0,
-      "list_price": 285.2,
-      "secondary_price": 84.86,
-      "prelim_discount": 70.2
-    }
-  ],
+  "queue": [],
   "notified": {},
   "sweeps_completed": 4,
-  "blocked_streak": 1,
+  "blocked_streak": 0,
   "last_sweep_completed_at": "2026-11-19T14:34:24Z"
 }
