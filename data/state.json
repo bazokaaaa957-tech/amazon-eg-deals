@@ -1,205 +1,16 @@
 {
   "cursor": {
-    "band": 2,
-    "page": 6
+    "band": 5,
+    "page": 5
   },
   "queue": [
     {
-      "asin": "B0DJK1SLCR",
-      "title": "Next Store Silicone Headphone Case Compatible with Oraimo FreePods Lite OTW 330, with Built-in Keychain Strap, Full Protection, Attractive Design, Perfect for Daily Use (Black)",
-      "image": "https://m.media-amazon.com/images/I/31HuoNUC5uL._AC_UL320_.jpg",
-      "main_price": 581.0,
+      "asin": "B0D8199FKW",
+      "title": "Fresh Lemon Cup With Straw 0,7L",
+      "image": "https://m.media-amazon.com/images/I/41SRhPCMhZL._AC_UL320_.jpg",
+      "main_price": 285.0,
       "list_price": null,
-      "secondary_price": 47.73,
-      "prelim_discount": 91.8
-    },
-    {
-      "asin": "B0BLN5VD8W",
-      "title": "DE-XM-HM-TPU-zuhe",
-      "image": "https://m.media-amazon.com/images/I/51PXhijoQNL._AC_UL320_.jpg",
-      "main_price": 220.0,
-      "list_price": null,
-      "secondary_price": 20.75,
-      "prelim_discount": 90.6
-    },
-    {
-      "asin": "1405328576",
-      "title": "Indiana Jones Heroes and Villains Sticker Book",
-      "image": "https://m.media-amazon.com/images/I/61IpQKmMaXL._AC_UL320_.jpg",
-      "main_price": 175.5,
-      "list_price": 195.0,
-      "secondary_price": 34.34,
-      "prelim_discount": 82.4
-    },
-    {
-      "asin": "B0FJ2KFK88",
-      "title": "Next Store Number Birthday Candle – Elegant Design Birthday Cake Decorating Wax – Perfect for All Ages and Occasions (0)",
-      "image": "https://m.media-amazon.com/images/I/51sbufYOQ9L._AC_UL320_.jpg",
-      "main_price": 78.87,
-      "list_price": 99.0,
-      "secondary_price": 19.54,
-      "prelim_discount": 80.3
-    },
-    {
-      "asin": "B0DJFVH12D",
-      "title": "V VOLT Compatible with Huawei Band 7 Mesh Stainless Steel Magnetic Clasp Replacement Watch Band",
-      "image": "https://m.media-amazon.com/images/I/51ViEmSoSEL._AC_UL320_.jpg",
-      "main_price": 270.0,
-      "list_price": null,
-      "secondary_price": 54.26,
-      "prelim_discount": 79.9
-    },
-    {
-      "asin": "B09232FTX8",
-      "title": "Huawei Watch Fit - Soft Silicone Replacement Strap - Red",
-      "image": "https://m.media-amazon.com/images/I/51JsCkA9LCL._AC_UL320_.jpg",
-      "main_price": 119.0,
-      "list_price": null,
-      "secondary_price": 25.4,
-      "prelim_discount": 78.7
-    },
-    {
-      "asin": "B0B4WKS1YM",
-      "title": "فوطه مطبخ قطن 5 قطعه من الياسين 30 * 30 سم - متعدد الالوان",
-      "image": "https://m.media-amazon.com/images/I/61LJk452P6L._AC_UL320_.jpg",
-      "main_price": 230.49,
-      "list_price": null,
-      "secondary_price": 49.84,
-      "prelim_discount": 78.4
-    },
-    {
-      "asin": "B091JHW2MJ",
-      "title": "ProPlus Glass Screen Protector 3D For Iphone 8 White",
-      "image": "https://m.media-amazon.com/images/I/51YRJSuWsbL._AC_UL320_.jpg",
-      "main_price": 150.0,
-      "list_price": null,
-      "secondary_price": 36.9,
-      "prelim_discount": 75.4
-    },
-    {
-      "asin": "B0D11N23QH",
-      "title": "Next store Compatible with Apple Watch Band 45mm 42mm 44mm 49mm Women Men, Silicone Wavy Sport Wristbands Compatible with iWatch Ultra Series 8/7/6/5/4/3/2/1 SE,",
-      "image": "https://m.media-amazon.com/images/I/61OB54uE6AL._AC_UL320_.jpg",
-      "main_price": 184.68,
-      "list_price": null,
-      "secondary_price": 45.59,
-      "prelim_discount": 75.3
-    },
-    {
-      "asin": "B0B7FD4MFH",
-      "title": "Adapter 6V 1A",
-      "image": "https://m.media-amazon.com/images/I/51z6rkZM4VL._AC_UL320_.jpg",
-      "main_price": 267.0,
-      "list_price": null,
-      "secondary_price": 66.75,
-      "prelim_discount": 75.0
-    },
-    {
-      "asin": "B0CQ6ZGNBK",
-      "title": "car Cover 2 Layers for Suzuki Swift GL plus Hatchback 2017five years warranty 35561",
-      "image": "https://m.media-amazon.com/images/I/51vYbeZAqhL._AC_UL320_.jpg",
-      "main_price": 3738.31,
-      "list_price": null,
-      "secondary_price": 946.92,
-      "prelim_discount": 74.7
-    },
-    {
-      "asin": "B0FY65KTRF",
-      "title": "Air Conditioner Cover, Wall Mounted Type, Indoor Air Conditioner Cover, Sunscreen, Waterproof Indoor Unit Cover, Air Conditioner Cables (Multicolor, 2.25 HP)",
-      "image": "https://m.media-amazon.com/images/I/51rlDfywVgL._AC_UL320_.jpg",
-      "main_price": 175.0,
-      "list_price": null,
-      "secondary_price": 44.8,
-      "prelim_discount": 74.4
-    },
-    {
-      "asin": "B09F9V7M2T",
-      "title": "Christmas Natural Pine Cones Bulk Garland Ornaments Pendant for Xmas Tree DIY Craft Fall Thanksgiving Hanging Decoration",
-      "image": "https://m.media-amazon.com/images/I/71S3dvwFDOL._AC_UL320_.jpg",
-      "main_price": 43.7,
-      "list_price": 144.99,
-      "secondary_price": 37.15,
-      "prelim_discount": 74.4
-    },
-    {
-      "asin": "B0CF9DK8L3",
-      "title": "Keendex KX 1180 Mobile Cover Back Stand IPhone 8G / 7G - Black",
-      "image": "https://m.media-amazon.com/images/I/61SSV1FI1hL._AC_UL320_.jpg",
-      "main_price": 93.0,
-      "list_price": null,
-      "secondary_price": 24.36,
-      "prelim_discount": 73.8
-    },
-    {
-      "asin": "B0DBSR9Z6J",
-      "title": "Dream Catcher Mirror Hanging - Multi Color",
-      "image": "https://m.media-amazon.com/images/I/413QyF6bFwL._AC_UL320_.jpg",
-      "main_price": 149.0,
-      "list_price": null,
-      "secondary_price": 40.02,
-      "prelim_discount": 73.1
-    },
-    {
-      "asin": "B0F99P33ZL",
-      "title": "Tempered Glass Screen Protector, 9H Hardness, Full Coverage, Ultra Clear, Bubble Free Easy Installation, High Touch Sensitivity Compatible with samsung galaxy a6 2018 Set Of 2 Pieces - clear",
-      "image": "https://m.media-amazon.com/images/I/51U+wnFFz0L._AC_UL320_.jpg",
-      "main_price": 53.0,
-      "list_price": null,
-      "secondary_price": 14.39,
-      "prelim_discount": 72.8
-    },
-    {
-      "asin": "B0F2K1SFWM",
-      "title": "C.F.S Silicone Back Phone Protection Cover For Apple iPhone 13 Pro Max - 6.7 inch - Clear - CFSBAT4-687 | Durable Phone Case | Shockproof & Stylish Cover",
-      "image": "https://m.media-amazon.com/images/I/317kylB-3SL._AC_UL320_.jpg",
-      "main_price": 119.0,
-      "list_price": null,
-      "secondary_price": 32.33,
-      "prelim_discount": 72.8
-    },
-    {
-      "asin": "B0FJGXWS2T",
-      "title": "Silicone Case High Quality Padded Inside With Camera Protection For Oppo A5X (Navy)",
-      "image": "https://m.media-amazon.com/images/I/61FtGfddyZL._AC_UL320_.jpg",
-      "main_price": 95.0,
-      "list_price": null,
-      "secondary_price": 26.67,
-      "prelim_discount": 71.9
-    },
-    {
-      "asin": "B096L529WR",
-      "title": "Silla transparent water cup - 10 pieces",
-      "image": "https://m.media-amazon.com/images/I/61RPUUPLrmS._AC_UL320_.jpg",
-      "main_price": 19.41,
-      "list_price": null,
-      "secondary_price": 5.51,
-      "prelim_discount": 71.6
-    },
-    {
-      "asin": "B0BN44LG9S",
-      "title": "Isomars 1875 - Sanitary drawing template - ISO Mars model",
-      "image": "https://m.media-amazon.com/images/I/718xPENGMCL._AC_UL320_.jpg",
-      "main_price": 120.0,
-      "list_price": null,
-      "secondary_price": 34.73,
-      "prelim_discount": 71.1
-    },
-    {
-      "asin": "B0DLTQ7B7F",
-      "title": "V VOLT Compatible with iPhone 14 Pro Max Case, Liquid Silicone Case, Full Body Protective Cover, Shockproof, Slim Phone Case, Anti-Scratch Soft Microfiber Lining (Pink)",
-      "image": "https://m.media-amazon.com/images/I/61l-5G5ltkL._AC_UL320_.jpg",
-      "main_price": 145.0,
-      "list_price": null,
-      "secondary_price": 42.94,
-      "prelim_discount": 70.4
-    },
-    {
-      "asin": "B0DJN4BN12",
-      "title": "Next Store Compatible with Samsung Galaxy Watch 7 40mm Case Hard PC Edge with Tempered Glass Cover Shockproof Anti-Scratch - Men and Women (Clear)",
-      "image": "https://m.media-amazon.com/images/I/714KOmNgMeL._AC_UL320_.jpg",
-      "main_price": 151.88,
-      "list_price": null,
-      "secondary_price": 45.12,
+      "secondary_price": 84.72,
       "prelim_discount": 70.3
     },
     {
@@ -210,10 +21,19 @@
       "list_price": null,
       "secondary_price": 72.9,
       "prelim_discount": 70.2
+    },
+    {
+      "asin": "B0DF68NMF8",
+      "title": "360 Degree Z0IAG1UYXC MIQISA Volley Ball, Multicolor",
+      "image": "https://m.media-amazon.com/images/I/51uIqSV2-4L._AC_UL320_.jpg",
+      "main_price": 247.0,
+      "list_price": 285.2,
+      "secondary_price": 84.86,
+      "prelim_discount": 70.2
     }
   ],
   "notified": {},
   "sweeps_completed": 4,
-  "blocked_streak": 2,
+  "blocked_streak": 0,
   "last_sweep_completed_at": "2026-11-19T14:34:24Z"
 }
