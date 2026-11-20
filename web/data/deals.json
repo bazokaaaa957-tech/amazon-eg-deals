@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-19T23:45:29Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-19T22:53:02Z",
+    "updated_at": "2026-11-20T01:06:37Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-20T01:06:37Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,22 +11,38 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 889,
+      "candidates": 17,
+      "verified": 17,
+      "new_deals": 4,
+      "expired": 2,
       "alerts": 0
     },
     "sweep": {
-      "band": 13,
+      "band": 2,
       "bands": 15,
-      "completed": 4,
-      "last_completed_at": "2026-11-19T14:34:24Z"
+      "completed": 5,
+      "last_completed_at": "2026-11-20T01:04:15Z"
     }
   },
   "deals": [
+    {
+      "asin": "B01N0EHTTX",
+      "title": "Feather Flamingo S - Women Face and body Razor – 3 pcs, Gentle Japanese Blades for Sensitive Skin",
+      "image": "https://m.media-amazon.com/images/I/71eKAJdPanL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B01N0EHTTX?aod=1",
+      "price": 14.25,
+      "condition": "Open Box - Good",
+      "condition_ar": "علبة مفتوحة - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 390.0,
+      "list_price": null,
+      "reference_price": 390.0,
+      "discount": 96.3,
+      "first_seen": "2026-11-20T01:04:37Z",
+      "last_checked": "2026-11-20T01:04:37Z"
+    },
     {
       "asin": "0008312834",
       "title": "The 5 AM Club: Own Your Morning. Elevate Your Life.",
@@ -41,14 +57,14 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-19T17:58:11Z"
+      "last_checked": "2026-11-20T01:06:15Z"
     },
     {
       "asin": "B0DJK1SLCR",
       "title": "Next Store Silicone Headphone Case Compatible with Oraimo FreePods Lite OTW 330, with Built-in Keychain Strap, Full Protection, Attractive Design, Perfect for Daily Use (Black)",
       "image": "https://m.media-amazon.com/images/I/31HuoNUC5uL._AC_UL320_.jpg",
       "url": "https://www.amazon.eg/dp/B0DJK1SLCR?aod=1",
-      "price": 47.73,
+      "price": 47.6,
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
@@ -57,7 +73,7 @@
       "reference_price": 581.0,
       "discount": 91.8,
       "first_seen": "2026-11-17T00:26:47Z",
-      "last_checked": "2026-11-19T17:58:14Z"
+      "last_checked": "2026-11-20T01:06:18Z"
     },
     {
       "asin": "B0BLN5VD8W",
@@ -73,7 +89,7 @@
       "reference_price": 220.0,
       "discount": 90.6,
       "first_seen": "2026-11-19T15:35:03Z",
-      "last_checked": "2026-11-19T17:58:18Z"
+      "last_checked": "2026-11-20T01:04:40Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -121,23 +137,7 @@
       "reference_price": 608.76,
       "discount": 85.4,
       "first_seen": "2026-11-17T04:34:07Z",
-      "last_checked": "2026-11-19T17:58:21Z"
-    },
-    {
-      "asin": "B00BHHIPU2",
-      "title": "Bosch Fuel Filter F026402017",
-      "image": "https://m.media-amazon.com/images/I/41kOzuc8orL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B00BHHIPU2?aod=1",
-      "price": 173.88,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 1161.42,
-      "list_price": null,
-      "reference_price": 1161.42,
-      "discount": 85.0,
-      "first_seen": "2026-11-18T02:36:56Z",
-      "last_checked": "2026-11-19T15:37:14Z"
+      "last_checked": "2026-11-20T01:06:21Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -153,7 +153,7 @@
       "reference_price": 361.0,
       "discount": 83.0,
       "first_seen": "2026-11-17T04:34:21Z",
-      "last_checked": "2026-11-19T17:58:04Z"
+      "last_checked": "2026-11-20T01:06:09Z"
     },
     {
       "asin": "1405328576",
@@ -169,7 +169,7 @@
       "reference_price": 195.0,
       "discount": 82.4,
       "first_seen": "2026-11-17T00:27:05Z",
-      "last_checked": "2026-11-19T17:58:24Z"
+      "last_checked": "2026-11-20T01:04:45Z"
     },
     {
       "asin": "B0D56NMF1M",
@@ -201,7 +201,7 @@
       "reference_price": 635.0,
       "discount": 81.1,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-19T17:58:27Z"
+      "last_checked": "2026-11-20T01:06:24Z"
     },
     {
       "asin": "0241583160",
@@ -217,7 +217,7 @@
       "reference_price": 1382.0,
       "discount": 80.9,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-19T17:57:32Z"
+      "last_checked": "2026-11-20T01:05:39Z"
     },
     {
       "asin": "B0BX9NX3H2",
@@ -233,7 +233,23 @@
       "reference_price": 478.0,
       "discount": 80.7,
       "first_seen": "2026-11-19T04:37:34Z",
-      "last_checked": "2026-11-19T17:58:30Z"
+      "last_checked": "2026-11-20T01:06:27Z"
+    },
+    {
+      "asin": "B0922ZQF1D",
+      "title": "Generic Ramadan Metal Lantern - Black, 22cm",
+      "image": "https://m.media-amazon.com/images/I/61-fe3z3fkL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0922ZQF1D?aod=1",
+      "price": 48.47,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 250.0,
+      "list_price": null,
+      "reference_price": 250.0,
+      "discount": 80.6,
+      "first_seen": "2026-11-20T01:04:43Z",
+      "last_checked": "2026-11-20T01:04:43Z"
     },
     {
       "asin": "B0FJ2KFK88",
@@ -249,7 +265,7 @@
       "reference_price": 99.0,
       "discount": 80.3,
       "first_seen": "2026-11-17T00:26:58Z",
-      "last_checked": "2026-11-19T17:58:33Z"
+      "last_checked": "2026-11-20T01:04:48Z"
     },
     {
       "asin": "B0B9P24XQX",
@@ -265,7 +281,7 @@
       "reference_price": 252.0,
       "discount": 79.8,
       "first_seen": "2026-11-17T04:34:44Z",
-      "last_checked": "2026-11-19T17:58:39Z"
+      "last_checked": "2026-11-20T01:06:34Z"
     },
     {
       "asin": "B0FVWKL973",
@@ -281,7 +297,7 @@
       "reference_price": 401.28,
       "discount": 78.8,
       "first_seen": "2026-11-17T05:34:38Z",
-      "last_checked": "2026-11-19T17:58:42Z"
+      "last_checked": "2026-11-20T01:06:37Z"
     },
     {
       "asin": "B09232FTX8",
@@ -297,7 +313,7 @@
       "reference_price": 119.0,
       "discount": 78.7,
       "first_seen": "2026-11-17T00:27:08Z",
-      "last_checked": "2026-11-19T17:58:45Z"
+      "last_checked": "2026-11-20T01:04:51Z"
     },
     {
       "asin": "B0C4M3D5ZN",
@@ -313,7 +329,7 @@
       "reference_price": 1250.0,
       "discount": 78.5,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-19T17:57:55Z"
+      "last_checked": "2026-11-20T01:06:04Z"
     },
     {
       "asin": "B0B4WKS1YM",
@@ -345,7 +361,7 @@
       "reference_price": 250.0,
       "discount": 78.3,
       "first_seen": "2026-11-17T04:34:33Z",
-      "last_checked": "2026-11-19T17:58:36Z"
+      "last_checked": "2026-11-20T01:06:30Z"
     },
     {
       "asin": "B0001AU7SO",
@@ -361,7 +377,7 @@
       "reference_price": 1800.0,
       "discount": 78.2,
       "first_seen": "2026-11-17T20:07:34Z",
-      "last_checked": "2026-11-19T17:57:57Z"
+      "last_checked": "2026-11-20T01:06:06Z"
     },
     {
       "asin": "B09JL9VX3V",
@@ -441,7 +457,7 @@
       "reference_price": 308.01,
       "discount": 76.7,
       "first_seen": "2026-11-17T22:57:07Z",
-      "last_checked": "2026-11-19T15:37:58Z"
+      "last_checked": "2026-11-20T01:05:32Z"
     },
     {
       "asin": "B0FR3J4YQ5",
@@ -492,22 +508,6 @@
       "last_checked": "2026-11-19T17:59:03Z"
     },
     {
-      "asin": "B096K9Y8K9",
-      "title": "Gemmac Moon Lamp with Bluetooth Speaker, 5.9 inch 3D Moon Light 16 Colors Dimmable Baby Music Moon Night Light USB Charging Touch Sensor LED Moonlight with Remote Control for Kids Gift Room Decor",
-      "image": "https://m.media-amazon.com/images/I/71-q6biK26S._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B096K9Y8K9?aod=1",
-      "price": 177.79,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
-      "seller": "Amazon Resale",
-      "new_price": 741.54,
-      "list_price": null,
-      "reference_price": 741.54,
-      "discount": 76.0,
-      "first_seen": "2026-11-19T05:39:40Z",
-      "last_checked": "2026-11-19T17:57:34Z"
-    },
-    {
       "asin": "B0C8TQXV4W",
       "title": "UGREEN for iPhone 15 Pro Max 6.7 inch With Easy Install Kit",
       "image": "https://m.media-amazon.com/images/I/710MOUKRYDL._AC_UL320_.jpg",
@@ -537,7 +537,7 @@
       "reference_price": 680.0,
       "discount": 75.8,
       "first_seen": "2026-11-17T14:24:47Z",
-      "last_checked": "2026-11-19T17:57:38Z"
+      "last_checked": "2026-11-20T01:05:46Z"
     },
     {
       "asin": "B0FR3D5N69",
@@ -617,7 +617,7 @@
       "reference_price": 210.66,
       "discount": 75.1,
       "first_seen": "2026-11-17T04:34:31Z",
-      "last_checked": "2026-11-19T17:58:08Z"
+      "last_checked": "2026-11-20T01:06:11Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -633,7 +633,7 @@
       "reference_price": 93.0,
       "discount": 74.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-19T22:52:13Z"
+      "last_checked": "2026-11-20T01:04:53Z"
     },
     {
       "asin": "B0DBSR9Z6J",
@@ -681,7 +681,7 @@
       "reference_price": 3589.0,
       "discount": 73.6,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-19T22:51:58Z"
+      "last_checked": "2026-11-20T01:04:56Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -697,7 +697,23 @@
       "reference_price": 2591.0,
       "discount": 73.3,
       "first_seen": "2026-11-17T20:07:38Z",
-      "last_checked": "2026-11-19T15:37:37Z"
+      "last_checked": "2026-11-20T01:04:59Z"
+    },
+    {
+      "asin": "B0BRSDKFJS",
+      "title": "Sinoacc Charging Cable Compatible with Google Pixel Watch Charger 100 cm / 3.3 ft USB Type C Smartwatch Accessory for Google Pixel Watch - White",
+      "image": "https://m.media-amazon.com/images/I/51ChQrU0egL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0BRSDKFJS?aod=1",
+      "price": 49.35,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 182.0,
+      "list_price": null,
+      "reference_price": 182.0,
+      "discount": 72.9,
+      "first_seen": "2026-11-20T01:05:01Z",
+      "last_checked": "2026-11-20T01:05:01Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -713,7 +729,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-19T22:52:56Z"
+      "last_checked": "2026-11-20T01:05:04Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -745,7 +761,7 @@
       "reference_price": 53.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:26Z",
-      "last_checked": "2026-11-19T22:52:18Z"
+      "last_checked": "2026-11-20T01:05:08Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -777,7 +793,7 @@
       "reference_price": 230.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T22:58:04Z",
-      "last_checked": "2026-11-19T15:38:00Z"
+      "last_checked": "2026-11-20T01:05:35Z"
     },
     {
       "asin": "B0CVH9S847",
@@ -825,7 +841,7 @@
       "reference_price": 125.0,
       "discount": 72.0,
       "first_seen": "2026-11-17T05:35:08Z",
-      "last_checked": "2026-11-19T15:37:35Z"
+      "last_checked": "2026-11-20T01:05:27Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -841,7 +857,7 @@
       "reference_price": 599.0,
       "discount": 72.0,
       "first_seen": "2026-11-17T14:24:56Z",
-      "last_checked": "2026-11-19T17:57:40Z"
+      "last_checked": "2026-11-20T01:05:49Z"
     },
     {
       "asin": "B091BSGSRJ",
@@ -873,7 +889,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-19T22:52:30Z"
+      "last_checked": "2026-11-20T01:05:10Z"
     },
     {
       "asin": "B08YNPJKX3",
@@ -922,6 +938,22 @@
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
       "last_checked": "2026-11-19T22:52:40Z"
+    },
+    {
+      "asin": "B0DKD7LK7S",
+      "title": "Portal Elegant Glass Cup for Serving Juices and Iced Coffee Made of Premium Thermal Glass Material",
+      "image": "https://m.media-amazon.com/images/I/41iNphUb9CL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DKD7LK7S?aod=1",
+      "price": 34.36,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 38.18,
+      "list_price": 121.42,
+      "reference_price": 121.42,
+      "discount": 71.7,
+      "first_seen": "2026-11-20T01:05:15Z",
+      "last_checked": "2026-11-20T01:05:15Z"
     },
     {
       "asin": "B0CP87RW7M",
@@ -1001,7 +1033,7 @@
       "reference_price": 2569.0,
       "discount": 70.7,
       "first_seen": "2026-11-17T20:07:42Z",
-      "last_checked": "2026-11-19T15:37:43Z"
+      "last_checked": "2026-11-20T01:05:18Z"
     },
     {
       "asin": "B091BVQ91K",
@@ -1049,7 +1081,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-19T22:52:43Z"
+      "last_checked": "2026-11-20T01:05:21Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1065,7 +1097,7 @@
       "reference_price": 285.0,
       "discount": 70.3,
       "first_seen": "2026-11-18T01:14:55Z",
-      "last_checked": "2026-11-19T17:57:46Z"
+      "last_checked": "2026-11-20T01:05:54Z"
     },
     {
       "asin": "B0DF68NMF8",
@@ -1081,7 +1113,7 @@
       "reference_price": 285.2,
       "discount": 70.2,
       "first_seen": "2026-11-18T01:14:59Z",
-      "last_checked": "2026-11-19T17:57:52Z"
+      "last_checked": "2026-11-20T01:06:01Z"
     },
     {
       "asin": "B0BDLXDKBQ",
@@ -1097,7 +1129,7 @@
       "reference_price": 245.0,
       "discount": 70.2,
       "first_seen": "2026-11-17T05:35:25Z",
-      "last_checked": "2026-11-19T17:57:49Z"
+      "last_checked": "2026-11-20T01:05:58Z"
     },
     {
       "asin": "B0D4BWDG51",
@@ -1113,7 +1145,7 @@
       "reference_price": 779.0,
       "discount": 70.1,
       "first_seen": "2026-11-17T14:24:53Z",
-      "last_checked": "2026-11-19T17:57:43Z"
+      "last_checked": "2026-11-20T01:05:52Z"
     },
     {
       "asin": "B08YNM3H9Q",
@@ -1129,7 +1161,7 @@
       "reference_price": 165.0,
       "discount": 70.0,
       "first_seen": "2026-11-18T01:15:02Z",
-      "last_checked": "2026-11-19T15:37:55Z"
+      "last_checked": "2026-11-20T01:05:30Z"
     }
   ]
 }
