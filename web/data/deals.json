@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-20T22:51:04Z",
+    "updated_at": "2026-11-20T23:50:22Z",
     "status": "ok",
     "block_reason": null,
-    "last_success_at": "2026-11-20T22:51:04Z",
+    "last_success_at": "2026-11-20T23:50:22Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -13,14 +13,14 @@
     "run": {
       "pages": 20,
       "products": 870,
-      "candidates": 26,
-      "verified": 26,
+      "candidates": 3,
+      "verified": 3,
       "new_deals": 0,
-      "expired": 2,
+      "expired": 0,
       "alerts": 0
     },
     "sweep": {
-      "band": 6,
+      "band": 9,
       "bands": 15,
       "completed": 7,
       "last_completed_at": "2026-11-20T19:37:45Z"
@@ -105,7 +105,7 @@
       "reference_price": 2107.0,
       "discount": 87.4,
       "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-20T19:40:40Z"
+      "last_checked": "2026-11-20T23:50:06Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -137,7 +137,7 @@
       "reference_price": 361.0,
       "discount": 83.0,
       "first_seen": "2026-11-17T04:34:21Z",
-      "last_checked": "2026-11-20T19:40:10Z"
+      "last_checked": "2026-11-20T23:49:56Z"
     },
     {
       "asin": "1405328576",
@@ -172,6 +172,22 @@
       "last_checked": "2026-11-20T19:41:13Z"
     },
     {
+      "asin": "0241583160",
+      "title": "Diary of a Wimpy Kid: Hot Mess (Book 19)",
+      "image": "https://m.media-amazon.com/images/I/8123aKCLCLL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/0241583160?aod=1",
+      "price": 248.56,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 750.0,
+      "list_price": 1382.0,
+      "reference_price": 1382.0,
+      "discount": 82.0,
+      "first_seen": "2026-11-17T14:24:41Z",
+      "last_checked": "2026-11-20T23:49:02Z"
+    },
+    {
       "asin": "B0CKGG6KDT",
       "title": "Next store Compatible with Xiaomi Mi Band 6 Mi Band 5 Strap Breathable Replacement Band 6 / Mi Band 5 Wristband for Women Men",
       "image": "https://m.media-amazon.com/images/I/617HvCanAPL._AC_UL320_.jpg",
@@ -204,22 +220,6 @@
       "last_checked": "2026-11-20T22:48:59Z"
     },
     {
-      "asin": "0241583160",
-      "title": "Diary of a Wimpy Kid: Hot Mess (Book 19)",
-      "image": "https://m.media-amazon.com/images/I/8123aKCLCLL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/0241583160?aod=1",
-      "price": 264.05,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 750.0,
-      "list_price": 1382.0,
-      "reference_price": 1382.0,
-      "discount": 80.9,
-      "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-20T19:40:42Z"
-    },
-    {
       "asin": "B0DFH6VTXM",
       "title": "T Tersely Case for Samsung Galaxy S24 FE 5G 2024, Magnetic Cover Compatible with MagSafe, Hard Back Slim Shockproof Bumper, Support Wireless Charging",
       "image": "https://m.media-amazon.com/images/I/61BlE2g6kML._AC_UL320_.jpg",
@@ -249,7 +249,7 @@
       "reference_price": 478.0,
       "discount": 80.7,
       "first_seen": "2026-11-19T04:37:34Z",
-      "last_checked": "2026-11-20T19:40:22Z"
+      "last_checked": "2026-11-20T23:49:59Z"
     },
     {
       "asin": "B0FJ2KFK88",
@@ -329,7 +329,7 @@
       "reference_price": 1250.0,
       "discount": 78.5,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-20T19:40:45Z"
+      "last_checked": "2026-11-20T23:50:09Z"
     },
     {
       "asin": "B0B4WKS1YM",
@@ -377,7 +377,7 @@
       "reference_price": 1800.0,
       "discount": 78.2,
       "first_seen": "2026-11-17T20:07:34Z",
-      "last_checked": "2026-11-20T19:41:11Z"
+      "last_checked": "2026-11-20T23:50:22Z"
     },
     {
       "asin": "B09JL9VX3V",
@@ -393,7 +393,7 @@
       "reference_price": 255.52,
       "discount": 78.1,
       "first_seen": "2026-11-19T04:37:52Z",
-      "last_checked": "2026-11-20T19:40:33Z"
+      "last_checked": "2026-11-20T23:50:02Z"
     },
     {
       "asin": "B0CZJ3T8FN",
@@ -409,7 +409,7 @@
       "reference_price": 225.0,
       "discount": 77.7,
       "first_seen": "2026-11-20T04:36:04Z",
-      "last_checked": "2026-11-20T19:41:07Z"
+      "last_checked": "2026-11-20T23:50:18Z"
     },
     {
       "asin": "B087H1RD62",
@@ -521,7 +521,7 @@
       "reference_price": 1537.68,
       "discount": 76.1,
       "first_seen": "2026-11-19T10:08:32Z",
-      "last_checked": "2026-11-20T19:40:49Z"
+      "last_checked": "2026-11-20T23:50:12Z"
     },
     {
       "asin": "B0C8TQXV4W",
@@ -716,6 +716,22 @@
       "last_checked": "2026-11-20T22:49:29Z"
     },
     {
+      "asin": "B0F2K1SFWM",
+      "title": "C.F.S Silicone Back Phone Protection Cover For Apple iPhone 13 Pro Max - 6.7 inch - Clear - CFSBAT4-687 | Durable Phone Case | Shockproof & Stylish Cover",
+      "image": "https://m.media-amazon.com/images/I/317kylB-3SL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0F2K1SFWM?aod=1",
+      "price": 31.3,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 119.0,
+      "list_price": null,
+      "reference_price": 119.0,
+      "discount": 73.7,
+      "first_seen": "2026-11-17T00:27:31Z",
+      "last_checked": "2026-11-20T23:49:24Z"
+    },
+    {
       "asin": "B0CQ6ZGNBK",
       "title": "car Cover 2 Layers for Suzuki Swift GL plus Hatchback 2017five years warranty 35561",
       "image": "https://m.media-amazon.com/images/I/51vYbeZAqhL._AC_UL320_.jpg",
@@ -729,7 +745,7 @@
       "reference_price": 3589.0,
       "discount": 73.6,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-20T19:39:15Z"
+      "last_checked": "2026-11-20T23:49:11Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -761,7 +777,7 @@
       "reference_price": 179.0,
       "discount": 73.3,
       "first_seen": "2026-11-20T04:36:41Z",
-      "last_checked": "2026-11-20T19:39:18Z"
+      "last_checked": "2026-11-20T23:49:13Z"
     },
     {
       "asin": "B0G262S77Z",
@@ -793,7 +809,7 @@
       "reference_price": 182.0,
       "discount": 72.9,
       "first_seen": "2026-11-20T01:05:01Z",
-      "last_checked": "2026-11-20T19:39:21Z"
+      "last_checked": "2026-11-20T23:49:16Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -809,7 +825,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-20T19:39:24Z"
+      "last_checked": "2026-11-20T23:49:19Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -825,23 +841,7 @@
       "reference_price": 157.01,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-20T19:39:27Z"
-    },
-    {
-      "asin": "B0F2K1SFWM",
-      "title": "C.F.S Silicone Back Phone Protection Cover For Apple iPhone 13 Pro Max - 6.7 inch - Clear - CFSBAT4-687 | Durable Phone Case | Shockproof & Stylish Cover",
-      "image": "https://m.media-amazon.com/images/I/317kylB-3SL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0F2K1SFWM?aod=1",
-      "price": 32.33,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 119.0,
-      "list_price": null,
-      "reference_price": 119.0,
-      "discount": 72.8,
-      "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-20T19:39:30Z"
+      "last_checked": "2026-11-20T23:49:22Z"
     },
     {
       "asin": "B0F8C3KKCM",
@@ -873,7 +873,7 @@
       "reference_price": 176.02,
       "discount": 72.6,
       "first_seen": "2026-11-17T04:35:41Z",
-      "last_checked": "2026-11-20T19:39:33Z"
+      "last_checked": "2026-11-20T23:49:27Z"
     },
     {
       "asin": "B0CP87RW7M",
@@ -908,22 +908,6 @@
       "last_checked": "2026-11-20T22:49:38Z"
     },
     {
-      "asin": "B0DPVF59WL",
-      "title": "Zubitech Samsung Galaxy S25 Plus Clear Magnetic Cover | Mag Safe Compatible | Clear Hard Back Case | Shockproof Silicone Frame Edge Bumper | Slim Transparent Case for Samsung Galaxy S25 Plus",
-      "image": "https://m.media-amazon.com/images/I/61s-T7BRSBL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DPVF59WL?aod=1",
-      "price": 35.06,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 125.0,
-      "list_price": null,
-      "reference_price": 125.0,
-      "discount": 72.0,
-      "first_seen": "2026-11-17T05:35:08Z",
-      "last_checked": "2026-11-20T19:39:36Z"
-    },
-    {
       "asin": "B0FCXQWRHW",
       "title": "3 PCS Silicone Fishing Rod Holder Ball Straps with 5 Hole Portable,Rubber Fishing Pole Clips Fly Fishing Accessories.",
       "image": "https://m.media-amazon.com/images/I/51n8thXOkeL._AC_UL320_.jpg",
@@ -937,7 +921,7 @@
       "reference_price": 599.0,
       "discount": 72.0,
       "first_seen": "2026-11-17T14:24:56Z",
-      "last_checked": "2026-11-20T19:40:07Z"
+      "last_checked": "2026-11-20T23:49:53Z"
     },
     {
       "asin": "B091BSGSRJ",
@@ -969,7 +953,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-20T19:39:40Z"
+      "last_checked": "2026-11-20T23:49:34Z"
     },
     {
       "asin": "B08YNPJKX3",
@@ -1001,7 +985,7 @@
       "reference_price": 1029.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-20T19:40:51Z"
+      "last_checked": "2026-11-20T23:50:15Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1017,7 +1001,7 @@
       "reference_price": 145.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-20T19:39:49Z"
+      "last_checked": "2026-11-20T23:49:40Z"
     },
     {
       "asin": "B0DKD7LK7S",
@@ -1033,7 +1017,7 @@
       "reference_price": 121.42,
       "discount": 71.7,
       "first_seen": "2026-11-20T01:05:15Z",
-      "last_checked": "2026-11-20T19:39:46Z"
+      "last_checked": "2026-11-20T23:49:37Z"
     },
     {
       "asin": "B0DDQH997L",
@@ -1049,7 +1033,7 @@
       "reference_price": 50.0,
       "discount": 71.5,
       "first_seen": "2026-11-20T19:39:52Z",
-      "last_checked": "2026-11-20T19:39:52Z"
+      "last_checked": "2026-11-20T23:49:42Z"
     },
     {
       "asin": "B0BN44LG9S",
@@ -1065,7 +1049,7 @@
       "reference_price": 120.0,
       "discount": 71.1,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-20T19:39:55Z"
+      "last_checked": "2026-11-20T23:49:45Z"
     },
     {
       "asin": "B0DJQNPHRW",
@@ -1113,7 +1097,7 @@
       "reference_price": 2569.0,
       "discount": 70.7,
       "first_seen": "2026-11-17T20:07:42Z",
-      "last_checked": "2026-11-20T19:39:58Z"
+      "last_checked": "2026-11-20T23:49:48Z"
     },
     {
       "asin": "B091BVQ91K",
@@ -1164,6 +1148,22 @@
       "last_checked": "2026-11-20T22:49:49Z"
     },
     {
+      "asin": "B0DPVF59WL",
+      "title": "Zubitech Samsung Galaxy S25 Plus Clear Magnetic Cover | Mag Safe Compatible | Clear Hard Back Case | Shockproof Silicone Frame Edge Bumper | Slim Transparent Case for Samsung Galaxy S25 Plus",
+      "image": "https://m.media-amazon.com/images/I/61s-T7BRSBL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DPVF59WL?aod=1",
+      "price": 35.06,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 118.53,
+      "list_price": null,
+      "reference_price": 118.53,
+      "discount": 70.4,
+      "first_seen": "2026-11-17T05:35:08Z",
+      "last_checked": "2026-11-20T23:49:31Z"
+    },
+    {
       "asin": "B0DYDTK1FY",
       "title": "Next Store Privacy Screen Protector Compatible with iPhone XS Max – Anti-Spy Full Coverage, Waterproof, Anti-Fingerprint, High Quality Silicone Glass, 9H Hardness, Easy Installation, No Bubbles.",
       "image": "https://m.media-amazon.com/images/I/31fGmMJFBcL._AC_UL320_.jpg",
@@ -1177,7 +1177,7 @@
       "reference_price": 432.15,
       "discount": 70.4,
       "first_seen": "2026-11-20T05:39:27Z",
-      "last_checked": "2026-11-20T22:50:08Z"
+      "last_checked": "2026-11-20T23:49:08Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1193,7 +1193,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-20T19:40:01Z"
+      "last_checked": "2026-11-20T23:49:51Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1257,7 +1257,7 @@
       "reference_price": 779.0,
       "discount": 70.1,
       "first_seen": "2026-11-17T14:24:53Z",
-      "last_checked": "2026-11-20T19:40:53Z"
+      "last_checked": "2026-11-20T23:49:05Z"
     },
     {
       "asin": "B08YNM3H9Q",
