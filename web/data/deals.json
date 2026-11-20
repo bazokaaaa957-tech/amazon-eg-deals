@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-20T05:40:48Z",
+    "updated_at": "2026-11-20T07:19:21Z",
     "status": "ok",
     "block_reason": null,
-    "last_success_at": "2026-11-20T05:40:48Z",
+    "last_success_at": "2026-11-20T07:19:21Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -12,15 +12,15 @@
     },
     "run": {
       "pages": 20,
-      "products": 873,
+      "products": 860,
       "candidates": 9,
       "verified": 9,
-      "new_deals": 1,
+      "new_deals": 0,
       "expired": 0,
       "alerts": 0
     },
     "sweep": {
-      "band": 8,
+      "band": 11,
       "bands": 15,
       "completed": 5,
       "last_completed_at": "2026-11-20T01:04:15Z"
@@ -121,7 +121,7 @@
       "reference_price": 2107.0,
       "discount": 87.4,
       "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-20T04:37:26Z"
+      "last_checked": "2026-11-20T07:17:41Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -185,7 +185,7 @@
       "reference_price": 1805.67,
       "discount": 82.3,
       "first_seen": "2026-11-18T15:30:38Z",
-      "last_checked": "2026-11-20T04:37:29Z"
+      "last_checked": "2026-11-20T07:17:44Z"
     },
     {
       "asin": "B0CKGG6KDT",
@@ -233,7 +233,7 @@
       "reference_price": 1382.0,
       "discount": 80.9,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-20T05:39:45Z"
+      "last_checked": "2026-11-20T07:17:47Z"
     },
     {
       "asin": "B0BX9NX3H2",
@@ -361,7 +361,7 @@
       "reference_price": 1250.0,
       "discount": 78.5,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-20T05:39:51Z"
+      "last_checked": "2026-11-20T07:17:51Z"
     },
     {
       "asin": "B0B4WKS1YM",
@@ -409,7 +409,7 @@
       "reference_price": 1800.0,
       "discount": 78.2,
       "first_seen": "2026-11-17T20:07:34Z",
-      "last_checked": "2026-11-20T05:39:54Z"
+      "last_checked": "2026-11-20T07:17:53Z"
     },
     {
       "asin": "B09JL9VX3V",
@@ -425,7 +425,7 @@
       "reference_price": 255.52,
       "discount": 78.1,
       "first_seen": "2026-11-19T04:37:52Z",
-      "last_checked": "2026-11-20T04:37:21Z"
+      "last_checked": "2026-11-20T07:19:09Z"
     },
     {
       "asin": "B0CZJ3T8FN",
@@ -505,7 +505,7 @@
       "reference_price": 1669.9,
       "discount": 76.4,
       "first_seen": "2026-11-17T14:24:45Z",
-      "last_checked": "2026-11-20T04:37:32Z"
+      "last_checked": "2026-11-20T07:17:57Z"
     },
     {
       "asin": "B0972NJM6W",
@@ -553,7 +553,7 @@
       "reference_price": 1537.68,
       "discount": 76.1,
       "first_seen": "2026-11-19T10:08:32Z",
-      "last_checked": "2026-11-20T04:37:35Z"
+      "last_checked": "2026-11-20T07:18:00Z"
     },
     {
       "asin": "B0C8TQXV4W",
@@ -601,7 +601,7 @@
       "reference_price": 211.27,
       "discount": 75.5,
       "first_seen": "2026-11-20T04:36:21Z",
-      "last_checked": "2026-11-20T04:36:21Z"
+      "last_checked": "2026-11-20T07:18:10Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -617,7 +617,7 @@
       "reference_price": 150.0,
       "discount": 75.4,
       "first_seen": "2026-11-17T00:27:15Z",
-      "last_checked": "2026-11-20T04:36:25Z"
+      "last_checked": "2026-11-20T07:18:13Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -633,7 +633,7 @@
       "reference_price": 184.68,
       "discount": 75.3,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-20T04:36:28Z"
+      "last_checked": "2026-11-20T07:18:16Z"
     },
     {
       "asin": "B0B7FD4MFH",
@@ -649,7 +649,7 @@
       "reference_price": 267.0,
       "discount": 75.2,
       "first_seen": "2026-11-17T04:35:10Z",
-      "last_checked": "2026-11-20T04:36:31Z"
+      "last_checked": "2026-11-20T07:18:20Z"
     },
     {
       "asin": "B0DJFT654B",
@@ -665,7 +665,7 @@
       "reference_price": 150.0,
       "discount": 75.0,
       "first_seen": "2026-11-20T04:36:33Z",
-      "last_checked": "2026-11-20T04:36:33Z"
+      "last_checked": "2026-11-20T07:18:23Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -697,7 +697,7 @@
       "reference_price": 149.0,
       "discount": 74.5,
       "first_seen": "2026-11-17T04:35:26Z",
-      "last_checked": "2026-11-20T04:36:38Z"
+      "last_checked": "2026-11-20T07:18:29Z"
     },
     {
       "asin": "B091CGHJ6W",
@@ -713,7 +713,7 @@
       "reference_price": 276.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T04:35:14Z",
-      "last_checked": "2026-11-20T04:36:35Z"
+      "last_checked": "2026-11-20T07:18:26Z"
     },
     {
       "asin": "B0CQ6ZGNBK",
@@ -761,7 +761,7 @@
       "reference_price": 179.0,
       "discount": 73.3,
       "first_seen": "2026-11-20T04:36:41Z",
-      "last_checked": "2026-11-20T04:36:41Z"
+      "last_checked": "2026-11-20T07:18:31Z"
     },
     {
       "asin": "B0BRSDKFJS",
@@ -777,7 +777,7 @@
       "reference_price": 182.0,
       "discount": 72.9,
       "first_seen": "2026-11-20T01:05:01Z",
-      "last_checked": "2026-11-20T04:36:44Z"
+      "last_checked": "2026-11-20T07:18:34Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -809,7 +809,7 @@
       "reference_price": 157.01,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-20T04:36:47Z"
+      "last_checked": "2026-11-20T07:18:37Z"
     },
     {
       "asin": "B0F99P33ZL",
@@ -841,7 +841,7 @@
       "reference_price": 119.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-20T04:36:49Z"
+      "last_checked": "2026-11-20T07:18:40Z"
     },
     {
       "asin": "B0F8C3KKCM",
@@ -873,7 +873,7 @@
       "reference_price": 176.02,
       "discount": 72.6,
       "first_seen": "2026-11-17T04:35:41Z",
-      "last_checked": "2026-11-20T04:37:53Z"
+      "last_checked": "2026-11-20T07:19:21Z"
     },
     {
       "asin": "B0G262S77Z",
@@ -905,7 +905,7 @@
       "reference_price": 187.31,
       "discount": 72.1,
       "first_seen": "2026-11-20T04:36:58Z",
-      "last_checked": "2026-11-20T04:36:58Z"
+      "last_checked": "2026-11-20T07:18:45Z"
     },
     {
       "asin": "B0DPVF59WL",
@@ -921,7 +921,7 @@
       "reference_price": 125.0,
       "discount": 72.0,
       "first_seen": "2026-11-17T05:35:08Z",
-      "last_checked": "2026-11-20T04:37:01Z"
+      "last_checked": "2026-11-20T07:18:48Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -953,7 +953,7 @@
       "reference_price": 342.0,
       "discount": 72.0,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-20T04:36:53Z"
+      "last_checked": "2026-11-20T07:18:43Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -985,7 +985,7 @@
       "reference_price": 300.0,
       "discount": 71.8,
       "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-20T04:37:51Z"
+      "last_checked": "2026-11-20T07:19:17Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -1001,7 +1001,7 @@
       "reference_price": 1029.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-20T04:37:37Z"
+      "last_checked": "2026-11-20T07:18:03Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1017,7 +1017,7 @@
       "reference_price": 145.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-20T04:37:05Z"
+      "last_checked": "2026-11-20T07:18:52Z"
     },
     {
       "asin": "B0DKD7LK7S",
@@ -1049,7 +1049,7 @@
       "reference_price": 1278.68,
       "discount": 71.6,
       "first_seen": "2026-11-18T05:41:19Z",
-      "last_checked": "2026-11-20T04:37:41Z"
+      "last_checked": "2026-11-20T07:18:07Z"
     },
     {
       "asin": "B0BN44LG9S",
@@ -1065,7 +1065,7 @@
       "reference_price": 120.0,
       "discount": 71.1,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-20T04:37:07Z"
+      "last_checked": "2026-11-20T07:18:54Z"
     },
     {
       "asin": "B0DJQNPHRW",
@@ -1081,7 +1081,7 @@
       "reference_price": 2019.0,
       "discount": 71.0,
       "first_seen": "2026-11-17T20:07:40Z",
-      "last_checked": "2026-11-20T04:37:44Z"
+      "last_checked": "2026-11-20T07:19:12Z"
     },
     {
       "asin": "B0F924T6L2",
@@ -1097,7 +1097,7 @@
       "reference_price": 322.0,
       "discount": 70.8,
       "first_seen": "2026-11-17T05:35:05Z",
-      "last_checked": "2026-11-20T04:37:09Z"
+      "last_checked": "2026-11-20T07:18:57Z"
     },
     {
       "asin": "B0D5MQ5627",
@@ -1129,7 +1129,7 @@
       "reference_price": 310.0,
       "discount": 70.7,
       "first_seen": "2026-11-19T05:39:54Z",
-      "last_checked": "2026-11-20T04:37:47Z"
+      "last_checked": "2026-11-20T07:19:15Z"
     },
     {
       "asin": "B0FWS4P8TK",
@@ -1145,7 +1145,7 @@
       "reference_price": 230.0,
       "discount": 70.7,
       "first_seen": "2026-11-20T04:37:12Z",
-      "last_checked": "2026-11-20T04:37:12Z"
+      "last_checked": "2026-11-20T07:19:00Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1161,7 +1161,7 @@
       "reference_price": 258.72,
       "discount": 70.5,
       "first_seen": "2026-11-19T05:39:57Z",
-      "last_checked": "2026-11-20T04:37:16Z"
+      "last_checked": "2026-11-20T07:19:03Z"
     },
     {
       "asin": "B0DYDTK1FY",
@@ -1193,7 +1193,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-20T04:37:18Z"
+      "last_checked": "2026-11-20T07:19:06Z"
     },
     {
       "asin": "B0D8199FKW",
