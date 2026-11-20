@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-20T03:23:20Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-20T01:06:37Z",
+    "updated_at": "2026-11-20T04:38:32Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-20T04:38:32Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
+      "pages": 20,
+      "products": 887,
+      "candidates": 43,
+      "verified": 40,
+      "new_deals": 6,
       "expired": 0,
       "alerts": 0
     },
     "sweep": {
-      "band": 2,
+      "band": 5,
       "bands": 15,
       "completed": 5,
       "last_completed_at": "2026-11-20T01:04:15Z"
@@ -32,16 +32,16 @@
       "title": "Feather Flamingo S - Women Face and body Razor – 3 pcs, Gentle Japanese Blades for Sensitive Skin",
       "image": "https://m.media-amazon.com/images/I/71eKAJdPanL._AC_UL320_.jpg",
       "url": "https://www.amazon.eg/dp/B01N0EHTTX?aod=1",
-      "price": 14.25,
-      "condition": "Open Box - Good",
-      "condition_ar": "علبة مفتوحة - جيد",
+      "price": 16.15,
+      "condition": "Open Box - Very Good",
+      "condition_ar": "علبة مفتوحة - جيد جداً",
       "seller": "Amazon Resale",
       "new_price": 390.0,
       "list_price": null,
       "reference_price": 390.0,
-      "discount": 96.3,
+      "discount": 95.9,
       "first_seen": "2026-11-20T01:04:37Z",
-      "last_checked": "2026-11-20T01:04:37Z"
+      "last_checked": "2026-11-20T04:37:56Z"
     },
     {
       "asin": "0008312834",
@@ -57,7 +57,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-20T01:06:15Z"
+      "last_checked": "2026-11-20T04:35:25Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -73,7 +73,7 @@
       "reference_price": 581.0,
       "discount": 91.8,
       "first_seen": "2026-11-17T00:26:47Z",
-      "last_checked": "2026-11-20T01:06:18Z"
+      "last_checked": "2026-11-20T04:35:28Z"
     },
     {
       "asin": "B0BLN5VD8W",
@@ -89,7 +89,7 @@
       "reference_price": 220.0,
       "discount": 90.6,
       "first_seen": "2026-11-19T15:35:03Z",
-      "last_checked": "2026-11-20T01:04:40Z"
+      "last_checked": "2026-11-20T04:37:58Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -105,7 +105,7 @@
       "reference_price": 713.0,
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
-      "last_checked": "2026-11-19T22:53:02Z"
+      "last_checked": "2026-11-20T04:35:31Z"
     },
     {
       "asin": "B08T7P3J1S",
@@ -121,7 +121,7 @@
       "reference_price": 2107.0,
       "discount": 87.4,
       "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-19T22:51:32Z"
+      "last_checked": "2026-11-20T04:37:26Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -137,7 +137,7 @@
       "reference_price": 608.76,
       "discount": 85.4,
       "first_seen": "2026-11-17T04:34:07Z",
-      "last_checked": "2026-11-20T01:06:21Z"
+      "last_checked": "2026-11-20T04:35:34Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -169,7 +169,7 @@
       "reference_price": 195.0,
       "discount": 82.4,
       "first_seen": "2026-11-17T00:27:05Z",
-      "last_checked": "2026-11-20T01:04:45Z"
+      "last_checked": "2026-11-20T04:35:38Z"
     },
     {
       "asin": "B0D56NMF1M",
@@ -185,7 +185,23 @@
       "reference_price": 1805.67,
       "discount": 82.3,
       "first_seen": "2026-11-18T15:30:38Z",
-      "last_checked": "2026-11-19T22:51:35Z"
+      "last_checked": "2026-11-20T04:37:29Z"
+    },
+    {
+      "asin": "B0CKGG6KDT",
+      "title": "Next store Compatible with Xiaomi Mi Band 6 Mi Band 5 Strap Breathable Replacement Band 6 / Mi Band 5 Wristband for Women Men",
+      "image": "https://m.media-amazon.com/images/I/617HvCanAPL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CKGG6KDT?aod=1",
+      "price": 71.86,
+      "condition": "Open Box - Like New",
+      "condition_ar": "علبة مفتوحة - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 308.01,
+      "list_price": 389.0,
+      "reference_price": 389.0,
+      "discount": 81.5,
+      "first_seen": "2026-11-17T22:57:07Z",
+      "last_checked": "2026-11-20T04:35:41Z"
     },
     {
       "asin": "B08W9K5CMK",
@@ -201,7 +217,7 @@
       "reference_price": 635.0,
       "discount": 81.1,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-20T01:06:24Z"
+      "last_checked": "2026-11-20T04:35:44Z"
     },
     {
       "asin": "0241583160",
@@ -233,7 +249,7 @@
       "reference_price": 478.0,
       "discount": 80.7,
       "first_seen": "2026-11-19T04:37:34Z",
-      "last_checked": "2026-11-20T01:06:27Z"
+      "last_checked": "2026-11-20T04:35:46Z"
     },
     {
       "asin": "B0922ZQF1D",
@@ -249,7 +265,7 @@
       "reference_price": 250.0,
       "discount": 80.6,
       "first_seen": "2026-11-20T01:04:43Z",
-      "last_checked": "2026-11-20T01:04:43Z"
+      "last_checked": "2026-11-20T04:38:02Z"
     },
     {
       "asin": "B0FJ2KFK88",
@@ -265,7 +281,23 @@
       "reference_price": 99.0,
       "discount": 80.3,
       "first_seen": "2026-11-17T00:26:58Z",
-      "last_checked": "2026-11-20T01:04:48Z"
+      "last_checked": "2026-11-20T04:38:05Z"
+    },
+    {
+      "asin": "B0DFH6VTXM",
+      "title": "T Tersely Case for Samsung Galaxy S24 FE 5G 2024, Magnetic Cover Compatible with MagSafe, Hard Back Slim Shockproof Bumper, Support Wireless Charging",
+      "image": "https://m.media-amazon.com/images/I/61BlE2g6kML._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DFH6VTXM?aod=1",
+      "price": 52.55,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 210.66,
+      "list_price": 263.0,
+      "reference_price": 263.0,
+      "discount": 80.0,
+      "first_seen": "2026-11-17T04:34:31Z",
+      "last_checked": "2026-11-20T04:35:50Z"
     },
     {
       "asin": "B0B9P24XQX",
@@ -281,7 +313,23 @@
       "reference_price": 252.0,
       "discount": 79.8,
       "first_seen": "2026-11-17T04:34:44Z",
-      "last_checked": "2026-11-20T01:06:34Z"
+      "last_checked": "2026-11-20T04:35:55Z"
+    },
+    {
+      "asin": "B09232FTX8",
+      "title": "Huawei Watch Fit - Soft Silicone Replacement Strap - Red",
+      "image": "https://m.media-amazon.com/images/I/51JsCkA9LCL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B09232FTX8?aod=1",
+      "price": 24.49,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 119.0,
+      "list_price": null,
+      "reference_price": 119.0,
+      "discount": 79.4,
+      "first_seen": "2026-11-17T00:27:08Z",
+      "last_checked": "2026-11-20T04:38:09Z"
     },
     {
       "asin": "B0FVWKL973",
@@ -297,23 +345,7 @@
       "reference_price": 401.28,
       "discount": 78.8,
       "first_seen": "2026-11-17T05:34:38Z",
-      "last_checked": "2026-11-20T01:06:37Z"
-    },
-    {
-      "asin": "B09232FTX8",
-      "title": "Huawei Watch Fit - Soft Silicone Replacement Strap - Red",
-      "image": "https://m.media-amazon.com/images/I/51JsCkA9LCL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B09232FTX8?aod=1",
-      "price": 25.4,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 119.0,
-      "list_price": null,
-      "reference_price": 119.0,
-      "discount": 78.7,
-      "first_seen": "2026-11-17T00:27:08Z",
-      "last_checked": "2026-11-20T01:04:51Z"
+      "last_checked": "2026-11-20T04:35:58Z"
     },
     {
       "asin": "B0C4M3D5ZN",
@@ -345,7 +377,7 @@
       "reference_price": 230.49,
       "discount": 78.4,
       "first_seen": "2026-11-17T04:34:50Z",
-      "last_checked": "2026-11-19T17:58:47Z"
+      "last_checked": "2026-11-20T04:36:01Z"
     },
     {
       "asin": "B0DJFVH12D",
@@ -361,7 +393,7 @@
       "reference_price": 250.0,
       "discount": 78.3,
       "first_seen": "2026-11-17T04:34:33Z",
-      "last_checked": "2026-11-20T01:06:30Z"
+      "last_checked": "2026-11-20T04:35:53Z"
     },
     {
       "asin": "B0001AU7SO",
@@ -384,16 +416,32 @@
       "title": "Koksi Good Morning Coffee Mug, 350 ml Glass for Tea, Breakfast, Juice",
       "image": "https://m.media-amazon.com/images/I/415hxBwOOQL._AC_UL320_.jpg",
       "url": "https://www.amazon.eg/dp/B09JL9VX3V?aod=1",
-      "price": 56.43,
+      "price": 55.91,
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
       "new_price": 92.0,
       "list_price": 255.52,
       "reference_price": 255.52,
-      "discount": 77.9,
+      "discount": 78.1,
       "first_seen": "2026-11-19T04:37:52Z",
-      "last_checked": "2026-11-19T17:58:50Z"
+      "last_checked": "2026-11-20T04:37:21Z"
+    },
+    {
+      "asin": "B0CZJ3T8FN",
+      "title": "Banana Protection Storage Box, Safe Plastic with Air Holes, Cute Durable Holder - 3 Pcs Random Colors",
+      "image": "https://m.media-amazon.com/images/I/51BruYF-SxL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CZJ3T8FN?aod=1",
+      "price": 50.27,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 79.81,
+      "list_price": 225.0,
+      "reference_price": 225.0,
+      "discount": 77.7,
+      "first_seen": "2026-11-20T04:36:04Z",
+      "last_checked": "2026-11-20T04:36:04Z"
     },
     {
       "asin": "B087H1RD62",
@@ -409,7 +457,7 @@
       "reference_price": 386.0,
       "discount": 77.3,
       "first_seen": "2026-11-17T04:34:59Z",
-      "last_checked": "2026-11-19T17:58:53Z"
+      "last_checked": "2026-11-20T04:36:07Z"
     },
     {
       "asin": "B0FHKZMKHK",
@@ -425,7 +473,7 @@
       "reference_price": 499.0,
       "discount": 77.3,
       "first_seen": "2026-11-17T05:34:41Z",
-      "last_checked": "2026-11-19T17:59:00Z"
+      "last_checked": "2026-11-20T04:37:24Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -441,23 +489,7 @@
       "reference_price": 350.0,
       "discount": 77.3,
       "first_seen": "2026-11-17T04:35:04Z",
-      "last_checked": "2026-11-19T17:58:57Z"
-    },
-    {
-      "asin": "B0CKGG6KDT",
-      "title": "Next store Compatible with Xiaomi Mi Band 6 Mi Band 5 Strap Breathable Replacement Band 6 / Mi Band 5 Wristband for Women Men",
-      "image": "https://m.media-amazon.com/images/I/617HvCanAPL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CKGG6KDT?aod=1",
-      "price": 71.86,
-      "condition": "Open Box - Like New",
-      "condition_ar": "علبة مفتوحة - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 308.01,
-      "list_price": null,
-      "reference_price": 308.01,
-      "discount": 76.7,
-      "first_seen": "2026-11-17T22:57:07Z",
-      "last_checked": "2026-11-20T01:05:32Z"
+      "last_checked": "2026-11-20T04:36:10Z"
     },
     {
       "asin": "B0FR3J4YQ5",
@@ -473,7 +505,7 @@
       "reference_price": 1669.9,
       "discount": 76.4,
       "first_seen": "2026-11-17T14:24:45Z",
-      "last_checked": "2026-11-19T22:51:38Z"
+      "last_checked": "2026-11-20T04:37:32Z"
     },
     {
       "asin": "B0972NJM6W",
@@ -489,7 +521,7 @@
       "reference_price": 460.0,
       "discount": 76.2,
       "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-19T22:52:05Z"
+      "last_checked": "2026-11-20T04:36:13Z"
     },
     {
       "asin": "B008DDDFY4",
@@ -505,7 +537,23 @@
       "reference_price": 407.96,
       "discount": 76.1,
       "first_seen": "2026-11-17T04:34:37Z",
-      "last_checked": "2026-11-19T17:59:03Z"
+      "last_checked": "2026-11-20T04:36:15Z"
+    },
+    {
+      "asin": "B0FR3D5N69",
+      "title": "Royal Leerdam Imogen 12-Piece Glassware Set, Premium Crystal for Wine, Water, or Cocktails",
+      "image": "https://m.media-amazon.com/images/I/313g7h9aAyL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FR3D5N69?aod=1",
+      "price": 367.42,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 1537.68,
+      "list_price": null,
+      "reference_price": 1537.68,
+      "discount": 76.1,
+      "first_seen": "2026-11-19T10:08:32Z",
+      "last_checked": "2026-11-20T04:37:35Z"
     },
     {
       "asin": "B0C8TQXV4W",
@@ -521,7 +569,7 @@
       "reference_price": 468.0,
       "discount": 75.9,
       "first_seen": "2026-11-17T05:34:49Z",
-      "last_checked": "2026-11-19T17:59:06Z"
+      "last_checked": "2026-11-20T04:36:18Z"
     },
     {
       "asin": "B09DKG7M9J",
@@ -540,20 +588,20 @@
       "last_checked": "2026-11-20T01:05:46Z"
     },
     {
-      "asin": "B0FR3D5N69",
-      "title": "Royal Leerdam Imogen 12-Piece Glassware Set, Premium Crystal for Wine, Water, or Cocktails",
-      "image": "https://m.media-amazon.com/images/I/313g7h9aAyL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FR3D5N69?aod=1",
-      "price": 374.4,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
+      "asin": "B0GJMN88P9",
+      "title": "Cannes Glass Jar Bowknot - Glass Mug with Wood Lid - 550ml Capacity - Multi Use - Generic",
+      "image": "https://m.media-amazon.com/images/I/81jACwc8ASL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0GJMN88P9?aod=1",
+      "price": 51.71,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
       "seller": "Amazon Resale",
-      "new_price": 1537.68,
+      "new_price": 211.27,
       "list_price": null,
-      "reference_price": 1537.68,
-      "discount": 75.7,
-      "first_seen": "2026-11-19T10:08:32Z",
-      "last_checked": "2026-11-19T22:51:40Z"
+      "reference_price": 211.27,
+      "discount": 75.5,
+      "first_seen": "2026-11-20T04:36:21Z",
+      "last_checked": "2026-11-20T04:36:21Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -569,7 +617,7 @@
       "reference_price": 150.0,
       "discount": 75.4,
       "first_seen": "2026-11-17T00:27:15Z",
-      "last_checked": "2026-11-19T17:59:09Z"
+      "last_checked": "2026-11-20T04:36:25Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -585,7 +633,7 @@
       "reference_price": 184.68,
       "discount": 75.3,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-19T22:51:52Z"
+      "last_checked": "2026-11-20T04:36:28Z"
     },
     {
       "asin": "B0B7FD4MFH",
@@ -601,23 +649,23 @@
       "reference_price": 267.0,
       "discount": 75.2,
       "first_seen": "2026-11-17T04:35:10Z",
-      "last_checked": "2026-11-19T22:51:55Z"
+      "last_checked": "2026-11-20T04:36:31Z"
     },
     {
-      "asin": "B0DFH6VTXM",
-      "title": "T Tersely Case for Samsung Galaxy S24 FE 5G 2024, Magnetic Cover Compatible with MagSafe, Hard Back Slim Shockproof Bumper, Support Wireless Charging",
-      "image": "https://m.media-amazon.com/images/I/61BlE2g6kML._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DFH6VTXM?aod=1",
-      "price": 52.55,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
+      "asin": "B0DJFT654B",
+      "title": "V VOLT Compatible with Huawei Honor Band 4 / Band 5 Smart Watch Band, Durable Strong Silicone Replacement Strap",
+      "image": "https://m.media-amazon.com/images/I/51X7JeU8qcL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DJFT654B?aod=1",
+      "price": 37.44,
+      "condition": "Open Box - Very Good",
+      "condition_ar": "علبة مفتوحة - جيد جداً",
       "seller": "Amazon Resale",
-      "new_price": 210.66,
-      "list_price": null,
-      "reference_price": 210.66,
-      "discount": 75.1,
-      "first_seen": "2026-11-17T04:34:31Z",
-      "last_checked": "2026-11-20T01:06:11Z"
+      "new_price": 121.45,
+      "list_price": 150.0,
+      "reference_price": 150.0,
+      "discount": 75.0,
+      "first_seen": "2026-11-20T04:36:33Z",
+      "last_checked": "2026-11-20T04:36:33Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -633,7 +681,7 @@
       "reference_price": 93.0,
       "discount": 74.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-20T01:04:53Z"
+      "last_checked": "2026-11-20T04:38:11Z"
     },
     {
       "asin": "B0DBSR9Z6J",
@@ -649,7 +697,7 @@
       "reference_price": 149.0,
       "discount": 74.5,
       "first_seen": "2026-11-17T04:35:26Z",
-      "last_checked": "2026-11-19T22:52:16Z"
+      "last_checked": "2026-11-20T04:36:38Z"
     },
     {
       "asin": "B091CGHJ6W",
@@ -665,7 +713,7 @@
       "reference_price": 276.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T04:35:14Z",
-      "last_checked": "2026-11-19T22:52:02Z"
+      "last_checked": "2026-11-20T04:36:35Z"
     },
     {
       "asin": "B0CQ6ZGNBK",
@@ -681,7 +729,7 @@
       "reference_price": 3589.0,
       "discount": 73.6,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-20T01:04:56Z"
+      "last_checked": "2026-11-20T04:38:14Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -697,7 +745,23 @@
       "reference_price": 2591.0,
       "discount": 73.3,
       "first_seen": "2026-11-17T20:07:38Z",
-      "last_checked": "2026-11-20T01:04:59Z"
+      "last_checked": "2026-11-20T04:38:17Z"
+    },
+    {
+      "asin": "B0CLYR41RL",
+      "title": "Next store Compatible with Huawei Band 8 Strap, Soft Durable Silicone Replacement Watch Strap Compatible with Huawei Band 8 Watch Band 8 for Men Women",
+      "image": "https://m.media-amazon.com/images/I/71iCnkYfkNL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CLYR41RL?aod=1",
+      "price": 47.83,
+      "condition": "Open Box - Like New",
+      "condition_ar": "علبة مفتوحة - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 136.58,
+      "list_price": 179.0,
+      "reference_price": 179.0,
+      "discount": 73.3,
+      "first_seen": "2026-11-20T04:36:41Z",
+      "last_checked": "2026-11-20T04:36:41Z"
     },
     {
       "asin": "B0BRSDKFJS",
@@ -713,7 +777,7 @@
       "reference_price": 182.0,
       "discount": 72.9,
       "first_seen": "2026-11-20T01:05:01Z",
-      "last_checked": "2026-11-20T01:05:01Z"
+      "last_checked": "2026-11-20T04:36:44Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -729,7 +793,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-20T01:05:04Z"
+      "last_checked": "2026-11-20T04:38:20Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -745,7 +809,7 @@
       "reference_price": 157.01,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-19T22:52:59Z"
+      "last_checked": "2026-11-20T04:36:47Z"
     },
     {
       "asin": "B0F99P33ZL",
@@ -761,7 +825,7 @@
       "reference_price": 53.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:26Z",
-      "last_checked": "2026-11-20T01:05:08Z"
+      "last_checked": "2026-11-20T04:38:23Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -777,7 +841,7 @@
       "reference_price": 119.0,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-19T22:52:22Z"
+      "last_checked": "2026-11-20T04:36:49Z"
     },
     {
       "asin": "B0F8C3KKCM",
@@ -809,7 +873,7 @@
       "reference_price": 176.02,
       "discount": 72.6,
       "first_seen": "2026-11-17T04:35:41Z",
-      "last_checked": "2026-11-19T22:52:52Z"
+      "last_checked": "2026-11-20T04:37:53Z"
     },
     {
       "asin": "B0G262S77Z",
@@ -825,7 +889,23 @@
       "reference_price": 437.0,
       "discount": 72.5,
       "first_seen": "2026-11-17T05:34:44Z",
-      "last_checked": "2026-11-19T22:52:26Z"
+      "last_checked": "2026-11-20T04:36:55Z"
+    },
+    {
+      "asin": "B0D5MHJND8",
+      "title": "Next Store Compatible with iPhone 14 Pro Case, Support Wireless Charging, Military-Grade Protection, Non-Yellowing, Scratch Resistant Back, Magnetic Phone Case, Classic Series, Clear",
+      "image": "https://m.media-amazon.com/images/I/61GmZqhkJvL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0D5MHJND8?aod=1",
+      "price": 52.23,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 142.07,
+      "list_price": 187.31,
+      "reference_price": 187.31,
+      "discount": 72.1,
+      "first_seen": "2026-11-20T04:36:58Z",
+      "last_checked": "2026-11-20T04:36:58Z"
     },
     {
       "asin": "B0DPVF59WL",
@@ -841,7 +921,7 @@
       "reference_price": 125.0,
       "discount": 72.0,
       "first_seen": "2026-11-17T05:35:08Z",
-      "last_checked": "2026-11-20T01:05:27Z"
+      "last_checked": "2026-11-20T04:37:01Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -873,7 +953,7 @@
       "reference_price": 342.0,
       "discount": 72.0,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-19T22:52:24Z"
+      "last_checked": "2026-11-20T04:36:53Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -889,7 +969,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-20T01:05:10Z"
+      "last_checked": "2026-11-20T04:38:26Z"
     },
     {
       "asin": "B08YNPJKX3",
@@ -905,7 +985,7 @@
       "reference_price": 300.0,
       "discount": 71.8,
       "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-19T22:52:46Z"
+      "last_checked": "2026-11-20T04:37:51Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -921,7 +1001,7 @@
       "reference_price": 1029.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-19T22:51:44Z"
+      "last_checked": "2026-11-20T04:37:37Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -937,7 +1017,7 @@
       "reference_price": 145.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-19T22:52:40Z"
+      "last_checked": "2026-11-20T04:37:05Z"
     },
     {
       "asin": "B0DKD7LK7S",
@@ -953,7 +1033,7 @@
       "reference_price": 121.42,
       "discount": 71.7,
       "first_seen": "2026-11-20T01:05:15Z",
-      "last_checked": "2026-11-20T01:05:15Z"
+      "last_checked": "2026-11-20T04:38:29Z"
     },
     {
       "asin": "B0CP87RW7M",
@@ -969,7 +1049,7 @@
       "reference_price": 1278.68,
       "discount": 71.6,
       "first_seen": "2026-11-18T05:41:19Z",
-      "last_checked": "2026-11-19T22:51:47Z"
+      "last_checked": "2026-11-20T04:37:41Z"
     },
     {
       "asin": "B0BN44LG9S",
@@ -985,7 +1065,7 @@
       "reference_price": 120.0,
       "discount": 71.1,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-19T22:52:32Z"
+      "last_checked": "2026-11-20T04:37:07Z"
     },
     {
       "asin": "B0DJQNPHRW",
@@ -1001,7 +1081,7 @@
       "reference_price": 2019.0,
       "discount": 71.0,
       "first_seen": "2026-11-17T20:07:40Z",
-      "last_checked": "2026-11-19T22:51:50Z"
+      "last_checked": "2026-11-20T04:37:44Z"
     },
     {
       "asin": "B0F924T6L2",
@@ -1017,7 +1097,7 @@
       "reference_price": 322.0,
       "discount": 70.8,
       "first_seen": "2026-11-17T05:35:05Z",
-      "last_checked": "2026-11-19T22:52:49Z"
+      "last_checked": "2026-11-20T04:37:09Z"
     },
     {
       "asin": "B0D5MQ5627",
@@ -1033,7 +1113,7 @@
       "reference_price": 2569.0,
       "discount": 70.7,
       "first_seen": "2026-11-17T20:07:42Z",
-      "last_checked": "2026-11-20T01:05:18Z"
+      "last_checked": "2026-11-20T04:38:32Z"
     },
     {
       "asin": "B091BVQ91K",
@@ -1049,7 +1129,23 @@
       "reference_price": 310.0,
       "discount": 70.7,
       "first_seen": "2026-11-19T05:39:54Z",
-      "last_checked": "2026-11-19T22:52:35Z"
+      "last_checked": "2026-11-20T04:37:47Z"
+    },
+    {
+      "asin": "B0FWS4P8TK",
+      "title": "Next Store 18mm Stainless Steel Magnetic Metal Smart Watch Band | Compatible with Huawei Watch gt4 41mm & gt5 41mm & gt6 41mm Stylish Adjustable Replacement Strap Durable Comfortable",
+      "image": "https://m.media-amazon.com/images/I/61Uaa6BxmeL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FWS4P8TK?aod=1",
+      "price": 67.42,
+      "condition": "Open Box - Like New",
+      "condition_ar": "علبة مفتوحة - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 204.53,
+      "list_price": 230.0,
+      "reference_price": 230.0,
+      "discount": 70.7,
+      "first_seen": "2026-11-20T04:37:12Z",
+      "last_checked": "2026-11-20T04:37:12Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1065,7 +1161,7 @@
       "reference_price": 258.72,
       "discount": 70.5,
       "first_seen": "2026-11-19T05:39:57Z",
-      "last_checked": "2026-11-19T22:52:38Z"
+      "last_checked": "2026-11-20T04:37:16Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1081,7 +1177,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-20T01:05:21Z"
+      "last_checked": "2026-11-20T04:37:18Z"
     },
     {
       "asin": "B0D8199FKW",
