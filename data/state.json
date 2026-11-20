@@ -1,11 +1,11 @@
 {
   "cursor": {
-    "band": 9,
-    "page": 4
+    "band": 13,
+    "page": 3
   },
   "queue": [],
   "notified": {},
   "sweeps_completed": 6,
-  "blocked_streak": 2,
+  "blocked_streak": 0,
   "last_sweep_completed_at": "2026-11-20T08:42:53Z"
 }
