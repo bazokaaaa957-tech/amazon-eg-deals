@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-21T02:14:37Z",
-    "status": "blocked",
-    "block_reason": "unexpected search page layout",
-    "last_success_at": "2026-11-20T23:50:22Z",
+    "updated_at": "2026-11-21T03:26:26Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-21T03:26:26Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 852,
+      "candidates": 9,
+      "verified": 9,
+      "new_deals": 1,
+      "expired": 1,
       "alerts": 0
     },
     "sweep": {
-      "band": 9,
+      "band": 12,
       "bands": 15,
       "completed": 7,
       "last_completed_at": "2026-11-20T19:37:45Z"
@@ -41,7 +41,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-20T22:48:46Z"
+      "last_checked": "2026-11-21T03:25:16Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -89,7 +89,7 @@
       "reference_price": 713.0,
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
-      "last_checked": "2026-11-20T22:48:49Z"
+      "last_checked": "2026-11-21T03:25:20Z"
     },
     {
       "asin": "B08T7P3J1S",
@@ -105,7 +105,7 @@
       "reference_price": 2107.0,
       "discount": 87.4,
       "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-20T23:50:06Z"
+      "last_checked": "2026-11-21T03:24:50Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -121,7 +121,7 @@
       "reference_price": 608.76,
       "discount": 85.4,
       "first_seen": "2026-11-17T04:34:07Z",
-      "last_checked": "2026-11-20T22:48:52Z"
+      "last_checked": "2026-11-21T03:25:23Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -169,7 +169,7 @@
       "reference_price": 1805.67,
       "discount": 82.3,
       "first_seen": "2026-11-18T15:30:38Z",
-      "last_checked": "2026-11-20T19:41:13Z"
+      "last_checked": "2026-11-21T03:24:52Z"
     },
     {
       "asin": "0241583160",
@@ -188,22 +188,6 @@
       "last_checked": "2026-11-20T23:49:02Z"
     },
     {
-      "asin": "B0CKGG6KDT",
-      "title": "Next store Compatible with Xiaomi Mi Band 6 Mi Band 5 Strap Breathable Replacement Band 6 / Mi Band 5 Wristband for Women Men",
-      "image": "https://m.media-amazon.com/images/I/617HvCanAPL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CKGG6KDT?aod=1",
-      "price": 71.86,
-      "condition": "Open Box - Like New",
-      "condition_ar": "علبة مفتوحة - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 308.01,
-      "list_price": 389.0,
-      "reference_price": 389.0,
-      "discount": 81.5,
-      "first_seen": "2026-11-17T22:57:07Z",
-      "last_checked": "2026-11-20T22:48:55Z"
-    },
-    {
       "asin": "B08W9K5CMK",
       "title": "L-00737 Ice Cream Plate and Spoon Set 3-Pieces",
       "image": "https://m.media-amazon.com/images/I/51--1A0Ln6L._AC_UL320_.jpg",
@@ -217,7 +201,7 @@
       "reference_price": 635.0,
       "discount": 81.1,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-20T22:48:59Z"
+      "last_checked": "2026-11-21T03:25:28Z"
     },
     {
       "asin": "B0DFH6VTXM",
@@ -233,7 +217,7 @@
       "reference_price": 263.0,
       "discount": 80.8,
       "first_seen": "2026-11-17T04:34:31Z",
-      "last_checked": "2026-11-20T22:49:01Z"
+      "last_checked": "2026-11-21T03:25:31Z"
     },
     {
       "asin": "B0BX9NX3H2",
@@ -281,7 +265,7 @@
       "reference_price": 252.0,
       "discount": 79.8,
       "first_seen": "2026-11-17T04:34:44Z",
-      "last_checked": "2026-11-20T22:49:06Z"
+      "last_checked": "2026-11-21T03:25:35Z"
     },
     {
       "asin": "B09232FTX8",
@@ -313,7 +297,7 @@
       "reference_price": 401.28,
       "discount": 78.8,
       "first_seen": "2026-11-17T05:34:38Z",
-      "last_checked": "2026-11-20T22:49:08Z"
+      "last_checked": "2026-11-21T03:25:38Z"
     },
     {
       "asin": "B0C4M3D5ZN",
@@ -329,7 +313,7 @@
       "reference_price": 1250.0,
       "discount": 78.5,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-20T23:50:09Z"
+      "last_checked": "2026-11-21T03:24:55Z"
     },
     {
       "asin": "B0B4WKS1YM",
@@ -361,7 +345,7 @@
       "reference_price": 250.0,
       "discount": 78.3,
       "first_seen": "2026-11-17T04:34:33Z",
-      "last_checked": "2026-11-20T22:49:03Z"
+      "last_checked": "2026-11-21T03:25:33Z"
     },
     {
       "asin": "B0001AU7SO",
@@ -425,7 +409,7 @@
       "reference_price": 386.0,
       "discount": 77.3,
       "first_seen": "2026-11-17T04:34:59Z",
-      "last_checked": "2026-11-20T22:49:11Z"
+      "last_checked": "2026-11-21T03:25:42Z"
     },
     {
       "asin": "B0FHKZMKHK",
@@ -441,7 +425,7 @@
       "reference_price": 499.0,
       "discount": 77.3,
       "first_seen": "2026-11-17T05:34:41Z",
-      "last_checked": "2026-11-20T22:49:16Z"
+      "last_checked": "2026-11-21T03:25:48Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -457,7 +441,7 @@
       "reference_price": 350.0,
       "discount": 77.3,
       "first_seen": "2026-11-17T04:35:04Z",
-      "last_checked": "2026-11-20T22:49:14Z"
+      "last_checked": "2026-11-21T03:25:45Z"
     },
     {
       "asin": "B008DDDFY4",
@@ -473,7 +457,7 @@
       "reference_price": 407.96,
       "discount": 77.1,
       "first_seen": "2026-11-17T04:34:37Z",
-      "last_checked": "2026-11-20T22:49:19Z"
+      "last_checked": "2026-11-21T03:25:51Z"
     },
     {
       "asin": "B0FR3J4YQ5",
@@ -489,7 +473,7 @@
       "reference_price": 1669.9,
       "discount": 76.4,
       "first_seen": "2026-11-17T14:24:45Z",
-      "last_checked": "2026-11-20T19:41:17Z"
+      "last_checked": "2026-11-21T03:24:58Z"
     },
     {
       "asin": "B0972NJM6W",
@@ -505,7 +489,7 @@
       "reference_price": 460.0,
       "discount": 76.2,
       "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-20T22:49:21Z"
+      "last_checked": "2026-11-21T03:25:54Z"
     },
     {
       "asin": "B0FR3D5N69",
@@ -521,7 +505,7 @@
       "reference_price": 1537.68,
       "discount": 76.1,
       "first_seen": "2026-11-19T10:08:32Z",
-      "last_checked": "2026-11-20T23:50:12Z"
+      "last_checked": "2026-11-21T03:25:01Z"
     },
     {
       "asin": "B0C8TQXV4W",
@@ -537,7 +521,7 @@
       "reference_price": 468.0,
       "discount": 75.9,
       "first_seen": "2026-11-17T05:34:49Z",
-      "last_checked": "2026-11-20T22:49:24Z"
+      "last_checked": "2026-11-21T03:25:57Z"
     },
     {
       "asin": "B09DKG7M9J",
@@ -569,7 +553,7 @@
       "reference_price": 211.27,
       "discount": 75.5,
       "first_seen": "2026-11-20T04:36:21Z",
-      "last_checked": "2026-11-20T22:49:27Z"
+      "last_checked": "2026-11-21T03:26:00Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -700,6 +684,22 @@
       "last_checked": "2026-11-20T22:51:04Z"
     },
     {
+      "asin": "B0775M2R94",
+      "title": "Levi's Womens Short Sleeve Shirt The Perfect Tee",
+      "image": "https://m.media-amazon.com/images/I/51ZbLA595qL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0775M2R94?aod=1",
+      "price": 326.49,
+      "condition": "Open Box - Very Good",
+      "condition_ar": "علبة مفتوحة - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 1257.2,
+      "list_price": null,
+      "reference_price": 1257.2,
+      "discount": 74.0,
+      "first_seen": "2026-11-21T03:25:04Z",
+      "last_checked": "2026-11-21T03:25:04Z"
+    },
+    {
       "asin": "B091CGHJ6W",
       "title": "Outer Space Planet 3D Wall Sticker Room Decor Removable Decals Home Living Room Decoration",
       "image": "https://m.media-amazon.com/images/I/51b4-2T6cpL._AC_UL320_.jpg",
@@ -713,7 +713,7 @@
       "reference_price": 276.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T04:35:14Z",
-      "last_checked": "2026-11-20T22:49:29Z"
+      "last_checked": "2026-11-21T03:26:03Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -793,7 +793,7 @@
       "reference_price": 437.0,
       "discount": 73.2,
       "first_seen": "2026-11-17T05:34:44Z",
-      "last_checked": "2026-11-20T22:49:32Z"
+      "last_checked": "2026-11-21T03:26:06Z"
     },
     {
       "asin": "B0BRSDKFJS",
@@ -889,7 +889,7 @@
       "reference_price": 1269.0,
       "discount": 72.2,
       "first_seen": "2026-11-18T05:41:19Z",
-      "last_checked": "2026-11-20T22:50:02Z"
+      "last_checked": "2026-11-21T03:25:07Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -905,7 +905,7 @@
       "reference_price": 187.31,
       "discount": 72.1,
       "first_seen": "2026-11-20T04:36:58Z",
-      "last_checked": "2026-11-20T22:49:38Z"
+      "last_checked": "2026-11-21T03:26:12Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -922,22 +922,6 @@
       "discount": 72.0,
       "first_seen": "2026-11-17T14:24:56Z",
       "last_checked": "2026-11-20T23:49:53Z"
-    },
-    {
-      "asin": "B091BSGSRJ",
-      "title": "Simulation Stone Wallpaper Living Room Bedroom Restaurant Bar Wall Sticker",
-      "image": "https://m.media-amazon.com/images/I/61XMc-l78vL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B091BSGSRJ?aod=1",
-      "price": 95.84,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 342.0,
-      "list_price": null,
-      "reference_price": 342.0,
-      "discount": 72.0,
-      "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-20T22:49:35Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -985,7 +969,7 @@
       "reference_price": 1029.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-20T23:50:15Z"
+      "last_checked": "2026-11-21T03:25:10Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1065,7 +1049,7 @@
       "reference_price": 2019.0,
       "discount": 71.0,
       "first_seen": "2026-11-17T20:07:40Z",
-      "last_checked": "2026-11-20T22:49:59Z"
+      "last_checked": "2026-11-21T03:25:13Z"
     },
     {
       "asin": "B0F924T6L2",
@@ -1081,7 +1065,7 @@
       "reference_price": 322.0,
       "discount": 70.8,
       "first_seen": "2026-11-17T05:35:05Z",
-      "last_checked": "2026-11-20T22:49:41Z"
+      "last_checked": "2026-11-21T03:26:14Z"
     },
     {
       "asin": "B0D5MQ5627",
@@ -1113,7 +1097,7 @@
       "reference_price": 310.0,
       "discount": 70.7,
       "first_seen": "2026-11-19T05:39:54Z",
-      "last_checked": "2026-11-20T22:49:46Z"
+      "last_checked": "2026-11-21T03:26:21Z"
     },
     {
       "asin": "B0FWS4P8TK",
@@ -1129,7 +1113,23 @@
       "reference_price": 230.0,
       "discount": 70.7,
       "first_seen": "2026-11-20T04:37:12Z",
-      "last_checked": "2026-11-20T22:49:44Z"
+      "last_checked": "2026-11-21T03:26:18Z"
+    },
+    {
+      "asin": "B091BSGSRJ",
+      "title": "Simulation Stone Wallpaper Living Room Bedroom Restaurant Bar Wall Sticker",
+      "image": "https://m.media-amazon.com/images/I/61XMc-l78vL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B091BSGSRJ?aod=1",
+      "price": 100.56,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 342.0,
+      "list_price": null,
+      "reference_price": 342.0,
+      "discount": 70.6,
+      "first_seen": "2026-11-17T04:35:47Z",
+      "last_checked": "2026-11-21T03:26:10Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1145,7 +1145,7 @@
       "reference_price": 258.72,
       "discount": 70.5,
       "first_seen": "2026-11-19T05:39:57Z",
-      "last_checked": "2026-11-20T22:49:49Z"
+      "last_checked": "2026-11-21T03:26:23Z"
     },
     {
       "asin": "B0DPVF59WL",
@@ -1209,7 +1209,7 @@
       "reference_price": 285.0,
       "discount": 70.3,
       "first_seen": "2026-11-18T01:14:55Z",
-      "last_checked": "2026-11-20T22:49:51Z"
+      "last_checked": "2026-11-21T03:26:26Z"
     },
     {
       "asin": "B0DF68NMF8",
