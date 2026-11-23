@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-22T23:42:46Z",
-    "status": "blocked",
-    "block_reason": "unexpected search page layout",
-    "last_success_at": "2026-11-22T22:48:17Z",
+    "updated_at": "2026-11-23T01:11:44Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-23T01:11:44Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
+      "pages": 20,
+      "products": 867,
+      "candidates": 10,
+      "verified": 10,
+      "new_deals": 1,
       "expired": 0,
       "alerts": 0
     },
     "sweep": {
-      "band": 8,
+      "band": 11,
       "bands": 15,
       "completed": 10,
       "last_completed_at": "2026-11-22T17:44:05Z"
@@ -121,7 +121,7 @@
       "reference_price": 2107.0,
       "discount": 87.4,
       "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-22T20:48:55Z"
+      "last_checked": "2026-11-23T01:10:08Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -201,7 +201,7 @@
       "reference_price": 1805.67,
       "discount": 83.5,
       "first_seen": "2026-11-18T15:30:38Z",
-      "last_checked": "2026-11-22T20:48:57Z"
+      "last_checked": "2026-11-23T01:10:11Z"
     },
     {
       "asin": "B0CZXZKFL3",
@@ -217,7 +217,7 @@
       "reference_price": 2528.0,
       "discount": 83.2,
       "first_seen": "2026-11-22T14:52:55Z",
-      "last_checked": "2026-11-22T20:49:00Z"
+      "last_checked": "2026-11-23T01:10:14Z"
     },
     {
       "asin": "0241583160",
@@ -345,7 +345,7 @@
       "reference_price": 1800.0,
       "discount": 79.1,
       "first_seen": "2026-11-17T20:07:34Z",
-      "last_checked": "2026-11-22T22:47:35Z"
+      "last_checked": "2026-11-23T01:10:16Z"
     },
     {
       "asin": "B0B4WKS1YM",
@@ -489,7 +489,7 @@
       "reference_price": 407.96,
       "discount": 77.1,
       "first_seen": "2026-11-17T04:34:37Z",
-      "last_checked": "2026-11-22T20:47:30Z"
+      "last_checked": "2026-11-23T01:10:36Z"
     },
     {
       "asin": "B0CFY3WH8B",
@@ -508,6 +508,22 @@
       "last_checked": "2026-11-22T22:46:58Z"
     },
     {
+      "asin": "B0GJMN88P9",
+      "title": "Cannes Glass Jar Bowknot - Glass Mug with Wood Lid - 550ml Capacity - Multi Use - Generic",
+      "image": "https://m.media-amazon.com/images/I/81jACwc8ASL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0GJMN88P9?aod=1",
+      "price": 49.22,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 211.27,
+      "list_price": null,
+      "reference_price": 211.27,
+      "discount": 76.7,
+      "first_seen": "2026-11-20T04:36:21Z",
+      "last_checked": "2026-11-23T01:10:39Z"
+    },
+    {
       "asin": "B0FR3J4YQ5",
       "title": "Royal Leerdam Freya 12-Piece Glassware Set, Premium Crystal for Wine, Water, or Cocktails",
       "image": "https://m.media-amazon.com/images/I/71+o6salTiL._AC_UL320_.jpg",
@@ -521,7 +537,7 @@
       "reference_price": 1669.9,
       "discount": 76.6,
       "first_seen": "2026-11-17T14:24:45Z",
-      "last_checked": "2026-11-22T20:49:04Z"
+      "last_checked": "2026-11-23T01:10:19Z"
     },
     {
       "asin": "B0972NJM6W",
@@ -569,23 +585,7 @@
       "reference_price": 1537.68,
       "discount": 76.1,
       "first_seen": "2026-11-19T10:08:32Z",
-      "last_checked": "2026-11-22T20:49:07Z"
-    },
-    {
-      "asin": "B0GJMN88P9",
-      "title": "Cannes Glass Jar Bowknot - Glass Mug with Wood Lid - 550ml Capacity - Multi Use - Generic",
-      "image": "https://m.media-amazon.com/images/I/81jACwc8ASL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0GJMN88P9?aod=1",
-      "price": 51.71,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
-      "seller": "Amazon Resale",
-      "new_price": 211.27,
-      "list_price": null,
-      "reference_price": 211.27,
-      "discount": 75.5,
-      "first_seen": "2026-11-20T04:36:21Z",
-      "last_checked": "2026-11-22T20:47:32Z"
+      "last_checked": "2026-11-23T01:10:22Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -601,7 +601,7 @@
       "reference_price": 150.0,
       "discount": 75.4,
       "first_seen": "2026-11-17T00:27:15Z",
-      "last_checked": "2026-11-22T20:47:35Z"
+      "last_checked": "2026-11-23T01:10:42Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -617,7 +617,7 @@
       "reference_price": 184.68,
       "discount": 75.3,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-22T20:47:38Z"
+      "last_checked": "2026-11-23T01:10:45Z"
     },
     {
       "asin": "B0DJFT654B",
@@ -633,7 +633,7 @@
       "reference_price": 150.0,
       "discount": 75.0,
       "first_seen": "2026-11-20T04:36:33Z",
-      "last_checked": "2026-11-22T20:47:40Z"
+      "last_checked": "2026-11-23T01:10:47Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -665,7 +665,7 @@
       "reference_price": 149.0,
       "discount": 74.5,
       "first_seen": "2026-11-17T04:35:26Z",
-      "last_checked": "2026-11-22T20:47:45Z"
+      "last_checked": "2026-11-23T01:10:52Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -697,7 +697,7 @@
       "reference_price": 276.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T04:35:14Z",
-      "last_checked": "2026-11-22T20:47:42Z"
+      "last_checked": "2026-11-23T01:10:50Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -713,7 +713,7 @@
       "reference_price": 119.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-22T20:47:48Z"
+      "last_checked": "2026-11-23T01:10:56Z"
     },
     {
       "asin": "B0CQ6ZGNBK",
@@ -745,7 +745,7 @@
       "reference_price": 179.0,
       "discount": 73.3,
       "first_seen": "2026-11-20T04:36:41Z",
-      "last_checked": "2026-11-22T20:47:54Z"
+      "last_checked": "2026-11-23T01:11:01Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -761,7 +761,7 @@
       "reference_price": 157.01,
       "discount": 73.3,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-22T20:47:51Z"
+      "last_checked": "2026-11-23T01:10:58Z"
     },
     {
       "asin": "B0G262S77Z",
@@ -793,7 +793,7 @@
       "reference_price": 187.31,
       "discount": 73.1,
       "first_seen": "2026-11-20T04:36:58Z",
-      "last_checked": "2026-11-22T20:47:56Z"
+      "last_checked": "2026-11-23T01:11:05Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -809,7 +809,7 @@
       "reference_price": 1029.0,
       "discount": 73.1,
       "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-22T20:49:10Z"
+      "last_checked": "2026-11-23T01:10:25Z"
     },
     {
       "asin": "B0BRSDKFJS",
@@ -825,7 +825,7 @@
       "reference_price": 182.0,
       "discount": 72.9,
       "first_seen": "2026-11-20T01:05:01Z",
-      "last_checked": "2026-11-22T20:47:59Z"
+      "last_checked": "2026-11-23T01:11:07Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -860,6 +860,22 @@
       "last_checked": "2026-11-22T20:48:50Z"
     },
     {
+      "asin": "B0F7J2VFLP",
+      "title": "Rider mens RIDER STREET CITY THONG AD Slipers",
+      "image": "https://m.media-amazon.com/images/I/61UlVKb+H7L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0F7J2VFLP?aod=1",
+      "price": 250.77,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 725.0,
+      "list_price": 909.0,
+      "reference_price": 909.0,
+      "discount": 72.4,
+      "first_seen": "2026-11-23T01:10:27Z",
+      "last_checked": "2026-11-23T01:10:27Z"
+    },
+    {
       "asin": "B0CP87RW7M",
       "title": "Elmaayergy H507-4 K-155 4-Racks Document Tray Organiser Holder A5 With Premium, Long Lasting And Eco-Friendly Material",
       "image": "https://m.media-amazon.com/images/I/61HF46REC9L._AC_UL320_.jpg",
@@ -873,7 +889,7 @@
       "reference_price": 1269.0,
       "discount": 72.2,
       "first_seen": "2026-11-18T05:41:19Z",
-      "last_checked": "2026-11-22T20:48:52Z"
+      "last_checked": "2026-11-23T01:10:33Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -937,7 +953,7 @@
       "reference_price": 145.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-22T20:48:02Z"
+      "last_checked": "2026-11-23T01:11:11Z"
     },
     {
       "asin": "B0DKD7LK7S",
@@ -956,6 +972,22 @@
       "last_checked": "2026-11-22T22:47:19Z"
     },
     {
+      "asin": "B0D4BWDG51",
+      "title": "BasketBall Size 5, Multi Color",
+      "image": "https://m.media-amazon.com/images/I/819TffIOacL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0D4BWDG51?aod=1",
+      "price": 221.4,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 779.0,
+      "list_price": null,
+      "reference_price": 779.0,
+      "discount": 71.6,
+      "first_seen": "2026-11-17T14:24:53Z",
+      "last_checked": "2026-11-23T01:10:30Z"
+    },
+    {
       "asin": "B0DF68NMF8",
       "title": "360 Degree Z0IAG1UYXC MIQISA Volley Ball, Multicolor",
       "image": "https://m.media-amazon.com/images/I/51uIqSV2-4L._AC_UL320_.jpg",
@@ -969,7 +1001,7 @@
       "reference_price": 285.2,
       "discount": 71.5,
       "first_seen": "2026-11-18T01:14:59Z",
-      "last_checked": "2026-11-22T20:48:05Z"
+      "last_checked": "2026-11-23T01:11:14Z"
     },
     {
       "asin": "B0F924T6L2",
@@ -985,7 +1017,7 @@
       "reference_price": 322.0,
       "discount": 71.4,
       "first_seen": "2026-11-17T05:35:05Z",
-      "last_checked": "2026-11-22T20:48:11Z"
+      "last_checked": "2026-11-23T01:11:18Z"
     },
     {
       "asin": "B0FWS4P8TK",
@@ -1001,7 +1033,7 @@
       "reference_price": 230.0,
       "discount": 71.4,
       "first_seen": "2026-11-20T04:37:12Z",
-      "last_checked": "2026-11-22T20:48:09Z"
+      "last_checked": "2026-11-23T01:11:16Z"
     },
     {
       "asin": "B08QGZT4YQ",
@@ -1033,7 +1065,7 @@
       "reference_price": 120.0,
       "discount": 71.1,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-22T20:48:15Z"
+      "last_checked": "2026-11-23T01:11:22Z"
     },
     {
       "asin": "B0DPKXFS4S",
@@ -1065,7 +1097,7 @@
       "reference_price": 310.0,
       "discount": 70.7,
       "first_seen": "2026-11-19T05:39:54Z",
-      "last_checked": "2026-11-22T20:48:17Z"
+      "last_checked": "2026-11-23T01:11:24Z"
     },
     {
       "asin": "B08YNM3H9Q",
@@ -1113,7 +1145,7 @@
       "reference_price": 285.0,
       "discount": 70.6,
       "first_seen": "2026-11-18T01:14:55Z",
-      "last_checked": "2026-11-22T20:48:20Z"
+      "last_checked": "2026-11-23T01:11:27Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1129,7 +1161,7 @@
       "reference_price": 258.72,
       "discount": 70.5,
       "first_seen": "2026-11-19T05:39:57Z",
-      "last_checked": "2026-11-22T20:48:23Z"
+      "last_checked": "2026-11-23T01:11:30Z"
     },
     {
       "asin": "B0DPVF59WL",
@@ -1145,7 +1177,7 @@
       "reference_price": 118.53,
       "discount": 70.4,
       "first_seen": "2026-11-17T05:35:08Z",
-      "last_checked": "2026-11-22T20:48:26Z"
+      "last_checked": "2026-11-23T01:11:34Z"
     },
     {
       "asin": "B0DYDTK1FY",
@@ -1177,7 +1209,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-22T20:48:29Z"
+      "last_checked": "2026-11-23T01:11:37Z"
     },
     {
       "asin": "B09Q1QZLX9",
@@ -1193,7 +1225,7 @@
       "reference_price": 170.4,
       "discount": 70.3,
       "first_seen": "2026-11-22T20:48:32Z",
-      "last_checked": "2026-11-22T20:48:32Z"
+      "last_checked": "2026-11-23T01:11:39Z"
     },
     {
       "asin": "B0BDLXDKBQ",
@@ -1209,7 +1241,7 @@
       "reference_price": 245.0,
       "discount": 70.2,
       "first_seen": "2026-11-17T05:35:25Z",
-      "last_checked": "2026-11-22T20:48:35Z"
+      "last_checked": "2026-11-23T01:11:42Z"
     },
     {
       "asin": "B0B7FD4MFH",
@@ -1225,23 +1257,7 @@
       "reference_price": 221.61,
       "discount": 70.1,
       "first_seen": "2026-11-17T04:35:10Z",
-      "last_checked": "2026-11-22T20:48:38Z"
-    },
-    {
-      "asin": "B0D4BWDG51",
-      "title": "BasketBall Size 5, Multi Color",
-      "image": "https://m.media-amazon.com/images/I/819TffIOacL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0D4BWDG51?aod=1",
-      "price": 232.6,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 779.0,
-      "list_price": null,
-      "reference_price": 779.0,
-      "discount": 70.1,
-      "first_seen": "2026-11-17T14:24:53Z",
-      "last_checked": "2026-11-22T22:47:44Z"
+      "last_checked": "2026-11-23T01:11:44Z"
     }
   ]
 }
