@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-23T06:07:05Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-23T01:11:44Z",
+    "updated_at": "2026-11-23T07:41:17Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-23T07:41:17Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
+      "pages": 20,
+      "products": 855,
+      "candidates": 2,
+      "verified": 2,
       "new_deals": 0,
       "expired": 0,
       "alerts": 0
     },
     "sweep": {
-      "band": 11,
+      "band": 15,
       "bands": 15,
       "completed": 10,
       "last_completed_at": "2026-11-22T17:44:05Z"
@@ -73,7 +73,7 @@
       "reference_price": 220.0,
       "discount": 90.6,
       "first_seen": "2026-11-19T15:35:03Z",
-      "last_checked": "2026-11-22T20:49:38Z"
+      "last_checked": "2026-11-23T07:40:26Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -105,7 +105,7 @@
       "reference_price": 534.0,
       "discount": 89.4,
       "first_seen": "2026-11-21T22:43:32Z",
-      "last_checked": "2026-11-22T20:49:12Z"
+      "last_checked": "2026-11-23T07:40:21Z"
     },
     {
       "asin": "B08T7P3J1S",
@@ -169,7 +169,7 @@
       "reference_price": 361.0,
       "discount": 84.0,
       "first_seen": "2026-11-17T04:34:21Z",
-      "last_checked": "2026-11-22T22:47:27Z"
+      "last_checked": "2026-11-23T07:41:17Z"
     },
     {
       "asin": "1405328576",
@@ -217,7 +217,7 @@
       "reference_price": 2528.0,
       "discount": 83.2,
       "first_seen": "2026-11-22T14:52:55Z",
-      "last_checked": "2026-11-23T01:10:14Z"
+      "last_checked": "2026-11-23T07:40:02Z"
     },
     {
       "asin": "0241583160",
@@ -233,7 +233,7 @@
       "reference_price": 1382.0,
       "discount": 82.0,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-22T22:46:50Z"
+      "last_checked": "2026-11-23T07:40:40Z"
     },
     {
       "asin": "B08W9K5CMK",
@@ -249,7 +249,7 @@
       "reference_price": 635.0,
       "discount": 81.3,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-22T22:46:53Z"
+      "last_checked": "2026-11-23T07:40:43Z"
     },
     {
       "asin": "B0DFH6VTXM",
@@ -281,7 +281,7 @@
       "reference_price": 99.0,
       "discount": 80.7,
       "first_seen": "2026-11-17T00:26:58Z",
-      "last_checked": "2026-11-22T20:49:40Z"
+      "last_checked": "2026-11-23T07:40:29Z"
     },
     {
       "asin": "B0B9P24XQX",
@@ -329,7 +329,7 @@
       "reference_price": 119.0,
       "discount": 79.4,
       "first_seen": "2026-11-17T00:27:08Z",
-      "last_checked": "2026-11-22T20:49:44Z"
+      "last_checked": "2026-11-23T07:40:32Z"
     },
     {
       "asin": "B0001AU7SO",
@@ -393,7 +393,7 @@
       "reference_price": 499.0,
       "discount": 78.4,
       "first_seen": "2026-11-17T05:34:41Z",
-      "last_checked": "2026-11-22T22:46:55Z"
+      "last_checked": "2026-11-23T07:40:46Z"
     },
     {
       "asin": "B0DJFVH12D",
@@ -457,7 +457,7 @@
       "reference_price": 680.0,
       "discount": 77.4,
       "first_seen": "2026-11-17T14:24:47Z",
-      "last_checked": "2026-11-22T20:48:47Z"
+      "last_checked": "2026-11-23T07:40:14Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -505,7 +505,7 @@
       "reference_price": 522.03,
       "discount": 77.0,
       "first_seen": "2026-11-21T22:43:57Z",
-      "last_checked": "2026-11-22T22:46:58Z"
+      "last_checked": "2026-11-23T07:40:49Z"
     },
     {
       "asin": "B0GJMN88P9",
@@ -548,12 +548,12 @@
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
-      "new_price": 128.34,
+      "new_price": 210.0,
       "list_price": 460.0,
       "reference_price": 460.0,
       "discount": 76.3,
       "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-22T22:47:02Z"
+      "last_checked": "2026-11-23T07:40:51Z"
     },
     {
       "asin": "B0C8TQXV4W",
@@ -569,7 +569,7 @@
       "reference_price": 468.0,
       "discount": 76.2,
       "first_seen": "2026-11-17T05:34:49Z",
-      "last_checked": "2026-11-22T22:47:04Z"
+      "last_checked": "2026-11-23T07:40:54Z"
     },
     {
       "asin": "B0FR3D5N69",
@@ -649,7 +649,7 @@
       "reference_price": 93.0,
       "discount": 74.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-22T20:49:47Z"
+      "last_checked": "2026-11-23T07:40:34Z"
     },
     {
       "asin": "B0DBSR9Z6J",
@@ -668,6 +668,22 @@
       "last_checked": "2026-11-23T01:10:52Z"
     },
     {
+      "asin": "B0F8C3KKCM",
+      "title": "Glass Tumbler with Wooden Lid and Straw - Suitable for Iced Coffee, Juices, Hot and Cold Drinks (1)",
+      "image": "https://m.media-amazon.com/images/I/31sVzUyjg0L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0F8C3KKCM?aod=1",
+      "price": 59.45,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 230.0,
+      "list_price": null,
+      "reference_price": 230.0,
+      "discount": 74.2,
+      "first_seen": "2026-11-17T22:58:04Z",
+      "last_checked": "2026-11-23T07:40:18Z"
+    },
+    {
       "asin": "B091CM9VJK",
       "title": "Anti-Stress Fitness Boxing Stand Set With Adjustable Height, Punching Ball, Gloves, Inflation Pump - Gift for Boxing Lovers",
       "image": "https://m.media-amazon.com/images/I/61jpw8Vw3HL._AC_UL320_.jpg",
@@ -681,7 +697,23 @@
       "reference_price": 2591.0,
       "discount": 74.1,
       "first_seen": "2026-11-17T20:07:38Z",
-      "last_checked": "2026-11-22T22:47:12Z"
+      "last_checked": "2026-11-23T07:40:05Z"
+    },
+    {
+      "asin": "B0CQ6ZGNBK",
+      "title": "car Cover 2 Layers for Suzuki Swift GL plus Hatchback 2017five years warranty 35561",
+      "image": "https://m.media-amazon.com/images/I/51vYbeZAqhL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CQ6ZGNBK?aod=1",
+      "price": 929.29,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 3589.0,
+      "list_price": null,
+      "reference_price": 3589.0,
+      "discount": 74.1,
+      "first_seen": "2026-11-17T22:57:59Z",
+      "last_checked": "2026-11-23T07:40:37Z"
     },
     {
       "asin": "B091CGHJ6W",
@@ -714,22 +746,6 @@
       "discount": 73.7,
       "first_seen": "2026-11-17T00:27:31Z",
       "last_checked": "2026-11-23T01:10:56Z"
-    },
-    {
-      "asin": "B0CQ6ZGNBK",
-      "title": "car Cover 2 Layers for Suzuki Swift GL plus Hatchback 2017five years warranty 35561",
-      "image": "https://m.media-amazon.com/images/I/51vYbeZAqhL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CQ6ZGNBK?aod=1",
-      "price": 946.92,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 3589.0,
-      "list_price": null,
-      "reference_price": 3589.0,
-      "discount": 73.6,
-      "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-22T20:49:50Z"
     },
     {
       "asin": "B0CLYR41RL",
@@ -841,23 +857,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-22T22:47:15Z"
-    },
-    {
-      "asin": "B0F8C3KKCM",
-      "title": "Glass Tumbler with Wooden Lid and Straw - Suitable for Iced Coffee, Juices, Hot and Cold Drinks (1)",
-      "image": "https://m.media-amazon.com/images/I/31sVzUyjg0L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0F8C3KKCM?aod=1",
-      "price": 62.65,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 230.0,
-      "list_price": null,
-      "reference_price": 230.0,
-      "discount": 72.8,
-      "first_seen": "2026-11-17T22:58:04Z",
-      "last_checked": "2026-11-22T20:48:50Z"
+      "last_checked": "2026-11-23T07:41:03Z"
     },
     {
       "asin": "B0F7J2VFLP",
@@ -892,6 +892,22 @@
       "last_checked": "2026-11-23T01:10:33Z"
     },
     {
+      "asin": "B08YNPJKX3",
+      "title": "Portal Wood 3 Cubic Wall Shelves - White",
+      "image": "https://m.media-amazon.com/images/I/51P13oEJaqL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B08YNPJKX3?aod=1",
+      "price": 83.83,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 251.6,
+      "list_price": 300.0,
+      "reference_price": 300.0,
+      "discount": 72.1,
+      "first_seen": "2026-11-18T12:04:43Z",
+      "last_checked": "2026-11-23T07:40:12Z"
+    },
+    {
       "asin": "B0FCXQWRHW",
       "title": "3 PCS Silicone Fishing Rod Holder Ball Straps with 5 Hole Portable,Rubber Fishing Pole Clips Fly Fishing Accessories.",
       "image": "https://m.media-amazon.com/images/I/51n8thXOkeL._AC_UL320_.jpg",
@@ -905,7 +921,7 @@
       "reference_price": 599.0,
       "discount": 72.0,
       "first_seen": "2026-11-17T14:24:56Z",
-      "last_checked": "2026-11-22T20:49:35Z"
+      "last_checked": "2026-11-23T07:40:24Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -921,23 +937,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-22T22:47:17Z"
-    },
-    {
-      "asin": "B08YNPJKX3",
-      "title": "Portal Wood 3 Cubic Wall Shelves - White",
-      "image": "https://m.media-amazon.com/images/I/51P13oEJaqL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B08YNPJKX3?aod=1",
-      "price": 84.52,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 251.6,
-      "list_price": 300.0,
-      "reference_price": 300.0,
-      "discount": 71.8,
-      "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-22T20:48:44Z"
+      "last_checked": "2026-11-23T07:41:05Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -969,7 +969,7 @@
       "reference_price": 121.42,
       "discount": 71.7,
       "first_seen": "2026-11-20T01:05:15Z",
-      "last_checked": "2026-11-22T22:47:19Z"
+      "last_checked": "2026-11-23T07:41:09Z"
     },
     {
       "asin": "B0D4BWDG51",
@@ -1049,7 +1049,7 @@
       "reference_price": 151.2,
       "discount": 71.2,
       "first_seen": "2026-11-22T17:44:51Z",
-      "last_checked": "2026-11-22T22:47:21Z"
+      "last_checked": "2026-11-23T07:41:11Z"
     },
     {
       "asin": "B0BN44LG9S",
@@ -1081,7 +1081,7 @@
       "reference_price": 41.0,
       "discount": 71.0,
       "first_seen": "2026-11-22T17:44:53Z",
-      "last_checked": "2026-11-22T22:47:24Z"
+      "last_checked": "2026-11-23T07:41:15Z"
     },
     {
       "asin": "B091BVQ91K",
@@ -1113,7 +1113,7 @@
       "reference_price": 165.0,
       "discount": 70.7,
       "first_seen": "2026-11-18T01:15:02Z",
-      "last_checked": "2026-11-22T20:48:41Z"
+      "last_checked": "2026-11-23T07:40:08Z"
     },
     {
       "asin": "B091BSGSRJ",
@@ -1129,7 +1129,7 @@
       "reference_price": 342.0,
       "discount": 70.6,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-22T22:47:07Z"
+      "last_checked": "2026-11-23T07:40:57Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1193,7 +1193,7 @@
       "reference_price": 432.15,
       "discount": 70.4,
       "first_seen": "2026-11-20T05:39:27Z",
-      "last_checked": "2026-11-22T22:47:09Z"
+      "last_checked": "2026-11-23T07:41:00Z"
     },
     {
       "asin": "B0DJN4BN12",
