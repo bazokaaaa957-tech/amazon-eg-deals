@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-23T17:11:56Z",
+    "updated_at": "2026-11-23T18:29:14Z",
     "status": "ok",
     "block_reason": null,
-    "last_success_at": "2026-11-23T17:11:56Z",
+    "last_success_at": "2026-11-23T18:29:14Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -12,15 +12,15 @@
     },
     "run": {
       "pages": 20,
-      "products": 873,
-      "candidates": 5,
-      "verified": 5,
+      "products": 855,
+      "candidates": 8,
+      "verified": 8,
       "new_deals": 0,
-      "expired": 0,
+      "expired": 2,
       "alerts": 0
     },
     "sweep": {
-      "band": 9,
+      "band": 13,
       "bands": 15,
       "completed": 11,
       "last_completed_at": "2026-11-23T13:18:40Z"
@@ -41,7 +41,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-23T14:43:08Z"
+      "last_checked": "2026-11-23T18:28:15Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -89,7 +89,7 @@
       "reference_price": 713.0,
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
-      "last_checked": "2026-11-23T14:43:11Z"
+      "last_checked": "2026-11-23T18:28:18Z"
     },
     {
       "asin": "B09LD5Y2MW",
@@ -105,23 +105,7 @@
       "reference_price": 534.0,
       "discount": 89.4,
       "first_seen": "2026-11-21T22:43:32Z",
-      "last_checked": "2026-11-23T14:43:14Z"
-    },
-    {
-      "asin": "B08T7P3J1S",
-      "title": "Acrylic Tea Bags Organizer Box - Clear Storage Box with Lid - Ideal for Tea Bags, Packets, Condiments, Crafts - 9 Compartments",
-      "image": "https://m.media-amazon.com/images/I/61Yf8i7VUBL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B08T7P3J1S?aod=1",
-      "price": 264.92,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 2107.0,
-      "list_price": null,
-      "reference_price": 2107.0,
-      "discount": 87.4,
-      "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-23T13:21:59Z"
+      "last_checked": "2026-11-23T18:28:22Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -137,7 +121,23 @@
       "reference_price": 608.76,
       "discount": 86.4,
       "first_seen": "2026-11-17T04:34:07Z",
-      "last_checked": "2026-11-23T14:43:17Z"
+      "last_checked": "2026-11-23T18:28:25Z"
+    },
+    {
+      "asin": "B08T7P3J1S",
+      "title": "Acrylic Tea Bags Organizer Box - Clear Storage Box with Lid - Ideal for Tea Bags, Packets, Condiments, Crafts - 9 Compartments",
+      "image": "https://m.media-amazon.com/images/I/61Yf8i7VUBL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B08T7P3J1S?aod=1",
+      "price": 264.92,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 1784.94,
+      "list_price": null,
+      "reference_price": 1784.94,
+      "discount": 85.2,
+      "first_seen": "2026-11-17T14:24:39Z",
+      "last_checked": "2026-11-23T18:27:41Z"
     },
     {
       "asin": "B09HS5H4G4",
@@ -201,7 +201,7 @@
       "reference_price": 1805.67,
       "discount": 83.5,
       "first_seen": "2026-11-18T15:30:38Z",
-      "last_checked": "2026-11-23T13:22:03Z"
+      "last_checked": "2026-11-23T18:27:44Z"
     },
     {
       "asin": "B0CZXZKFL3",
@@ -217,7 +217,7 @@
       "reference_price": 2528.0,
       "discount": 83.2,
       "first_seen": "2026-11-22T14:52:55Z",
-      "last_checked": "2026-11-23T14:44:21Z"
+      "last_checked": "2026-11-23T18:27:46Z"
     },
     {
       "asin": "0241583160",
@@ -249,7 +249,7 @@
       "reference_price": 635.0,
       "discount": 81.3,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-23T14:43:20Z"
+      "last_checked": "2026-11-23T18:28:28Z"
     },
     {
       "asin": "B0DFH6VTXM",
@@ -297,7 +297,7 @@
       "reference_price": 1250.0,
       "discount": 79.5,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-23T17:11:56Z"
+      "last_checked": "2026-11-23T18:27:50Z"
     },
     {
       "asin": "B09232FTX8",
@@ -329,7 +329,7 @@
       "reference_price": 401.28,
       "discount": 79.3,
       "first_seen": "2026-11-17T05:34:38Z",
-      "last_checked": "2026-11-23T13:21:53Z"
+      "last_checked": "2026-11-23T18:28:07Z"
     },
     {
       "asin": "B0001AU7SO",
@@ -345,7 +345,7 @@
       "reference_price": 1800.0,
       "discount": 79.1,
       "first_seen": "2026-11-17T20:07:34Z",
-      "last_checked": "2026-11-23T13:22:05Z"
+      "last_checked": "2026-11-23T18:28:10Z"
     },
     {
       "asin": "B08YNP8DHG",
@@ -393,7 +393,7 @@
       "reference_price": 250.0,
       "discount": 78.9,
       "first_seen": "2026-11-17T04:34:33Z",
-      "last_checked": "2026-11-23T14:43:23Z"
+      "last_checked": "2026-11-23T18:28:32Z"
     },
     {
       "asin": "B0FHKZMKHK",
@@ -409,7 +409,7 @@
       "reference_price": 499.0,
       "discount": 78.4,
       "first_seen": "2026-11-17T05:34:41Z",
-      "last_checked": "2026-11-23T14:43:30Z"
+      "last_checked": "2026-11-23T18:28:37Z"
     },
     {
       "asin": "B0B8H5MZ47",
@@ -425,7 +425,7 @@
       "reference_price": 350.0,
       "discount": 78.4,
       "first_seen": "2026-11-23T14:43:27Z",
-      "last_checked": "2026-11-23T14:43:27Z"
+      "last_checked": "2026-11-23T18:28:34Z"
     },
     {
       "asin": "B0CZJ3T8FN",
@@ -460,22 +460,6 @@
       "last_checked": "2026-11-23T17:11:53Z"
     },
     {
-      "asin": "B091C1W9T9",
-      "title": "Anti burst gym exercise sports swiss yoga aerobic body fitness ball (65cm, blue)",
-      "image": "https://m.media-amazon.com/images/I/61COz0aymaL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B091C1W9T9?aod=1",
-      "price": 82.7,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 297.0,
-      "list_price": 377.0,
-      "reference_price": 377.0,
-      "discount": 78.1,
-      "first_seen": "2026-11-23T14:43:32Z",
-      "last_checked": "2026-11-23T14:43:32Z"
-    },
-    {
       "asin": "B0CM6D36WM",
       "title": "Kitchen Plastic Bag Holder | Wall Mounted Large Capacity Extractive Garbage Bag Storage box with Self Adhesive Sticker | Rubbish Box - 1 Pcs, Multicolor",
       "image": "https://m.media-amazon.com/images/I/51m-aMFA2-L._AC_UL320_.jpg",
@@ -505,7 +489,7 @@
       "reference_price": 226.8,
       "discount": 77.6,
       "first_seen": "2026-11-17T04:34:44Z",
-      "last_checked": "2026-11-23T13:21:50Z"
+      "last_checked": "2026-11-23T18:28:04Z"
     },
     {
       "asin": "B09DKG7M9J",
@@ -537,7 +521,7 @@
       "reference_price": 326.0,
       "discount": 77.4,
       "first_seen": "2026-11-23T14:43:35Z",
-      "last_checked": "2026-11-23T14:43:35Z"
+      "last_checked": "2026-11-23T18:28:43Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -553,23 +537,7 @@
       "reference_price": 350.0,
       "discount": 77.3,
       "first_seen": "2026-11-17T04:35:04Z",
-      "last_checked": "2026-11-23T14:43:38Z"
-    },
-    {
-      "asin": "B008DDDFY4",
-      "title": "Omada ECOLIVING Jar 0.5 LT - Ivory",
-      "image": "https://m.media-amazon.com/images/I/61vxzvx+HaL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B008DDDFY4?aod=1",
-      "price": 93.39,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 407.96,
-      "list_price": null,
-      "reference_price": 407.96,
-      "discount": 77.1,
-      "first_seen": "2026-11-17T04:34:37Z",
-      "last_checked": "2026-11-23T14:43:41Z"
+      "last_checked": "2026-11-23T18:28:46Z"
     },
     {
       "asin": "B0CFY3WH8B",
@@ -585,7 +553,7 @@
       "reference_price": 522.03,
       "discount": 77.0,
       "first_seen": "2026-11-21T22:43:57Z",
-      "last_checked": "2026-11-23T14:43:44Z"
+      "last_checked": "2026-11-23T18:28:52Z"
     },
     {
       "asin": "B0GJMN88P9",
@@ -617,7 +585,7 @@
       "reference_price": 1669.9,
       "discount": 76.6,
       "first_seen": "2026-11-17T14:24:45Z",
-      "last_checked": "2026-11-23T13:22:08Z"
+      "last_checked": "2026-11-23T18:27:52Z"
     },
     {
       "asin": "B0972NJM6W",
@@ -633,7 +601,7 @@
       "reference_price": 460.0,
       "discount": 76.3,
       "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-23T14:43:48Z"
+      "last_checked": "2026-11-23T18:28:55Z"
     },
     {
       "asin": "B0C8TQXV4W",
@@ -649,7 +617,7 @@
       "reference_price": 468.0,
       "discount": 76.2,
       "first_seen": "2026-11-17T05:34:49Z",
-      "last_checked": "2026-11-23T14:43:51Z"
+      "last_checked": "2026-11-23T18:28:58Z"
     },
     {
       "asin": "B0FR3D5N69",
@@ -665,7 +633,7 @@
       "reference_price": 1537.68,
       "discount": 76.1,
       "first_seen": "2026-11-19T10:08:32Z",
-      "last_checked": "2026-11-23T13:22:12Z"
+      "last_checked": "2026-11-23T18:27:55Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -809,7 +777,7 @@
       "reference_price": 276.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T04:35:14Z",
-      "last_checked": "2026-11-23T14:43:53Z"
+      "last_checked": "2026-11-23T18:29:01Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -889,7 +857,7 @@
       "reference_price": 437.0,
       "discount": 73.2,
       "first_seen": "2026-11-17T05:34:44Z",
-      "last_checked": "2026-11-23T14:43:57Z"
+      "last_checked": "2026-11-23T18:29:04Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -905,7 +873,7 @@
       "reference_price": 187.31,
       "discount": 73.1,
       "first_seen": "2026-11-20T04:36:58Z",
-      "last_checked": "2026-11-23T14:43:59Z"
+      "last_checked": "2026-11-23T18:29:07Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -921,7 +889,7 @@
       "reference_price": 1029.0,
       "discount": 73.1,
       "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-23T13:22:16Z"
+      "last_checked": "2026-11-23T18:27:57Z"
     },
     {
       "asin": "B0BRSDKFJS",
@@ -956,6 +924,22 @@
       "last_checked": "2026-11-23T14:44:45Z"
     },
     {
+      "asin": "B091BVQ91K",
+      "title": "Children's cartoon wall stickers solar wall stickers children's room background decorative wall stickers",
+      "image": "https://m.media-amazon.com/images/I/619hMk5mk3L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B091BVQ91K?aod=1",
+      "price": 85.02,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 310.0,
+      "list_price": null,
+      "reference_price": 310.0,
+      "discount": 72.6,
+      "first_seen": "2026-11-19T05:39:54Z",
+      "last_checked": "2026-11-23T18:28:13Z"
+    },
+    {
       "asin": "B0F7J2VFLP",
       "title": "Rider mens RIDER STREET CITY THONG AD Slipers",
       "image": "https://m.media-amazon.com/images/I/61UlVKb+H7L._AC_UL320_.jpg",
@@ -985,7 +969,7 @@
       "reference_price": 1269.0,
       "discount": 72.2,
       "first_seen": "2026-11-18T05:41:19Z",
-      "last_checked": "2026-11-23T13:22:24Z"
+      "last_checked": "2026-11-23T18:28:01Z"
     },
     {
       "asin": "B091NYPJZ5",
@@ -1108,12 +1092,12 @@
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
-      "new_price": 247.0,
+      "new_price": null,
       "list_price": 285.2,
       "reference_price": 285.2,
       "discount": 71.5,
       "first_seen": "2026-11-18T01:14:59Z",
-      "last_checked": "2026-11-23T14:44:03Z"
+      "last_checked": "2026-11-23T18:29:09Z"
     },
     {
       "asin": "B0FWS4P8TK",
@@ -1129,7 +1113,7 @@
       "reference_price": 230.0,
       "discount": 71.4,
       "first_seen": "2026-11-20T04:37:12Z",
-      "last_checked": "2026-11-23T14:44:06Z"
+      "last_checked": "2026-11-23T18:29:12Z"
     },
     {
       "asin": "B08QGZT4YQ",
@@ -1180,22 +1164,6 @@
       "last_checked": "2026-11-23T17:11:30Z"
     },
     {
-      "asin": "B091BVQ91K",
-      "title": "Children's cartoon wall stickers solar wall stickers children's room background decorative wall stickers",
-      "image": "https://m.media-amazon.com/images/I/619hMk5mk3L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B091BVQ91K?aod=1",
-      "price": 90.84,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 310.0,
-      "list_price": null,
-      "reference_price": 310.0,
-      "discount": 70.7,
-      "first_seen": "2026-11-19T05:39:54Z",
-      "last_checked": "2026-11-23T13:22:42Z"
-    },
-    {
       "asin": "B08YNM3H9Q",
       "title": "Microwave Popcorn Maker - Yellow",
       "image": "https://m.media-amazon.com/images/I/41GFxw0+vmL._AC_UL320_.jpg",
@@ -1225,7 +1193,7 @@
       "reference_price": 342.0,
       "discount": 70.6,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-23T14:44:08Z"
+      "last_checked": "2026-11-23T18:29:14Z"
     },
     {
       "asin": "B0D8199FKW",
