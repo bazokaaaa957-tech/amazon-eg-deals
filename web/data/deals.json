@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-24T12:36:09Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-24T08:47:26Z",
+    "updated_at": "2026-11-24T13:58:46Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-24T13:58:46Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 1,
-      "products": 48,
-      "candidates": 0,
-      "verified": 0,
+      "pages": 20,
+      "products": 868,
+      "candidates": 2,
+      "verified": 2,
       "new_deals": 0,
-      "expired": 0,
+      "expired": 1,
       "alerts": 0
     },
     "sweep": {
-      "band": 11,
+      "band": 15,
       "bands": 15,
       "completed": 12,
       "last_completed_at": "2026-11-23T20:54:59Z"
@@ -41,7 +41,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-23T23:52:59Z"
+      "last_checked": "2026-11-24T13:58:25Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -73,7 +73,7 @@
       "reference_price": 220.0,
       "discount": 90.6,
       "first_seen": "2026-11-19T15:35:03Z",
-      "last_checked": "2026-11-23T22:59:14Z"
+      "last_checked": "2026-11-24T13:58:16Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -105,7 +105,7 @@
       "reference_price": 534.0,
       "discount": 89.4,
       "first_seen": "2026-11-21T22:43:32Z",
-      "last_checked": "2026-11-23T22:58:44Z"
+      "last_checked": "2026-11-24T13:58:02Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -217,7 +217,7 @@
       "reference_price": 2528.0,
       "discount": 83.2,
       "first_seen": "2026-11-22T14:52:55Z",
-      "last_checked": "2026-11-23T22:58:20Z"
+      "last_checked": "2026-11-24T13:57:29Z"
     },
     {
       "asin": "0241583160",
@@ -249,7 +249,7 @@
       "reference_price": 635.0,
       "discount": 81.3,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-23T23:53:01Z"
+      "last_checked": "2026-11-24T13:58:28Z"
     },
     {
       "asin": "B0FJ2KFK88",
@@ -265,7 +265,7 @@
       "reference_price": 99.0,
       "discount": 80.7,
       "first_seen": "2026-11-17T00:26:58Z",
-      "last_checked": "2026-11-23T22:59:17Z"
+      "last_checked": "2026-11-24T13:58:20Z"
     },
     {
       "asin": "B0DFH6VTXM",
@@ -297,7 +297,7 @@
       "reference_price": 1250.0,
       "discount": 79.5,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-23T22:58:22Z"
+      "last_checked": "2026-11-24T13:57:59Z"
     },
     {
       "asin": "B09232FTX8",
@@ -441,7 +441,7 @@
       "reference_price": 499.0,
       "discount": 78.4,
       "first_seen": "2026-11-17T05:34:41Z",
-      "last_checked": "2026-11-23T23:53:04Z"
+      "last_checked": "2026-11-24T13:58:31Z"
     },
     {
       "asin": "B0B8H5MZ47",
@@ -457,7 +457,7 @@
       "reference_price": 350.0,
       "discount": 78.4,
       "first_seen": "2026-11-23T14:43:27Z",
-      "last_checked": "2026-11-23T22:58:50Z"
+      "last_checked": "2026-11-24T13:58:05Z"
     },
     {
       "asin": "B0CZJ3T8FN",
@@ -489,7 +489,7 @@
       "reference_price": 255.52,
       "discount": 78.1,
       "first_seen": "2026-11-19T04:37:52Z",
-      "last_checked": "2026-11-23T22:58:12Z"
+      "last_checked": "2026-11-24T13:57:56Z"
     },
     {
       "asin": "B0CM6D36WM",
@@ -505,7 +505,7 @@
       "reference_price": 127.36,
       "discount": 77.7,
       "first_seen": "2026-11-23T13:20:06Z",
-      "last_checked": "2026-11-23T22:59:19Z"
+      "last_checked": "2026-11-24T13:58:23Z"
     },
     {
       "asin": "B09DKG7M9J",
@@ -553,7 +553,7 @@
       "reference_price": 522.03,
       "discount": 77.0,
       "first_seen": "2026-11-21T22:43:57Z",
-      "last_checked": "2026-11-23T22:58:56Z"
+      "last_checked": "2026-11-24T13:58:08Z"
     },
     {
       "asin": "B0GJMN88P9",
@@ -617,7 +617,7 @@
       "reference_price": 460.0,
       "discount": 76.3,
       "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-23T23:53:06Z"
+      "last_checked": "2026-11-24T13:58:35Z"
     },
     {
       "asin": "B0C8TQXV4W",
@@ -633,7 +633,7 @@
       "reference_price": 468.0,
       "discount": 76.2,
       "first_seen": "2026-11-17T05:34:49Z",
-      "last_checked": "2026-11-23T23:53:09Z"
+      "last_checked": "2026-11-24T13:58:38Z"
     },
     {
       "asin": "B0FR3D5N69",
@@ -745,7 +745,7 @@
       "reference_price": 2591.0,
       "discount": 74.1,
       "first_seen": "2026-11-17T20:07:38Z",
-      "last_checked": "2026-11-23T23:53:25Z"
+      "last_checked": "2026-11-24T13:57:31Z"
     },
     {
       "asin": "B0CQ6ZGNBK",
@@ -825,7 +825,7 @@
       "reference_price": 599.0,
       "discount": 73.4,
       "first_seen": "2026-11-17T14:24:56Z",
-      "last_checked": "2026-11-23T23:53:12Z"
+      "last_checked": "2026-11-24T13:58:41Z"
     },
     {
       "asin": "B0CLYR41RL",
@@ -873,7 +873,7 @@
       "reference_price": 437.0,
       "discount": 73.2,
       "first_seen": "2026-11-17T05:34:44Z",
-      "last_checked": "2026-11-23T22:59:06Z"
+      "last_checked": "2026-11-24T13:58:10Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -1113,7 +1113,7 @@
       "reference_price": 285.2,
       "discount": 71.5,
       "first_seen": "2026-11-18T01:14:59Z",
-      "last_checked": "2026-11-23T22:59:08Z"
+      "last_checked": "2026-11-24T13:58:13Z"
     },
     {
       "asin": "B0FWS4P8TK",
@@ -1193,7 +1193,7 @@
       "reference_price": 342.0,
       "discount": 70.6,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-23T23:53:16Z"
+      "last_checked": "2026-11-24T13:58:43Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1228,22 +1228,6 @@
       "last_checked": "2026-11-24T08:47:26Z"
     },
     {
-      "asin": "B0DPVF59WL",
-      "title": "Zubitech Samsung Galaxy S25 Plus Clear Magnetic Cover | Mag Safe Compatible | Clear Hard Back Case | Shockproof Silicone Frame Edge Bumper | Slim Transparent Case for Samsung Galaxy S25 Plus",
-      "image": "https://m.media-amazon.com/images/I/61s-T7BRSBL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DPVF59WL?aod=1",
-      "price": 35.06,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 118.53,
-      "list_price": null,
-      "reference_price": 118.53,
-      "discount": 70.4,
-      "first_seen": "2026-11-17T05:35:08Z",
-      "last_checked": "2026-11-23T22:57:50Z"
-    },
-    {
       "asin": "B0DYDTK1FY",
       "title": "Next Store Privacy Screen Protector Compatible with iPhone XS Max – Anti-Spy Full Coverage, Waterproof, Anti-Fingerprint, High Quality Silicone Glass, 9H Hardness, Easy Installation, No Bubbles.",
       "image": "https://m.media-amazon.com/images/I/31fGmMJFBcL._AC_UL320_.jpg",
@@ -1257,7 +1241,23 @@
       "reference_price": 432.15,
       "discount": 70.4,
       "first_seen": "2026-11-20T05:39:27Z",
-      "last_checked": "2026-11-23T23:53:18Z"
+      "last_checked": "2026-11-24T13:58:46Z"
+    },
+    {
+      "asin": "B0B7FD4MFH",
+      "title": "Adapter 6V 1A",
+      "image": "https://m.media-amazon.com/images/I/51z6rkZM4VL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0B7FD4MFH?aod=1",
+      "price": 65.57,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 221.61,
+      "list_price": null,
+      "reference_price": 221.61,
+      "discount": 70.4,
+      "first_seen": "2026-11-17T04:35:10Z",
+      "last_checked": "2026-11-24T13:57:49Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1273,7 +1273,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-23T22:57:55Z"
+      "last_checked": "2026-11-24T13:57:40Z"
     },
     {
       "asin": "B09Q1QZLX9",
@@ -1289,7 +1289,7 @@
       "reference_price": 170.4,
       "discount": 70.3,
       "first_seen": "2026-11-22T20:48:32Z",
-      "last_checked": "2026-11-23T22:57:59Z"
+      "last_checked": "2026-11-24T13:57:44Z"
     },
     {
       "asin": "B0922ZNXHD",
@@ -1305,7 +1305,7 @@
       "reference_price": 139.0,
       "discount": 70.3,
       "first_seen": "2026-11-23T13:21:15Z",
-      "last_checked": "2026-11-23T22:57:52Z"
+      "last_checked": "2026-11-24T13:57:37Z"
     },
     {
       "asin": "B0GJQWGSKZ",
@@ -1321,7 +1321,7 @@
       "reference_price": 164.53,
       "discount": 70.3,
       "first_seen": "2026-11-23T13:21:19Z",
-      "last_checked": "2026-11-23T22:58:08Z"
+      "last_checked": "2026-11-24T13:57:53Z"
     },
     {
       "asin": "B08NP33XTV",
@@ -1337,23 +1337,7 @@
       "reference_price": 264.0,
       "discount": 70.2,
       "first_seen": "2026-11-23T14:44:14Z",
-      "last_checked": "2026-11-23T22:58:02Z"
-    },
-    {
-      "asin": "B0B7FD4MFH",
-      "title": "Adapter 6V 1A",
-      "image": "https://m.media-amazon.com/images/I/51z6rkZM4VL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0B7FD4MFH?aod=1",
-      "price": 66.16,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 221.61,
-      "list_price": null,
-      "reference_price": 221.61,
-      "discount": 70.1,
-      "first_seen": "2026-11-17T04:35:10Z",
-      "last_checked": "2026-11-23T22:58:04Z"
+      "last_checked": "2026-11-24T13:57:47Z"
     }
   ]
 }
