@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-25T11:35:19Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-24T21:33:41Z",
+    "updated_at": "2026-11-25T12:43:49Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-25T12:43:49Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 872,
+      "candidates": 5,
+      "verified": 5,
+      "new_deals": 1,
+      "expired": 1,
       "alerts": 0
     },
     "sweep": {
-      "band": 6,
+      "band": 9,
       "bands": 15,
       "completed": 13,
       "last_completed_at": "2026-11-24T16:11:25Z"
@@ -108,6 +108,22 @@
       "last_checked": "2026-11-24T21:32:44Z"
     },
     {
+      "asin": "B08T7P3J1S",
+      "title": "Acrylic Tea Bags Organizer Box - Clear Storage Box with Lid - Ideal for Tea Bags, Packets, Condiments, Crafts - 9 Compartments",
+      "image": "https://m.media-amazon.com/images/I/61Yf8i7VUBL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B08T7P3J1S?aod=1",
+      "price": 264.92,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 2107.0,
+      "list_price": null,
+      "reference_price": 2107.0,
+      "discount": 87.4,
+      "first_seen": "2026-11-17T14:24:39Z",
+      "last_checked": "2026-11-25T12:42:22Z"
+    },
+    {
       "asin": "B0D49G7BNR",
       "title": "WiWU LG-003 Sapphire Lens Protector iPhone 15 Pro Max - Titanium",
       "image": "https://m.media-amazon.com/images/I/51qaBLq7cFL._AC_UL320_.jpg",
@@ -124,22 +140,6 @@
       "last_checked": "2026-11-24T21:31:34Z"
     },
     {
-      "asin": "B08T7P3J1S",
-      "title": "Acrylic Tea Bags Organizer Box - Clear Storage Box with Lid - Ideal for Tea Bags, Packets, Condiments, Crafts - 9 Compartments",
-      "image": "https://m.media-amazon.com/images/I/61Yf8i7VUBL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B08T7P3J1S?aod=1",
-      "price": 264.92,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 1784.94,
-      "list_price": null,
-      "reference_price": 1784.94,
-      "discount": 85.2,
-      "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-24T16:14:40Z"
-    },
-    {
       "asin": "B09HS5H4G4",
       "title": "Tensea for iPhone 13 Pro - iPhone 13 Pro Max Camera Lens Protector, 9H Tempered Glass Camera Cover Screen Protector Metal Individual Ring for iPhone 13Pro 6.1 inch iPhone 13 ProMax 6.7 inch 2021",
       "image": "https://m.media-amazon.com/images/I/71E-lnrx6dL._AC_UL320_.jpg",
@@ -153,7 +153,7 @@
       "reference_price": 259.0,
       "discount": 84.8,
       "first_seen": "2026-11-22T20:47:06Z",
-      "last_checked": "2026-11-24T16:14:31Z"
+      "last_checked": "2026-11-25T12:43:49Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -169,7 +169,7 @@
       "reference_price": 361.0,
       "discount": 84.0,
       "first_seen": "2026-11-17T04:34:21Z",
-      "last_checked": "2026-11-24T16:14:21Z"
+      "last_checked": "2026-11-25T12:43:42Z"
     },
     {
       "asin": "1405328576",
@@ -224,16 +224,32 @@
       "title": "Diary of a Wimpy Kid: Hot Mess (Book 19)",
       "image": "https://m.media-amazon.com/images/I/8123aKCLCLL._AC_UL320_.jpg",
       "url": "https://www.amazon.eg/dp/0241583160?aod=1",
-      "price": 248.56,
+      "price": 233.07,
       "condition": "Used - Like New",
       "condition_ar": "مستعمل - كالجديد",
       "seller": "Amazon Resale",
       "new_price": 750.0,
       "list_price": 1382.0,
       "reference_price": 1382.0,
-      "discount": 82.0,
+      "discount": 83.1,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-24T16:14:45Z"
+      "last_checked": "2026-11-25T12:42:25Z"
+    },
+    {
+      "asin": "B079T4XCFG",
+      "title": "Golden Shell Float",
+      "image": "https://m.media-amazon.com/images/I/715jvSrJt5L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B079T4XCFG?aod=1",
+      "price": 140.01,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 799.92,
+      "list_price": null,
+      "reference_price": 799.92,
+      "discount": 82.5,
+      "first_seen": "2026-11-25T12:42:29Z",
+      "last_checked": "2026-11-25T12:42:29Z"
     },
     {
       "asin": "B08W9K5CMK",
@@ -537,7 +553,7 @@
       "reference_price": 680.0,
       "discount": 77.4,
       "first_seen": "2026-11-17T14:24:47Z",
-      "last_checked": "2026-11-24T16:14:18Z"
+      "last_checked": "2026-11-25T12:43:39Z"
     },
     {
       "asin": "B098CRM7V2",
@@ -716,6 +732,22 @@
       "last_checked": "2026-11-24T21:33:38Z"
     },
     {
+      "asin": "B0F2K1SFWM",
+      "title": "C.F.S Silicone Back Phone Protection Cover For Apple iPhone 13 Pro Max - 6.7 inch - Clear - CFSBAT4-687 | Durable Phone Case | Shockproof & Stylish Cover",
+      "image": "https://m.media-amazon.com/images/I/317kylB-3SL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0F2K1SFWM?aod=1",
+      "price": 30.26,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 119.0,
+      "list_price": null,
+      "reference_price": 119.0,
+      "discount": 74.6,
+      "first_seen": "2026-11-17T00:27:31Z",
+      "last_checked": "2026-11-25T12:42:41Z"
+    },
+    {
       "asin": "B0DBSR9Z6J",
       "title": "Dream Catcher Mirror Hanging - Multi Color",
       "image": "https://m.media-amazon.com/images/I/413QyF6bFwL._AC_UL320_.jpg",
@@ -745,7 +777,7 @@
       "reference_price": 230.0,
       "discount": 74.2,
       "first_seen": "2026-11-17T22:58:04Z",
-      "last_checked": "2026-11-24T16:14:23Z"
+      "last_checked": "2026-11-25T12:43:46Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -777,7 +809,7 @@
       "reference_price": 3589.0,
       "discount": 74.1,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-24T16:13:07Z"
+      "last_checked": "2026-11-25T12:42:38Z"
     },
     {
       "asin": "B0G262S77Z",
@@ -812,22 +844,6 @@
       "last_checked": "2026-11-24T21:32:06Z"
     },
     {
-      "asin": "B0F2K1SFWM",
-      "title": "C.F.S Silicone Back Phone Protection Cover For Apple iPhone 13 Pro Max - 6.7 inch - Clear - CFSBAT4-687 | Durable Phone Case | Shockproof & Stylish Cover",
-      "image": "https://m.media-amazon.com/images/I/317kylB-3SL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0F2K1SFWM?aod=1",
-      "price": 31.3,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 119.0,
-      "list_price": null,
-      "reference_price": 119.0,
-      "discount": 73.7,
-      "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-24T16:13:09Z"
-    },
-    {
       "asin": "B0CPVNLZGW",
       "title": "Whiteboard 35x50cm+Pack of G201 Black whiteboard",
       "image": "https://m.media-amazon.com/images/I/61lBJoqaXaL._AC_UL320_.jpg",
@@ -857,7 +873,7 @@
       "reference_price": 182.0,
       "discount": 73.5,
       "first_seen": "2026-11-20T01:05:01Z",
-      "last_checked": "2026-11-24T16:13:12Z"
+      "last_checked": "2026-11-25T12:42:44Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -889,7 +905,7 @@
       "reference_price": 179.0,
       "discount": 73.3,
       "first_seen": "2026-11-20T04:36:41Z",
-      "last_checked": "2026-11-24T16:13:18Z"
+      "last_checked": "2026-11-25T12:42:50Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -905,7 +921,7 @@
       "reference_price": 157.01,
       "discount": 73.3,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-24T16:13:16Z"
+      "last_checked": "2026-11-25T12:42:48Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -953,7 +969,7 @@
       "reference_price": 120.0,
       "discount": 73.0,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-24T16:13:23Z"
+      "last_checked": "2026-11-25T12:42:53Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -969,7 +985,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-24T16:14:07Z"
+      "last_checked": "2026-11-25T12:43:30Z"
     },
     {
       "asin": "B091BVQ91K",
@@ -1001,7 +1017,7 @@
       "reference_price": 909.0,
       "discount": 72.4,
       "first_seen": "2026-11-23T01:10:27Z",
-      "last_checked": "2026-11-24T16:15:00Z"
+      "last_checked": "2026-11-25T12:42:32Z"
     },
     {
       "asin": "B0CP87RW7M",
@@ -1033,7 +1049,7 @@
       "reference_price": 124.25,
       "discount": 72.2,
       "first_seen": "2026-11-23T13:20:43Z",
-      "last_checked": "2026-11-24T16:13:26Z"
+      "last_checked": "2026-11-25T12:42:56Z"
     },
     {
       "asin": "B08YNPJKX3",
@@ -1049,7 +1065,7 @@
       "reference_price": 300.0,
       "discount": 72.1,
       "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-24T16:14:16Z"
+      "last_checked": "2026-11-25T12:43:37Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -1065,7 +1081,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-24T16:13:29Z"
+      "last_checked": "2026-11-25T12:42:58Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1081,7 +1097,7 @@
       "reference_price": 145.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-24T16:13:32Z"
+      "last_checked": "2026-11-25T12:43:01Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1097,7 +1113,7 @@
       "reference_price": 258.72,
       "discount": 71.7,
       "first_seen": "2026-11-19T05:39:57Z",
-      "last_checked": "2026-11-24T16:14:13Z"
+      "last_checked": "2026-11-25T12:43:33Z"
     },
     {
       "asin": "B0DYDTK1FY",
@@ -1129,7 +1145,7 @@
       "reference_price": 779.0,
       "discount": 71.6,
       "first_seen": "2026-11-17T14:24:53Z",
-      "last_checked": "2026-11-24T16:15:02Z"
+      "last_checked": "2026-11-25T12:42:34Z"
     },
     {
       "asin": "B0DF68NMF8",
@@ -1177,7 +1193,7 @@
       "reference_price": 151.2,
       "discount": 71.2,
       "first_seen": "2026-11-22T17:44:51Z",
-      "last_checked": "2026-11-24T16:13:40Z"
+      "last_checked": "2026-11-25T12:43:05Z"
     },
     {
       "asin": "B0DPKXFS4S",
@@ -1193,7 +1209,7 @@
       "reference_price": 41.0,
       "discount": 71.0,
       "first_seen": "2026-11-22T17:44:53Z",
-      "last_checked": "2026-11-24T16:13:43Z"
+      "last_checked": "2026-11-25T12:43:08Z"
     },
     {
       "asin": "B08YNM3H9Q",
@@ -1209,7 +1225,7 @@
       "reference_price": 165.0,
       "discount": 70.7,
       "first_seen": "2026-11-18T01:15:02Z",
-      "last_checked": "2026-11-24T16:13:46Z"
+      "last_checked": "2026-11-25T12:43:10Z"
     },
     {
       "asin": "B091BSGSRJ",
@@ -1257,23 +1273,7 @@
       "reference_price": 245.0,
       "discount": 70.5,
       "first_seen": "2026-11-17T05:35:25Z",
-      "last_checked": "2026-11-24T16:13:49Z"
-    },
-    {
-      "asin": "B0B7FD4MFH",
-      "title": "Adapter 6V 1A",
-      "image": "https://m.media-amazon.com/images/I/51z6rkZM4VL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0B7FD4MFH?aod=1",
-      "price": 65.57,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 221.61,
-      "list_price": null,
-      "reference_price": 221.61,
-      "discount": 70.4,
-      "first_seen": "2026-11-17T04:35:10Z",
-      "last_checked": "2026-11-24T16:13:52Z"
+      "last_checked": "2026-11-25T12:43:14Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1289,7 +1289,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-24T16:14:02Z"
+      "last_checked": "2026-11-25T12:43:24Z"
     },
     {
       "asin": "B09Q1QZLX9",
@@ -1305,7 +1305,7 @@
       "reference_price": 170.4,
       "discount": 70.3,
       "first_seen": "2026-11-22T20:48:32Z",
-      "last_checked": "2026-11-24T16:14:04Z"
+      "last_checked": "2026-11-25T12:43:27Z"
     },
     {
       "asin": "B0922ZNXHD",
@@ -1321,7 +1321,7 @@
       "reference_price": 139.0,
       "discount": 70.3,
       "first_seen": "2026-11-23T13:21:15Z",
-      "last_checked": "2026-11-24T16:13:58Z"
+      "last_checked": "2026-11-25T12:43:21Z"
     },
     {
       "asin": "B0GJQWGSKZ",
@@ -1337,7 +1337,7 @@
       "reference_price": 164.53,
       "discount": 70.3,
       "first_seen": "2026-11-23T13:21:19Z",
-      "last_checked": "2026-11-24T16:13:55Z"
+      "last_checked": "2026-11-25T12:43:19Z"
     },
     {
       "asin": "B08NP33XTV",
