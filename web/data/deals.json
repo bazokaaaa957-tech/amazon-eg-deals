@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-25T18:54:39Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-25T17:57:15Z",
+    "updated_at": "2026-11-25T20:02:11Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-25T20:02:11Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 855,
+      "candidates": 38,
+      "verified": 38,
+      "new_deals": 2,
+      "expired": 1,
       "alerts": 0
     },
     "sweep": {
-      "band": 2,
+      "band": 5,
       "bands": 15,
       "completed": 14,
       "last_completed_at": "2026-11-25T17:55:21Z"
@@ -41,7 +41,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-25T17:07:41Z"
+      "last_checked": "2026-11-25T20:01:43Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -57,7 +57,7 @@
       "reference_price": 581.0,
       "discount": 91.8,
       "first_seen": "2026-11-17T00:26:47Z",
-      "last_checked": "2026-11-25T17:56:30Z"
+      "last_checked": "2026-11-25T19:59:14Z"
     },
     {
       "asin": "B0BLN5VD8W",
@@ -73,7 +73,7 @@
       "reference_price": 220.0,
       "discount": 90.6,
       "first_seen": "2026-11-19T15:35:03Z",
-      "last_checked": "2026-11-25T17:55:39Z"
+      "last_checked": "2026-11-25T20:02:11Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -89,7 +89,7 @@
       "reference_price": 713.0,
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
-      "last_checked": "2026-11-25T17:07:44Z"
+      "last_checked": "2026-11-25T19:59:16Z"
     },
     {
       "asin": "B09LD5Y2MW",
@@ -105,7 +105,7 @@
       "reference_price": 534.0,
       "discount": 89.4,
       "first_seen": "2026-11-21T22:43:32Z",
-      "last_checked": "2026-11-25T17:56:15Z"
+      "last_checked": "2026-11-25T19:59:19Z"
     },
     {
       "asin": "B08T7P3J1S",
@@ -137,7 +137,7 @@
       "reference_price": 608.76,
       "discount": 86.4,
       "first_seen": "2026-11-17T04:34:07Z",
-      "last_checked": "2026-11-25T17:07:46Z"
+      "last_checked": "2026-11-25T19:59:22Z"
     },
     {
       "asin": "B09HS5H4G4",
@@ -153,7 +153,7 @@
       "reference_price": 259.0,
       "discount": 84.8,
       "first_seen": "2026-11-22T20:47:06Z",
-      "last_checked": "2026-11-25T12:43:49Z"
+      "last_checked": "2026-11-25T20:01:16Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -169,7 +169,7 @@
       "reference_price": 361.0,
       "discount": 84.0,
       "first_seen": "2026-11-17T04:34:21Z",
-      "last_checked": "2026-11-25T12:43:42Z"
+      "last_checked": "2026-11-25T20:01:13Z"
     },
     {
       "asin": "1405328576",
@@ -185,7 +185,7 @@
       "reference_price": 195.0,
       "discount": 83.7,
       "first_seen": "2026-11-17T00:27:05Z",
-      "last_checked": "2026-11-25T17:56:33Z"
+      "last_checked": "2026-11-25T19:59:24Z"
     },
     {
       "asin": "0241583160",
@@ -233,7 +233,7 @@
       "reference_price": 635.0,
       "discount": 81.3,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-25T17:07:49Z"
+      "last_checked": "2026-11-25T20:01:46Z"
     },
     {
       "asin": "B0FJ2KFK88",
@@ -265,7 +265,7 @@
       "reference_price": 263.0,
       "discount": 80.6,
       "first_seen": "2026-11-17T04:34:31Z",
-      "last_checked": "2026-11-25T17:07:52Z"
+      "last_checked": "2026-11-25T19:59:27Z"
     },
     {
       "asin": "B0C4M3D5ZN",
@@ -313,7 +313,7 @@
       "reference_price": 401.28,
       "discount": 79.3,
       "first_seen": "2026-11-17T05:34:38Z",
-      "last_checked": "2026-11-25T17:07:58Z"
+      "last_checked": "2026-11-25T19:59:32Z"
     },
     {
       "asin": "B0D56NMF1M",
@@ -329,7 +329,7 @@
       "reference_price": 1435.0,
       "discount": 79.2,
       "first_seen": "2026-11-18T15:30:38Z",
-      "last_checked": "2026-11-25T17:07:10Z"
+      "last_checked": "2026-11-25T20:01:19Z"
     },
     {
       "asin": "B0001AU7SO",
@@ -345,7 +345,7 @@
       "reference_price": 1800.0,
       "discount": 79.1,
       "first_seen": "2026-11-17T20:07:34Z",
-      "last_checked": "2026-11-25T17:07:13Z"
+      "last_checked": "2026-11-25T20:01:22Z"
     },
     {
       "asin": "B08YNP8DHG",
@@ -377,7 +377,7 @@
       "reference_price": 230.49,
       "discount": 78.9,
       "first_seen": "2026-11-17T04:34:50Z",
-      "last_checked": "2026-11-25T17:56:38Z"
+      "last_checked": "2026-11-25T19:59:36Z"
     },
     {
       "asin": "B0DJFVH12D",
@@ -393,7 +393,7 @@
       "reference_price": 250.0,
       "discount": 78.9,
       "first_seen": "2026-11-17T04:34:33Z",
-      "last_checked": "2026-11-25T17:07:55Z"
+      "last_checked": "2026-11-25T19:59:30Z"
     },
     {
       "asin": "B09VSTZTHP",
@@ -409,7 +409,7 @@
       "reference_price": 562.5,
       "discount": 78.8,
       "first_seen": "2026-11-24T21:31:50Z",
-      "last_checked": "2026-11-25T17:08:00Z"
+      "last_checked": "2026-11-25T20:01:48Z"
     },
     {
       "asin": "B0B9P24XQX",
@@ -425,7 +425,23 @@
       "reference_price": 226.8,
       "discount": 78.7,
       "first_seen": "2026-11-17T04:34:44Z",
-      "last_checked": "2026-11-25T17:56:40Z"
+      "last_checked": "2026-11-25T19:59:39Z"
+    },
+    {
+      "asin": "B0965LVXJ7",
+      "title": "Plastic Trash Bin - Assorted Colors - 28HX29W cm",
+      "image": "https://m.media-amazon.com/images/I/610XQNsbDpL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0965LVXJ7?aod=1",
+      "price": 57.99,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 68.22,
+      "list_price": 272.88,
+      "reference_price": 272.88,
+      "discount": 78.7,
+      "first_seen": "2026-11-25T19:59:42Z",
+      "last_checked": "2026-11-25T19:59:42Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -441,7 +457,7 @@
       "reference_price": 350.0,
       "discount": 78.6,
       "first_seen": "2026-11-17T04:35:04Z",
-      "last_checked": "2026-11-25T17:08:03Z"
+      "last_checked": "2026-11-25T20:01:51Z"
     },
     {
       "asin": "B09JL9VX3V",
@@ -457,7 +473,7 @@
       "reference_price": 255.52,
       "discount": 78.3,
       "first_seen": "2026-11-19T04:37:52Z",
-      "last_checked": "2026-11-25T17:56:10Z"
+      "last_checked": "2026-11-25T19:59:46Z"
     },
     {
       "asin": "B0CZJ3T8FN",
@@ -473,7 +489,7 @@
       "reference_price": 225.0,
       "discount": 78.2,
       "first_seen": "2026-11-20T04:36:04Z",
-      "last_checked": "2026-11-25T17:07:35Z"
+      "last_checked": "2026-11-25T20:01:41Z"
     },
     {
       "asin": "B09DKG7M9J",
@@ -489,7 +505,7 @@
       "reference_price": 680.0,
       "discount": 77.4,
       "first_seen": "2026-11-17T14:24:47Z",
-      "last_checked": "2026-11-25T12:43:39Z"
+      "last_checked": "2026-11-25T20:01:11Z"
     },
     {
       "asin": "B098CRM7V2",
@@ -505,7 +521,7 @@
       "reference_price": 326.0,
       "discount": 77.4,
       "first_seen": "2026-11-23T14:43:35Z",
-      "last_checked": "2026-11-25T17:07:37Z"
+      "last_checked": "2026-11-25T19:59:48Z"
     },
     {
       "asin": "B0CFY3WH8B",
@@ -537,7 +553,7 @@
       "reference_price": 211.27,
       "discount": 76.7,
       "first_seen": "2026-11-20T04:36:21Z",
-      "last_checked": "2026-11-25T17:56:46Z"
+      "last_checked": "2026-11-25T19:59:50Z"
     },
     {
       "asin": "B0C8TQXV4W",
@@ -553,7 +569,7 @@
       "reference_price": 468.0,
       "discount": 76.6,
       "first_seen": "2026-11-17T05:34:49Z",
-      "last_checked": "2026-11-25T17:08:11Z"
+      "last_checked": "2026-11-25T20:01:56Z"
     },
     {
       "asin": "B0DJFT654B",
@@ -569,7 +585,7 @@
       "reference_price": 150.0,
       "discount": 76.4,
       "first_seen": "2026-11-20T04:36:33Z",
-      "last_checked": "2026-11-25T17:56:50Z"
+      "last_checked": "2026-11-25T19:59:53Z"
     },
     {
       "asin": "B0972NJM6W",
@@ -585,7 +601,7 @@
       "reference_price": 460.0,
       "discount": 76.3,
       "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-25T17:08:08Z"
+      "last_checked": "2026-11-25T20:01:54Z"
     },
     {
       "asin": "B0DBSR9Z6J",
@@ -601,7 +617,7 @@
       "reference_price": 149.0,
       "discount": 75.9,
       "first_seen": "2026-11-17T04:35:26Z",
-      "last_checked": "2026-11-25T17:56:59Z"
+      "last_checked": "2026-11-25T19:59:57Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -633,7 +649,7 @@
       "reference_price": 150.0,
       "discount": 75.4,
       "first_seen": "2026-11-17T00:27:15Z",
-      "last_checked": "2026-11-25T17:56:53Z"
+      "last_checked": "2026-11-25T20:00:00Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -649,7 +665,7 @@
       "reference_price": 184.63,
       "discount": 75.3,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-25T17:56:56Z"
+      "last_checked": "2026-11-25T20:00:03Z"
     },
     {
       "asin": "B0F79GSXW5",
@@ -665,7 +681,7 @@
       "reference_price": 1272.0,
       "discount": 74.7,
       "first_seen": "2026-11-25T17:07:17Z",
-      "last_checked": "2026-11-25T17:07:17Z"
+      "last_checked": "2026-11-25T20:01:25Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -681,7 +697,7 @@
       "reference_price": 119.0,
       "discount": 74.6,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-25T17:57:15Z"
+      "last_checked": "2026-11-25T20:00:06Z"
     },
     {
       "asin": "B0F8C3KKCM",
@@ -697,7 +713,7 @@
       "reference_price": 230.0,
       "discount": 74.2,
       "first_seen": "2026-11-17T22:58:04Z",
-      "last_checked": "2026-11-25T12:43:46Z"
+      "last_checked": "2026-11-25T19:59:55Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -761,7 +777,7 @@
       "reference_price": 276.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T04:35:14Z",
-      "last_checked": "2026-11-25T17:08:13Z"
+      "last_checked": "2026-11-25T20:00:09Z"
     },
     {
       "asin": "B0CPVNLZGW",
@@ -777,7 +793,7 @@
       "reference_price": 498.18,
       "discount": 73.7,
       "first_seen": "2026-11-24T21:32:09Z",
-      "last_checked": "2026-11-25T17:08:15Z"
+      "last_checked": "2026-11-25T20:02:00Z"
     },
     {
       "asin": "B0BRSDKFJS",
@@ -793,7 +809,7 @@
       "reference_price": 182.0,
       "discount": 73.5,
       "first_seen": "2026-11-20T01:05:01Z",
-      "last_checked": "2026-11-25T12:42:44Z"
+      "last_checked": "2026-11-25T20:00:12Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -825,7 +841,7 @@
       "reference_price": 179.0,
       "discount": 73.3,
       "first_seen": "2026-11-20T04:36:41Z",
-      "last_checked": "2026-11-25T12:42:50Z"
+      "last_checked": "2026-11-25T20:00:18Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -841,7 +857,7 @@
       "reference_price": 157.01,
       "discount": 73.3,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-25T12:42:48Z"
+      "last_checked": "2026-11-25T20:00:15Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -857,7 +873,7 @@
       "reference_price": 187.31,
       "discount": 73.1,
       "first_seen": "2026-11-20T04:36:58Z",
-      "last_checked": "2026-11-25T17:08:17Z"
+      "last_checked": "2026-11-25T20:00:21Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -873,7 +889,7 @@
       "reference_price": 1029.0,
       "discount": 73.1,
       "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-25T17:07:19Z"
+      "last_checked": "2026-11-25T20:01:28Z"
     },
     {
       "asin": "B0CZXZKFL3",
@@ -889,7 +905,7 @@
       "reference_price": 1567.36,
       "discount": 73.0,
       "first_seen": "2026-11-22T14:52:55Z",
-      "last_checked": "2026-11-25T17:07:23Z"
+      "last_checked": "2026-11-25T20:01:32Z"
     },
     {
       "asin": "B0BN44LG9S",
@@ -905,7 +921,7 @@
       "reference_price": 120.0,
       "discount": 73.0,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-25T12:42:53Z"
+      "last_checked": "2026-11-25T20:00:24Z"
     },
     {
       "asin": "B0CP87RW7M",
@@ -921,7 +937,7 @@
       "reference_price": 1269.0,
       "discount": 73.0,
       "first_seen": "2026-11-18T05:41:19Z",
-      "last_checked": "2026-11-25T17:07:32Z"
+      "last_checked": "2026-11-25T20:01:37Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -937,7 +953,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-25T12:43:30Z"
+      "last_checked": "2026-11-25T20:01:01Z"
     },
     {
       "asin": "B0DF68NMF8",
@@ -969,7 +985,7 @@
       "reference_price": 310.0,
       "discount": 72.6,
       "first_seen": "2026-11-19T05:39:54Z",
-      "last_checked": "2026-11-25T17:08:20Z"
+      "last_checked": "2026-11-25T20:02:02Z"
     },
     {
       "asin": "B0F7J2VFLP",
@@ -1017,7 +1033,55 @@
       "reference_price": 300.0,
       "discount": 72.1,
       "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-25T12:43:37Z"
+      "last_checked": "2026-11-25T20:01:07Z"
+    },
+    {
+      "asin": "B091BSGSRJ",
+      "title": "Simulation Stone Wallpaper Living Room Bedroom Restaurant Bar Wall Sticker",
+      "image": "https://m.media-amazon.com/images/I/61XMc-l78vL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B091BSGSRJ?aod=1",
+      "price": 95.37,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 342.0,
+      "list_price": null,
+      "reference_price": 342.0,
+      "discount": 72.1,
+      "first_seen": "2026-11-17T04:35:47Z",
+      "last_checked": "2026-11-25T20:00:27Z"
+    },
+    {
+      "asin": "B0FWS4P8TK",
+      "title": "Next Store 18mm Stainless Steel Magnetic Metal Smart Watch Band | Compatible with Huawei Watch gt4 41mm & gt5 41mm & gt6 41mm Stylish Adjustable Replacement Strap Durable Comfortable",
+      "image": "https://m.media-amazon.com/images/I/61Uaa6BxmeL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FWS4P8TK?aod=1",
+      "price": 64.32,
+      "condition": "Open Box - Like New",
+      "condition_ar": "علبة مفتوحة - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 204.53,
+      "list_price": 230.0,
+      "reference_price": 230.0,
+      "discount": 72.0,
+      "first_seen": "2026-11-20T04:37:12Z",
+      "last_checked": "2026-11-25T20:00:32Z"
+    },
+    {
+      "asin": "B09WLJR3JD",
+      "title": "Rongshengfa Portable Blender for shakes and smoothies, Cordless Personal Mini Travel Fruit Juicer Cup Mixer Electric Smoothie Blender Maker, 13oz Bottles, USB Rechargeable (Sky blue)",
+      "image": "https://m.media-amazon.com/images/I/81Eughr2vRL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B09WLJR3JD?aod=1",
+      "price": 54.9,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 165.8,
+      "list_price": 196.0,
+      "reference_price": 196.0,
+      "discount": 72.0,
+      "first_seen": "2026-11-25T20:00:29Z",
+      "last_checked": "2026-11-25T20:00:29Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -1049,7 +1113,7 @@
       "reference_price": 145.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-25T12:43:01Z"
+      "last_checked": "2026-11-25T20:00:35Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1065,7 +1129,7 @@
       "reference_price": 258.72,
       "discount": 71.7,
       "first_seen": "2026-11-19T05:39:57Z",
-      "last_checked": "2026-11-25T12:43:33Z"
+      "last_checked": "2026-11-25T20:01:04Z"
     },
     {
       "asin": "B0DYDTK1FY",
@@ -1081,7 +1145,7 @@
       "reference_price": 432.15,
       "discount": 71.7,
       "first_seen": "2026-11-20T05:39:27Z",
-      "last_checked": "2026-11-25T17:08:23Z"
+      "last_checked": "2026-11-25T20:02:04Z"
     },
     {
       "asin": "B0D4BWDG51",
@@ -1100,22 +1164,6 @@
       "last_checked": "2026-11-25T17:57:13Z"
     },
     {
-      "asin": "B0FWS4P8TK",
-      "title": "Next Store 18mm Stainless Steel Magnetic Metal Smart Watch Band | Compatible with Huawei Watch gt4 41mm & gt5 41mm & gt6 41mm Stylish Adjustable Replacement Strap Durable Comfortable",
-      "image": "https://m.media-amazon.com/images/I/61Uaa6BxmeL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FWS4P8TK?aod=1",
-      "price": 65.87,
-      "condition": "Open Box - Like New",
-      "condition_ar": "علبة مفتوحة - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 204.53,
-      "list_price": 230.0,
-      "reference_price": 230.0,
-      "discount": 71.4,
-      "first_seen": "2026-11-20T04:37:12Z",
-      "last_checked": "2026-11-25T17:08:26Z"
-    },
-    {
       "asin": "B08QGZT4YQ",
       "title": "Joseph Joseph JuiceMax Dual-Action Citrus Press, One Size, Yellow",
       "image": "https://m.media-amazon.com/images/I/41cEMkMOfaL._AC_UL320_.jpg",
@@ -1129,7 +1177,7 @@
       "reference_price": 151.2,
       "discount": 71.2,
       "first_seen": "2026-11-22T17:44:51Z",
-      "last_checked": "2026-11-25T12:43:05Z"
+      "last_checked": "2026-11-25T20:00:38Z"
     },
     {
       "asin": "B0DPKXFS4S",
@@ -1161,23 +1209,7 @@
       "reference_price": 165.0,
       "discount": 70.7,
       "first_seen": "2026-11-18T01:15:02Z",
-      "last_checked": "2026-11-25T12:43:10Z"
-    },
-    {
-      "asin": "B091BSGSRJ",
-      "title": "Simulation Stone Wallpaper Living Room Bedroom Restaurant Bar Wall Sticker",
-      "image": "https://m.media-amazon.com/images/I/61XMc-l78vL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B091BSGSRJ?aod=1",
-      "price": 100.56,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 342.0,
-      "list_price": null,
-      "reference_price": 342.0,
-      "discount": 70.6,
-      "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-25T17:08:30Z"
+      "last_checked": "2026-11-25T20:00:41Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1193,7 +1225,7 @@
       "reference_price": 285.0,
       "discount": 70.6,
       "first_seen": "2026-11-18T01:14:55Z",
-      "last_checked": "2026-11-25T17:08:33Z"
+      "last_checked": "2026-11-25T20:00:44Z"
     },
     {
       "asin": "B0BDLXDKBQ",
@@ -1209,7 +1241,7 @@
       "reference_price": 245.0,
       "discount": 70.5,
       "first_seen": "2026-11-17T05:35:25Z",
-      "last_checked": "2026-11-25T12:43:14Z"
+      "last_checked": "2026-11-25T20:00:47Z"
     },
     {
       "asin": "B0FR3J4YQ5",
@@ -1225,7 +1257,7 @@
       "reference_price": 1586.4,
       "discount": 70.3,
       "first_seen": "2026-11-17T14:24:45Z",
-      "last_checked": "2026-11-25T17:07:26Z"
+      "last_checked": "2026-11-25T20:01:35Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1241,7 +1273,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-25T12:43:24Z"
+      "last_checked": "2026-11-25T20:00:56Z"
     },
     {
       "asin": "B09Q1QZLX9",
@@ -1257,7 +1289,7 @@
       "reference_price": 170.4,
       "discount": 70.3,
       "first_seen": "2026-11-22T20:48:32Z",
-      "last_checked": "2026-11-25T12:43:27Z"
+      "last_checked": "2026-11-25T20:00:58Z"
     },
     {
       "asin": "B0922ZNXHD",
@@ -1273,7 +1305,7 @@
       "reference_price": 139.0,
       "discount": 70.3,
       "first_seen": "2026-11-23T13:21:15Z",
-      "last_checked": "2026-11-25T12:43:21Z"
+      "last_checked": "2026-11-25T20:00:52Z"
     },
     {
       "asin": "B0GJQWGSKZ",
@@ -1289,23 +1321,7 @@
       "reference_price": 164.53,
       "discount": 70.3,
       "first_seen": "2026-11-23T13:21:19Z",
-      "last_checked": "2026-11-25T12:43:19Z"
-    },
-    {
-      "asin": "B08NP33XTV",
-      "title": "Generic Acrylic spice jars with spoons for kitchen set of 9 pieces - clear",
-      "image": "https://m.media-amazon.com/images/I/61Vzn-jywEL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B08NP33XTV?aod=1",
-      "price": 78.57,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 131.8,
-      "list_price": 264.0,
-      "reference_price": 264.0,
-      "discount": 70.2,
-      "first_seen": "2026-11-23T14:44:14Z",
-      "last_checked": "2026-11-25T17:08:36Z"
+      "last_checked": "2026-11-25T20:00:50Z"
     }
   ]
 }
