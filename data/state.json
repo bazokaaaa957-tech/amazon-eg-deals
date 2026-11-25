@@ -1,11 +1,21 @@
 {
   "cursor": {
     "band": 8,
-    "page": 5
+    "page": 6
   },
-  "queue": [],
+  "queue": [
+    {
+      "asin": "B0D56NMF1M",
+      "title": "Vero Moda Women's Linn 2/4 Woven Shirt, M - Marina",
+      "image": "https://m.media-amazon.com/images/I/81WBX5TVcLL._AC_UL320_.jpg",
+      "main_price": 1435.0,
+      "list_price": null,
+      "secondary_price": 297.97,
+      "prelim_discount": 79.2
+    }
+  ],
   "notified": {},
   "sweeps_completed": 13,
-  "blocked_streak": 0,
+  "blocked_streak": 1,
   "last_sweep_completed_at": "2026-11-24T16:11:25Z"
 }
