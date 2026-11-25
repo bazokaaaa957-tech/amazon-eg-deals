@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-25T15:38:21Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-25T12:43:49Z",
+    "updated_at": "2026-11-25T17:08:36Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-25T17:08:36Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 817,
+      "candidates": 6,
+      "verified": 6,
+      "new_deals": 1,
+      "expired": 2,
       "alerts": 0
     },
     "sweep": {
-      "band": 9,
+      "band": 13,
       "bands": 15,
       "completed": 13,
       "last_completed_at": "2026-11-24T16:11:25Z"
@@ -41,7 +41,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-24T21:31:28Z"
+      "last_checked": "2026-11-25T17:07:41Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -89,7 +89,7 @@
       "reference_price": 713.0,
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
-      "last_checked": "2026-11-24T21:31:31Z"
+      "last_checked": "2026-11-25T17:07:44Z"
     },
     {
       "asin": "B09LD5Y2MW",
@@ -137,7 +137,7 @@
       "reference_price": 608.76,
       "discount": 86.4,
       "first_seen": "2026-11-17T04:34:07Z",
-      "last_checked": "2026-11-24T21:31:34Z"
+      "last_checked": "2026-11-25T17:07:46Z"
     },
     {
       "asin": "B09HS5H4G4",
@@ -188,38 +188,6 @@
       "last_checked": "2026-11-24T21:33:06Z"
     },
     {
-      "asin": "B0D56NMF1M",
-      "title": "Vero Moda Women's Linn 2/4 Woven Shirt, M - Marina",
-      "image": "https://m.media-amazon.com/images/I/81WBX5TVcLL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0D56NMF1M?aod=1",
-      "price": 297.97,
-      "condition": "Open Box - Like New",
-      "condition_ar": "علبة مفتوحة - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 1805.67,
-      "list_price": null,
-      "reference_price": 1805.67,
-      "discount": 83.5,
-      "first_seen": "2026-11-18T15:30:38Z",
-      "last_checked": "2026-11-24T16:14:43Z"
-    },
-    {
-      "asin": "B0CZXZKFL3",
-      "title": "Prosperplast Rato Case M flowerpot 77 cm mocca",
-      "image": "https://m.media-amazon.com/images/I/31v9GaoDcVL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CZXZKFL3?aod=1",
-      "price": 423.44,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 2528.0,
-      "list_price": null,
-      "reference_price": 2528.0,
-      "discount": 83.2,
-      "first_seen": "2026-11-22T14:52:55Z",
-      "last_checked": "2026-11-24T21:32:31Z"
-    },
-    {
       "asin": "0241583160",
       "title": "Diary of a Wimpy Kid: Hot Mess (Book 19)",
       "image": "https://m.media-amazon.com/images/I/8123aKCLCLL._AC_UL320_.jpg",
@@ -265,7 +233,7 @@
       "reference_price": 635.0,
       "discount": 81.3,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-24T21:31:38Z"
+      "last_checked": "2026-11-25T17:07:49Z"
     },
     {
       "asin": "B0FJ2KFK88",
@@ -297,7 +265,7 @@
       "reference_price": 263.0,
       "discount": 80.6,
       "first_seen": "2026-11-17T04:34:31Z",
-      "last_checked": "2026-11-24T21:31:41Z"
+      "last_checked": "2026-11-25T17:07:52Z"
     },
     {
       "asin": "B0C4M3D5ZN",
@@ -345,7 +313,23 @@
       "reference_price": 401.28,
       "discount": 79.3,
       "first_seen": "2026-11-17T05:34:38Z",
-      "last_checked": "2026-11-24T21:31:47Z"
+      "last_checked": "2026-11-25T17:07:58Z"
+    },
+    {
+      "asin": "B0D56NMF1M",
+      "title": "Vero Moda Women's Linn 2/4 Woven Shirt, M - Marina",
+      "image": "https://m.media-amazon.com/images/I/81WBX5TVcLL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0D56NMF1M?aod=1",
+      "price": 297.97,
+      "condition": "Open Box - Like New",
+      "condition_ar": "علبة مفتوحة - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 1435.0,
+      "list_price": null,
+      "reference_price": 1435.0,
+      "discount": 79.2,
+      "first_seen": "2026-11-18T15:30:38Z",
+      "last_checked": "2026-11-25T17:07:10Z"
     },
     {
       "asin": "B0001AU7SO",
@@ -361,7 +345,7 @@
       "reference_price": 1800.0,
       "discount": 79.1,
       "first_seen": "2026-11-17T20:07:34Z",
-      "last_checked": "2026-11-24T16:14:48Z"
+      "last_checked": "2026-11-25T17:07:13Z"
     },
     {
       "asin": "B08YNP8DHG",
@@ -409,7 +393,7 @@
       "reference_price": 250.0,
       "discount": 78.9,
       "first_seen": "2026-11-17T04:34:33Z",
-      "last_checked": "2026-11-24T21:31:44Z"
+      "last_checked": "2026-11-25T17:07:55Z"
     },
     {
       "asin": "B09VSTZTHP",
@@ -425,7 +409,7 @@
       "reference_price": 562.5,
       "discount": 78.8,
       "first_seen": "2026-11-24T21:31:50Z",
-      "last_checked": "2026-11-24T21:31:50Z"
+      "last_checked": "2026-11-25T17:08:00Z"
     },
     {
       "asin": "B0B9P24XQX",
@@ -457,23 +441,7 @@
       "reference_price": 350.0,
       "discount": 78.6,
       "first_seen": "2026-11-17T04:35:04Z",
-      "last_checked": "2026-11-24T21:31:54Z"
-    },
-    {
-      "asin": "B0FHKZMKHK",
-      "title": "Double face cork board 45 * 60 cm ideal for both adults and kids - wooden",
-      "image": "https://m.media-amazon.com/images/I/81n2Ht0OrhL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FHKZMKHK?aod=1",
-      "price": 107.63,
-      "condition": "Used - Acceptable",
-      "condition_ar": "مستعمل - مقبول",
-      "seller": "Amazon Resale",
-      "new_price": 456.11,
-      "list_price": 499.0,
-      "reference_price": 499.0,
-      "discount": 78.4,
-      "first_seen": "2026-11-17T05:34:41Z",
-      "last_checked": "2026-11-24T21:31:56Z"
+      "last_checked": "2026-11-25T17:08:03Z"
     },
     {
       "asin": "B0B8H5MZ47",
@@ -505,7 +473,7 @@
       "reference_price": 225.0,
       "discount": 78.2,
       "first_seen": "2026-11-20T04:36:04Z",
-      "last_checked": "2026-11-24T16:15:12Z"
+      "last_checked": "2026-11-25T17:07:35Z"
     },
     {
       "asin": "B09JL9VX3V",
@@ -569,7 +537,7 @@
       "reference_price": 326.0,
       "discount": 77.4,
       "first_seen": "2026-11-23T14:43:35Z",
-      "last_checked": "2026-11-24T16:15:15Z"
+      "last_checked": "2026-11-25T17:07:37Z"
     },
     {
       "asin": "B0CFY3WH8B",
@@ -604,20 +572,20 @@
       "last_checked": "2026-11-24T21:33:27Z"
     },
     {
-      "asin": "B0FR3J4YQ5",
-      "title": "Royal Leerdam Freya 12-Piece Glassware Set, Premium Crystal for Wine, Water, or Cocktails",
-      "image": "https://m.media-amazon.com/images/I/71+o6salTiL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FR3J4YQ5?aod=1",
-      "price": 392.81,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
+      "asin": "B0C8TQXV4W",
+      "title": "UGREEN for iPhone 15 Pro Max 6.7 inch With Easy Install Kit",
+      "image": "https://m.media-amazon.com/images/I/710MOUKRYDL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0C8TQXV4W?aod=1",
+      "price": 109.4,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
-      "new_price": 1669.9,
-      "list_price": null,
-      "reference_price": 1669.9,
-      "discount": 76.5,
-      "first_seen": "2026-11-17T14:24:45Z",
-      "last_checked": "2026-11-24T16:14:51Z"
+      "new_price": 145.0,
+      "list_price": 468.0,
+      "reference_price": 468.0,
+      "discount": 76.6,
+      "first_seen": "2026-11-17T05:34:49Z",
+      "last_checked": "2026-11-25T17:08:11Z"
     },
     {
       "asin": "B0DJFT654B",
@@ -649,39 +617,7 @@
       "reference_price": 460.0,
       "discount": 76.3,
       "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-24T21:31:59Z"
-    },
-    {
-      "asin": "B0C8TQXV4W",
-      "title": "UGREEN for iPhone 15 Pro Max 6.7 inch With Easy Install Kit",
-      "image": "https://m.media-amazon.com/images/I/710MOUKRYDL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0C8TQXV4W?aod=1",
-      "price": 111.2,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 145.0,
-      "list_price": 468.0,
-      "reference_price": 468.0,
-      "discount": 76.2,
-      "first_seen": "2026-11-17T05:34:49Z",
-      "last_checked": "2026-11-24T21:32:03Z"
-    },
-    {
-      "asin": "B0FR3D5N69",
-      "title": "Royal Leerdam Imogen 12-Piece Glassware Set, Premium Crystal for Wine, Water, or Cocktails",
-      "image": "https://m.media-amazon.com/images/I/313g7h9aAyL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FR3D5N69?aod=1",
-      "price": 367.42,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 1537.68,
-      "list_price": null,
-      "reference_price": 1537.68,
-      "discount": 76.1,
-      "first_seen": "2026-11-19T10:08:32Z",
-      "last_checked": "2026-11-24T16:14:54Z"
+      "last_checked": "2026-11-25T17:08:08Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -730,6 +666,22 @@
       "discount": 74.8,
       "first_seen": "2026-11-17T00:27:24Z",
       "last_checked": "2026-11-24T21:33:38Z"
+    },
+    {
+      "asin": "B0F79GSXW5",
+      "title": "Flash Kids Roller Skates with Protective Gear Set, 1 Rows model 2025-2026",
+      "image": "https://m.media-amazon.com/images/I/61MrZSVBIiL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0F79GSXW5?aod=1",
+      "price": 321.74,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 1272.0,
+      "list_price": null,
+      "reference_price": 1272.0,
+      "discount": 74.7,
+      "first_seen": "2026-11-25T17:07:17Z",
+      "last_checked": "2026-11-25T17:07:17Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -841,7 +793,7 @@
       "reference_price": 276.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T04:35:14Z",
-      "last_checked": "2026-11-24T21:32:06Z"
+      "last_checked": "2026-11-25T17:08:13Z"
     },
     {
       "asin": "B0CPVNLZGW",
@@ -857,7 +809,7 @@
       "reference_price": 498.18,
       "discount": 73.7,
       "first_seen": "2026-11-24T21:32:09Z",
-      "last_checked": "2026-11-24T21:32:09Z"
+      "last_checked": "2026-11-25T17:08:15Z"
     },
     {
       "asin": "B0BRSDKFJS",
@@ -937,7 +889,7 @@
       "reference_price": 187.31,
       "discount": 73.1,
       "first_seen": "2026-11-20T04:36:58Z",
-      "last_checked": "2026-11-24T21:32:12Z"
+      "last_checked": "2026-11-25T17:08:17Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -953,7 +905,23 @@
       "reference_price": 1029.0,
       "discount": 73.1,
       "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-24T16:14:57Z"
+      "last_checked": "2026-11-25T17:07:19Z"
+    },
+    {
+      "asin": "B0CZXZKFL3",
+      "title": "Prosperplast Rato Case M flowerpot 77 cm mocca",
+      "image": "https://m.media-amazon.com/images/I/31v9GaoDcVL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CZXZKFL3?aod=1",
+      "price": 423.44,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 1567.36,
+      "list_price": null,
+      "reference_price": 1567.36,
+      "discount": 73.0,
+      "first_seen": "2026-11-22T14:52:55Z",
+      "last_checked": "2026-11-25T17:07:23Z"
     },
     {
       "asin": "B0BN44LG9S",
@@ -970,6 +938,22 @@
       "discount": 73.0,
       "first_seen": "2026-11-17T00:27:45Z",
       "last_checked": "2026-11-25T12:42:53Z"
+    },
+    {
+      "asin": "B0CP87RW7M",
+      "title": "Elmaayergy H507-4 K-155 4-Racks Document Tray Organiser Holder A5 With Premium, Long Lasting And Eco-Friendly Material",
+      "image": "https://m.media-amazon.com/images/I/61HF46REC9L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CP87RW7M?aod=1",
+      "price": 342.93,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 1269.0,
+      "list_price": null,
+      "reference_price": 1269.0,
+      "discount": 73.0,
+      "first_seen": "2026-11-18T05:41:19Z",
+      "last_checked": "2026-11-25T17:07:32Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -1001,7 +985,7 @@
       "reference_price": 310.0,
       "discount": 72.6,
       "first_seen": "2026-11-19T05:39:54Z",
-      "last_checked": "2026-11-24T21:32:15Z"
+      "last_checked": "2026-11-25T17:08:20Z"
     },
     {
       "asin": "B0F7J2VFLP",
@@ -1018,22 +1002,6 @@
       "discount": 72.4,
       "first_seen": "2026-11-23T01:10:27Z",
       "last_checked": "2026-11-25T12:42:32Z"
-    },
-    {
-      "asin": "B0CP87RW7M",
-      "title": "Elmaayergy H507-4 K-155 4-Racks Document Tray Organiser Holder A5 With Premium, Long Lasting And Eco-Friendly Material",
-      "image": "https://m.media-amazon.com/images/I/61HF46REC9L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CP87RW7M?aod=1",
-      "price": 353.34,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 1269.0,
-      "list_price": null,
-      "reference_price": 1269.0,
-      "discount": 72.2,
-      "first_seen": "2026-11-18T05:41:19Z",
-      "last_checked": "2026-11-24T16:15:05Z"
     },
     {
       "asin": "B091NYPJZ5",
@@ -1129,7 +1097,7 @@
       "reference_price": 432.15,
       "discount": 71.7,
       "first_seen": "2026-11-20T05:39:27Z",
-      "last_checked": "2026-11-24T21:32:18Z"
+      "last_checked": "2026-11-25T17:08:23Z"
     },
     {
       "asin": "B0D4BWDG51",
@@ -1177,7 +1145,7 @@
       "reference_price": 230.0,
       "discount": 71.4,
       "first_seen": "2026-11-20T04:37:12Z",
-      "last_checked": "2026-11-24T21:32:20Z"
+      "last_checked": "2026-11-25T17:08:26Z"
     },
     {
       "asin": "B08QGZT4YQ",
@@ -1241,7 +1209,7 @@
       "reference_price": 342.0,
       "discount": 70.6,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-24T21:32:23Z"
+      "last_checked": "2026-11-25T17:08:30Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1257,7 +1225,7 @@
       "reference_price": 285.0,
       "discount": 70.6,
       "first_seen": "2026-11-18T01:14:55Z",
-      "last_checked": "2026-11-24T21:32:25Z"
+      "last_checked": "2026-11-25T17:08:33Z"
     },
     {
       "asin": "B0BDLXDKBQ",
@@ -1274,6 +1242,22 @@
       "discount": 70.5,
       "first_seen": "2026-11-17T05:35:25Z",
       "last_checked": "2026-11-25T12:43:14Z"
+    },
+    {
+      "asin": "B0FR3J4YQ5",
+      "title": "Royal Leerdam Freya 12-Piece Glassware Set, Premium Crystal for Wine, Water, or Cocktails",
+      "image": "https://m.media-amazon.com/images/I/71+o6salTiL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FR3J4YQ5?aod=1",
+      "price": 471.38,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 1586.4,
+      "list_price": null,
+      "reference_price": 1586.4,
+      "discount": 70.3,
+      "first_seen": "2026-11-17T14:24:45Z",
+      "last_checked": "2026-11-25T17:07:26Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1353,7 +1337,7 @@
       "reference_price": 264.0,
       "discount": 70.2,
       "first_seen": "2026-11-23T14:44:14Z",
-      "last_checked": "2026-11-24T21:32:28Z"
+      "last_checked": "2026-11-25T17:08:36Z"
     }
   ]
 }
