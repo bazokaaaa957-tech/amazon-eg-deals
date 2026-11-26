@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-26T05:14:14Z",
+    "updated_at": "2026-11-26T06:32:06Z",
     "status": "ok",
     "block_reason": null,
-    "last_success_at": "2026-11-26T05:14:14Z",
+    "last_success_at": "2026-11-26T06:32:06Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -12,15 +12,15 @@
     },
     "run": {
       "pages": 20,
-      "products": 870,
-      "candidates": 21,
-      "verified": 21,
-      "new_deals": 0,
+      "products": 876,
+      "candidates": 3,
+      "verified": 3,
+      "new_deals": 1,
       "expired": 0,
       "alerts": 0
     },
     "sweep": {
-      "band": 6,
+      "band": 9,
       "bands": 15,
       "completed": 15,
       "last_completed_at": "2026-11-26T01:13:58Z"
@@ -57,7 +57,7 @@
       "reference_price": 581.0,
       "discount": 91.8,
       "first_seen": "2026-11-17T00:26:47Z",
-      "last_checked": "2026-11-26T01:16:29Z"
+      "last_checked": "2026-11-26T06:32:03Z"
     },
     {
       "asin": "B0BLN5VD8W",
@@ -89,7 +89,7 @@
       "reference_price": 713.0,
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
-      "last_checked": "2026-11-26T01:16:32Z"
+      "last_checked": "2026-11-26T06:32:06Z"
     },
     {
       "asin": "B09LD5Y2MW",
@@ -121,7 +121,7 @@
       "reference_price": 2107.0,
       "discount": 87.4,
       "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-26T01:16:24Z"
+      "last_checked": "2026-11-26T06:31:58Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -201,7 +201,7 @@
       "reference_price": 1382.0,
       "discount": 83.1,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-26T01:16:51Z"
+      "last_checked": "2026-11-26T06:30:45Z"
     },
     {
       "asin": "B079T4XCFG",
@@ -217,7 +217,7 @@
       "reference_price": 799.92,
       "discount": 82.5,
       "first_seen": "2026-11-25T12:42:29Z",
-      "last_checked": "2026-11-26T05:13:40Z"
+      "last_checked": "2026-11-26T06:30:48Z"
     },
     {
       "asin": "B08W9K5CMK",
@@ -297,7 +297,7 @@
       "reference_price": 1250.0,
       "discount": 79.5,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-26T01:16:17Z"
+      "last_checked": "2026-11-26T06:31:49Z"
     },
     {
       "asin": "B0FVWKL973",
@@ -636,6 +636,22 @@
       "last_checked": "2026-11-26T05:14:14Z"
     },
     {
+      "asin": "B096K9Y8K9",
+      "title": "Gemmac Moon Lamp with Bluetooth Speaker, 5.9 inch 3D Moon Light 16 Colors Dimmable Baby Music Moon Night Light USB Charging Touch Sensor LED Moonlight with Remote Control for Kids Gift Room Decor",
+      "image": "https://m.media-amazon.com/images/I/71-q6biK26S._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B096K9Y8K9?aod=1",
+      "price": 179.48,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 741.54,
+      "list_price": null,
+      "reference_price": 741.54,
+      "discount": 75.8,
+      "first_seen": "2026-11-26T06:30:52Z",
+      "last_checked": "2026-11-26T06:30:52Z"
+    },
+    {
       "asin": "B091JHW2MJ",
       "title": "ProPlus Glass Screen Protector 3D For Iphone 8 White",
       "image": "https://m.media-amazon.com/images/I/51YRJSuWsbL._AC_UL320_.jpg",
@@ -649,7 +665,7 @@
       "reference_price": 150.0,
       "discount": 75.4,
       "first_seen": "2026-11-17T00:27:15Z",
-      "last_checked": "2026-11-26T01:15:19Z"
+      "last_checked": "2026-11-26T06:30:55Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -665,7 +681,7 @@
       "reference_price": 184.63,
       "discount": 75.3,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-26T01:15:22Z"
+      "last_checked": "2026-11-26T06:30:57Z"
     },
     {
       "asin": "B0F79GSXW5",
@@ -697,7 +713,7 @@
       "reference_price": 119.0,
       "discount": 74.6,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-26T01:15:25Z"
+      "last_checked": "2026-11-26T06:31:00Z"
     },
     {
       "asin": "B0F8C3KKCM",
@@ -745,7 +761,7 @@
       "reference_price": 3589.0,
       "discount": 74.1,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-26T01:15:29Z"
+      "last_checked": "2026-11-26T06:31:03Z"
     },
     {
       "asin": "B0G262S77Z",
@@ -809,7 +825,7 @@
       "reference_price": 599.0,
       "discount": 73.4,
       "first_seen": "2026-11-17T14:24:56Z",
-      "last_checked": "2026-11-26T01:16:21Z"
+      "last_checked": "2026-11-26T06:31:54Z"
     },
     {
       "asin": "B0CLYR41RL",
@@ -825,7 +841,7 @@
       "reference_price": 179.0,
       "discount": 73.3,
       "first_seen": "2026-11-20T04:36:41Z",
-      "last_checked": "2026-11-26T01:15:33Z"
+      "last_checked": "2026-11-26T06:31:09Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -841,7 +857,7 @@
       "reference_price": 157.01,
       "discount": 73.3,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-26T01:15:31Z"
+      "last_checked": "2026-11-26T06:31:06Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -905,7 +921,7 @@
       "reference_price": 120.0,
       "discount": 73.0,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-26T01:15:36Z"
+      "last_checked": "2026-11-26T06:31:12Z"
     },
     {
       "asin": "B0CP87RW7M",
@@ -937,7 +953,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-26T01:15:39Z"
+      "last_checked": "2026-11-26T06:31:16Z"
     },
     {
       "asin": "B0DF68NMF8",
@@ -953,7 +969,7 @@
       "reference_price": 285.2,
       "discount": 72.7,
       "first_seen": "2026-11-18T01:14:59Z",
-      "last_checked": "2026-11-26T01:16:19Z"
+      "last_checked": "2026-11-26T06:31:51Z"
     },
     {
       "asin": "B091BVQ91K",
@@ -1001,7 +1017,7 @@
       "reference_price": 124.25,
       "discount": 72.2,
       "first_seen": "2026-11-23T13:20:43Z",
-      "last_checked": "2026-11-26T01:15:42Z"
+      "last_checked": "2026-11-26T06:31:19Z"
     },
     {
       "asin": "B08YNPJKX3",
@@ -1065,7 +1081,7 @@
       "reference_price": 196.0,
       "discount": 72.0,
       "first_seen": "2026-11-25T20:00:29Z",
-      "last_checked": "2026-11-26T01:15:44Z"
+      "last_checked": "2026-11-26T06:31:22Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -1081,7 +1097,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-26T01:15:48Z"
+      "last_checked": "2026-11-26T06:31:26Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1097,7 +1113,7 @@
       "reference_price": 145.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-26T01:15:55Z"
+      "last_checked": "2026-11-26T06:31:28Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1145,7 +1161,23 @@
       "reference_price": 779.0,
       "discount": 71.6,
       "first_seen": "2026-11-17T14:24:53Z",
-      "last_checked": "2026-11-26T01:16:27Z"
+      "last_checked": "2026-11-26T06:32:00Z"
+    },
+    {
+      "asin": "B0GJQWGSKZ",
+      "title": "Ramadan Crescent with Hanging Lantern, Golden Ramadan Decoration, Islamic Home Decor Price, White",
+      "image": "https://m.media-amazon.com/images/I/61C5FsYAIzL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0GJQWGSKZ?aod=1",
+      "price": 46.78,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 146.62,
+      "list_price": 164.53,
+      "reference_price": 164.53,
+      "discount": 71.6,
+      "first_seen": "2026-11-23T13:21:19Z",
+      "last_checked": "2026-11-26T06:31:40Z"
     },
     {
       "asin": "B08QGZT4YQ",
@@ -1161,7 +1193,7 @@
       "reference_price": 151.2,
       "discount": 71.2,
       "first_seen": "2026-11-22T17:44:51Z",
-      "last_checked": "2026-11-26T01:15:58Z"
+      "last_checked": "2026-11-26T06:31:31Z"
     },
     {
       "asin": "B0DPKXFS4S",
@@ -1177,7 +1209,7 @@
       "reference_price": 41.0,
       "discount": 71.0,
       "first_seen": "2026-11-22T17:44:53Z",
-      "last_checked": "2026-11-26T01:16:01Z"
+      "last_checked": "2026-11-26T06:31:33Z"
     },
     {
       "asin": "B08YNM3H9Q",
@@ -1193,7 +1225,7 @@
       "reference_price": 165.0,
       "discount": 70.7,
       "first_seen": "2026-11-18T01:15:02Z",
-      "last_checked": "2026-11-26T01:16:03Z"
+      "last_checked": "2026-11-26T06:31:36Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1257,7 +1289,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-26T01:16:13Z"
+      "last_checked": "2026-11-26T06:31:47Z"
     },
     {
       "asin": "B09Q1QZLX9",
@@ -1289,23 +1321,7 @@
       "reference_price": 139.0,
       "discount": 70.3,
       "first_seen": "2026-11-23T13:21:15Z",
-      "last_checked": "2026-11-26T01:16:09Z"
-    },
-    {
-      "asin": "B0GJQWGSKZ",
-      "title": "Ramadan Crescent with Hanging Lantern, Golden Ramadan Decoration, Islamic Home Decor Price, White",
-      "image": "https://m.media-amazon.com/images/I/61C5FsYAIzL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0GJQWGSKZ?aod=1",
-      "price": 48.93,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 146.62,
-      "list_price": 164.53,
-      "reference_price": 164.53,
-      "discount": 70.3,
-      "first_seen": "2026-11-23T13:21:19Z",
-      "last_checked": "2026-11-26T01:16:06Z"
+      "last_checked": "2026-11-26T06:31:44Z"
     }
   ]
 }
