@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated_at": "2026-11-26T16:40:32Z",
+    "updated_at": "2026-11-26T17:57:45Z",
     "status": "blocked",
-    "block_reason": "unexpected search page layout",
+    "block_reason": "robot check",
     "last_success_at": "2026-11-26T14:26:30Z",
     "filters": {
       "max_price": 1000,
@@ -11,8 +11,8 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
+      "pages": 1,
+      "products": 48,
       "candidates": 0,
       "verified": 0,
       "new_deals": 0,
