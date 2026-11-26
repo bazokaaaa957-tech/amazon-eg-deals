@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated_at": "2026-11-26T14:26:30Z",
-    "status": "ok",
-    "block_reason": null,
+    "updated_at": "2026-11-26T15:36:36Z",
+    "status": "blocked",
+    "block_reason": "robot check",
     "last_success_at": "2026-11-26T14:26:30Z",
     "filters": {
       "max_price": 1000,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 20,
-      "products": 841,
-      "candidates": 8,
-      "verified": 8,
-      "new_deals": 2,
-      "expired": 1,
+      "pages": 2,
+      "products": 74,
+      "candidates": 0,
+      "verified": 0,
+      "new_deals": 0,
+      "expired": 0,
       "alerts": 0
     },
     "sweep": {
-      "band": 1,
+      "band": 2,
       "bands": 15,
       "completed": 16,
       "last_completed_at": "2026-11-26T14:24:41Z"

@@ -1,11 +1,75 @@
 {
   "cursor": {
-    "band": 0,
-    "page": 4
+    "band": 1,
+    "page": 2
   },
-  "queue": [],
+  "queue": [
+    {
+      "asin": "B0BLN5VD8W",
+      "title": "DE-XM-HM-TPU-zuhe",
+      "image": "https://m.media-amazon.com/images/I/51PXhijoQNL._AC_UL320_.jpg",
+      "main_price": 220.0,
+      "list_price": null,
+      "secondary_price": 20.75,
+      "prelim_discount": 90.6
+    },
+    {
+      "asin": "B09232FTX8",
+      "title": "Huawei Watch Fit - Soft Silicone Replacement Strap - Red",
+      "image": "https://m.media-amazon.com/images/I/51JsCkA9LCL._AC_UL320_.jpg",
+      "main_price": 119.0,
+      "list_price": null,
+      "secondary_price": 23.58,
+      "prelim_discount": 80.2
+    },
+    {
+      "asin": "B0CF9DK8L3",
+      "title": "Keendex KX 1180 Mobile Cover Back Stand IPhone 8G / 7G - Black",
+      "image": "https://m.media-amazon.com/images/I/61SSV1FI1hL._AC_UL320_.jpg",
+      "main_price": 93.0,
+      "list_price": null,
+      "secondary_price": 22.54,
+      "prelim_discount": 75.8
+    },
+    {
+      "asin": "B08Y96XHX8",
+      "title": "Tempered glass screen protector for huawei honor 8X-black5d",
+      "image": "https://m.media-amazon.com/images/I/61zorf1MdfL._AC_UL320_.jpg",
+      "main_price": 89.09,
+      "list_price": null,
+      "secondary_price": 24.26,
+      "prelim_discount": 72.8
+    },
+    {
+      "asin": "B091NYPJZ5",
+      "title": "Colored magnetic buttons fq3012 30 mm. - set of 12",
+      "image": "https://m.media-amazon.com/images/I/71wmcwVxsIL._AC_UL320_.jpg",
+      "main_price": 46.0,
+      "list_price": 124.25,
+      "secondary_price": 34.55,
+      "prelim_discount": 72.2
+    },
+    {
+      "asin": "B0FJGXWS2T",
+      "title": "Silicone Case High Quality Padded Inside With Camera Protection For Oppo A5X (Navy)",
+      "image": "https://m.media-amazon.com/images/I/61FtGfddyZL._AC_UL320_.jpg",
+      "main_price": 95.0,
+      "list_price": null,
+      "secondary_price": 26.67,
+      "prelim_discount": 71.9
+    },
+    {
+      "asin": "B092MPGSXK",
+      "title": "SKY-TOUCH Silicone Cupcake Liners 12Pcs, Baking Cups Non-Stick Cake Muffin Chocolate Cupcake Liner Baking Cup Mold, Multicolor",
+      "image": "https://m.media-amazon.com/images/I/71wn0khTt2L._AC_UL320_.jpg",
+      "main_price": 46.43,
+      "list_price": 128.0,
+      "secondary_price": 36.72,
+      "prelim_discount": 71.3
+    }
+  ],
   "notified": {},
   "sweeps_completed": 16,
-  "blocked_streak": 0,
+  "blocked_streak": 1,
   "last_sweep_completed_at": "2026-11-26T14:24:41Z"
 }
