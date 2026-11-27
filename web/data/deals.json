@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-27T14:57:23Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-27T13:57:06Z",
+    "updated_at": "2026-11-27T16:04:49Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-27T16:04:49Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 870,
+      "candidates": 12,
+      "verified": 12,
+      "new_deals": 3,
+      "expired": 2,
       "alerts": 0
     },
     "sweep": {
-      "band": 8,
+      "band": 11,
       "bands": 15,
       "completed": 16,
       "last_completed_at": "2026-11-26T14:24:41Z"
@@ -137,7 +137,7 @@
       "reference_price": 2107.0,
       "discount": 87.4,
       "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-27T04:08:17Z"
+      "last_checked": "2026-11-27T16:03:04Z"
     },
     {
       "asin": "B00BHHIPU2",
@@ -217,7 +217,7 @@
       "reference_price": 1382.0,
       "discount": 83.1,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-27T13:55:30Z"
+      "last_checked": "2026-11-27T16:03:06Z"
     },
     {
       "asin": "B079T4XCFG",
@@ -268,6 +268,22 @@
       "last_checked": "2026-11-27T13:55:58Z"
     },
     {
+      "asin": "B0D56NMF1M",
+      "title": "Vero Moda Women's Linn 2/4 Woven Shirt, M - Marina",
+      "image": "https://m.media-amazon.com/images/I/81WBX5TVcLL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0D56NMF1M?aod=1",
+      "price": 276.66,
+      "condition": "Open Box - Like New",
+      "condition_ar": "علبة مفتوحة - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 1435.0,
+      "list_price": null,
+      "reference_price": 1435.0,
+      "discount": 80.7,
+      "first_seen": "2026-11-18T15:30:38Z",
+      "last_checked": "2026-11-27T16:03:11Z"
+    },
+    {
       "asin": "B0DFH6VTXM",
       "title": "T Tersely Case for Samsung Galaxy S24 FE 5G 2024, Magnetic Cover Compatible with MagSafe, Hard Back Slim Shockproof Bumper, Support Wireless Charging",
       "image": "https://m.media-amazon.com/images/I/61BlE2g6kML._AC_UL320_.jpg",
@@ -282,6 +298,22 @@
       "discount": 80.6,
       "first_seen": "2026-11-17T04:34:31Z",
       "last_checked": "2026-11-27T04:09:03Z"
+    },
+    {
+      "asin": "B0C4M3D5ZN",
+      "title": "Kanex Indian punch 800 ONE UNIT ASSORTED COLOUR",
+      "image": "https://m.media-amazon.com/images/I/41kgJ827wWL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0C4M3D5ZN?aod=1",
+      "price": 244.53,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 1250.0,
+      "list_price": null,
+      "reference_price": 1250.0,
+      "discount": 80.4,
+      "first_seen": "2026-11-18T02:37:03Z",
+      "last_checked": "2026-11-27T16:03:09Z"
     },
     {
       "asin": "B09232FTX8",
@@ -300,22 +332,6 @@
       "last_checked": "2026-11-27T13:56:44Z"
     },
     {
-      "asin": "B0C4M3D5ZN",
-      "title": "Kanex Indian punch 800 ONE UNIT ASSORTED COLOUR",
-      "image": "https://m.media-amazon.com/images/I/41kgJ827wWL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0C4M3D5ZN?aod=1",
-      "price": 256.87,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 1250.0,
-      "list_price": null,
-      "reference_price": 1250.0,
-      "discount": 79.5,
-      "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-27T04:08:07Z"
-    },
-    {
       "asin": "B0FVWKL973",
       "title": "Desk Ornament - Delightful 3D Printed Turtle Coaster and Cup Holder Symbolizing Patience, Humor, and Comfort While Adding a Playful Vibe to Office Desks, Study Rooms, and Living Spaces (beige)",
       "image": "https://m.media-amazon.com/images/I/51jgLju+giL._AC_UL320_.jpg",
@@ -330,22 +346,6 @@
       "discount": 79.3,
       "first_seen": "2026-11-17T05:34:38Z",
       "last_checked": "2026-11-27T04:09:07Z"
-    },
-    {
-      "asin": "B0D56NMF1M",
-      "title": "Vero Moda Women's Linn 2/4 Woven Shirt, M - Marina",
-      "image": "https://m.media-amazon.com/images/I/81WBX5TVcLL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0D56NMF1M?aod=1",
-      "price": 297.97,
-      "condition": "Open Box - Like New",
-      "condition_ar": "علبة مفتوحة - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 1435.0,
-      "list_price": null,
-      "reference_price": 1435.0,
-      "discount": 79.2,
-      "first_seen": "2026-11-18T15:30:38Z",
-      "last_checked": "2026-11-27T04:08:29Z"
     },
     {
       "asin": "B0001AU7SO",
@@ -585,23 +585,7 @@
       "reference_price": 233.93,
       "discount": 76.6,
       "first_seen": "2026-11-27T04:06:35Z",
-      "last_checked": "2026-11-27T04:06:35Z"
-    },
-    {
-      "asin": "B0DJFT654B",
-      "title": "V VOLT Compatible with Huawei Honor Band 4 / Band 5 Smart Watch Band, Durable Strong Silicone Replacement Strap",
-      "image": "https://m.media-amazon.com/images/I/51X7JeU8qcL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DJFT654B?aod=1",
-      "price": 35.34,
-      "condition": "Open Box - Very Good",
-      "condition_ar": "علبة مفتوحة - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 121.45,
-      "list_price": 150.0,
-      "reference_price": 150.0,
-      "discount": 76.4,
-      "first_seen": "2026-11-20T04:36:33Z",
-      "last_checked": "2026-11-27T04:06:39Z"
+      "last_checked": "2026-11-27T16:03:37Z"
     },
     {
       "asin": "B0DBSR9Z6J",
@@ -617,7 +601,7 @@
       "reference_price": 149.0,
       "discount": 75.9,
       "first_seen": "2026-11-17T04:35:26Z",
-      "last_checked": "2026-11-27T04:06:45Z"
+      "last_checked": "2026-11-27T16:03:45Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -633,7 +617,7 @@
       "reference_price": 93.0,
       "discount": 75.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-27T04:06:48Z"
+      "last_checked": "2026-11-27T16:03:48Z"
     },
     {
       "asin": "B0CNVBFQVN",
@@ -665,7 +649,7 @@
       "reference_price": 1272.0,
       "discount": 74.7,
       "first_seen": "2026-11-25T17:07:17Z",
-      "last_checked": "2026-11-27T04:08:36Z"
+      "last_checked": "2026-11-27T16:03:14Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -681,7 +665,23 @@
       "reference_price": 119.0,
       "discount": 74.6,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-27T04:06:54Z"
+      "last_checked": "2026-11-27T16:03:51Z"
+    },
+    {
+      "asin": "B0BD63TK8P",
+      "title": "Mr Joe womens 3776 Heeled Sandal",
+      "image": "https://m.media-amazon.com/images/I/51ep7Fh462L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0BD63TK8P?aod=1",
+      "price": 262.91,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 1029.0,
+      "list_price": null,
+      "reference_price": 1029.0,
+      "discount": 74.4,
+      "first_seen": "2026-11-17T14:24:51Z",
+      "last_checked": "2026-11-27T16:03:17Z"
     },
     {
       "asin": "B0F8C3KKCM",
@@ -697,7 +697,7 @@
       "reference_price": 230.0,
       "discount": 74.2,
       "first_seen": "2026-11-17T22:58:04Z",
-      "last_checked": "2026-11-27T04:06:42Z"
+      "last_checked": "2026-11-27T16:03:43Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -745,7 +745,7 @@
       "reference_price": 187.31,
       "discount": 74.0,
       "first_seen": "2026-11-20T04:36:58Z",
-      "last_checked": "2026-11-27T04:06:59Z"
+      "last_checked": "2026-11-27T16:03:57Z"
     },
     {
       "asin": "B0CPVNLZGW",
@@ -793,7 +793,55 @@
       "reference_price": 276.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T04:35:14Z",
-      "last_checked": "2026-11-27T04:06:56Z"
+      "last_checked": "2026-11-27T16:03:54Z"
+    },
+    {
+      "asin": "B0CM4XDW4Q",
+      "title": "Next store Compatible with Xiaomi Redmi Watch 3 Watch Band, Silicone Replacement Sport Wristband with Buckle",
+      "image": "https://m.media-amazon.com/images/I/61bb5uIw9mL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CM4XDW4Q?aod=1",
+      "price": 41.29,
+      "condition": "Open Box - Like New",
+      "condition_ar": "علبة مفتوحة - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 157.01,
+      "list_price": null,
+      "reference_price": 157.01,
+      "discount": 73.7,
+      "first_seen": "2026-11-17T00:27:10Z",
+      "last_checked": "2026-11-27T16:04:00Z"
+    },
+    {
+      "asin": "B08QN25VS4",
+      "title": "Simba 107826049 Herzen, Glow in The Dark Unicorn Mega Set/Shapes and Many Other Designs/Fluorescent/Includes Adhesive Rubber / 121 Pieces / 3 Years +",
+      "image": "https://m.media-amazon.com/images/I/7144S8hdz0L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B08QN25VS4?aod=1",
+      "price": 240.98,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 283.51,
+      "list_price": 911.46,
+      "reference_price": 911.46,
+      "discount": 73.6,
+      "first_seen": "2026-11-27T16:03:20Z",
+      "last_checked": "2026-11-27T16:03:20Z"
+    },
+    {
+      "asin": "B0F7J2VFLP",
+      "title": "Rider mens RIDER STREET CITY THONG AD Slipers",
+      "image": "https://m.media-amazon.com/images/I/61UlVKb+H7L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0F7J2VFLP?aod=1",
+      "price": 240.95,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 725.0,
+      "list_price": 909.0,
+      "reference_price": 909.0,
+      "discount": 73.5,
+      "first_seen": "2026-11-23T01:10:27Z",
+      "last_checked": "2026-11-27T16:03:23Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -810,6 +858,22 @@
       "discount": 73.4,
       "first_seen": "2026-11-17T14:24:56Z",
       "last_checked": "2026-11-27T04:08:14Z"
+    },
+    {
+      "asin": "B0084DMYB8",
+      "title": "Curver Plastic Style Storage Box with Lid, 22 Liter Capacity, Brown",
+      "image": "https://m.media-amazon.com/images/I/61N314yLwNL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0084DMYB8?aod=1",
+      "price": 346.16,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 1300.0,
+      "list_price": null,
+      "reference_price": 1300.0,
+      "discount": 73.4,
+      "first_seen": "2026-11-27T16:03:25Z",
+      "last_checked": "2026-11-27T16:03:25Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -841,39 +905,7 @@
       "reference_price": 179.0,
       "discount": 73.3,
       "first_seen": "2026-11-20T04:36:41Z",
-      "last_checked": "2026-11-27T04:07:06Z"
-    },
-    {
-      "asin": "B0CM4XDW4Q",
-      "title": "Next store Compatible with Xiaomi Redmi Watch 3 Watch Band, Silicone Replacement Sport Wristband with Buckle",
-      "image": "https://m.media-amazon.com/images/I/61bb5uIw9mL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CM4XDW4Q?aod=1",
-      "price": 41.99,
-      "condition": "Open Box - Like New",
-      "condition_ar": "علبة مفتوحة - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 157.01,
-      "list_price": null,
-      "reference_price": 157.01,
-      "discount": 73.3,
-      "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-27T04:07:02Z"
-    },
-    {
-      "asin": "B0BD63TK8P",
-      "title": "Mr Joe womens 3776 Heeled Sandal",
-      "image": "https://m.media-amazon.com/images/I/51ep7Fh462L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0BD63TK8P?aod=1",
-      "price": 277.29,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 1029.0,
-      "list_price": null,
-      "reference_price": 1029.0,
-      "discount": 73.1,
-      "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-27T04:08:39Z"
+      "last_checked": "2026-11-27T16:04:03Z"
     },
     {
       "asin": "B0CZXZKFL3",
@@ -905,7 +937,7 @@
       "reference_price": 120.0,
       "discount": 73.0,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-27T04:07:08Z"
+      "last_checked": "2026-11-27T16:04:05Z"
     },
     {
       "asin": "B0CP87RW7M",
@@ -937,7 +969,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-27T04:07:13Z"
+      "last_checked": "2026-11-27T16:04:12Z"
     },
     {
       "asin": "B0DF68NMF8",
@@ -972,22 +1004,6 @@
       "last_checked": "2026-11-27T13:55:55Z"
     },
     {
-      "asin": "B0F7J2VFLP",
-      "title": "Rider mens RIDER STREET CITY THONG AD Slipers",
-      "image": "https://m.media-amazon.com/images/I/61UlVKb+H7L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0F7J2VFLP?aod=1",
-      "price": 250.77,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 725.0,
-      "list_price": 909.0,
-      "reference_price": 909.0,
-      "discount": 72.4,
-      "first_seen": "2026-11-23T01:10:27Z",
-      "last_checked": "2026-11-27T04:08:46Z"
-    },
-    {
       "asin": "B08YNPJKX3",
       "title": "Portal Wood 3 Cubic Wall Shelves - White",
       "image": "https://m.media-amazon.com/images/I/51P13oEJaqL._AC_UL320_.jpg",
@@ -1001,7 +1017,7 @@
       "reference_price": 300.0,
       "discount": 72.3,
       "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-27T04:07:16Z"
+      "last_checked": "2026-11-27T16:04:16Z"
     },
     {
       "asin": "B091NYPJZ5",
@@ -1017,7 +1033,7 @@
       "reference_price": 124.25,
       "discount": 72.2,
       "first_seen": "2026-11-23T13:20:43Z",
-      "last_checked": "2026-11-27T04:07:18Z"
+      "last_checked": "2026-11-27T16:04:18Z"
     },
     {
       "asin": "B091BSGSRJ",
@@ -1033,7 +1049,7 @@
       "reference_price": 342.0,
       "discount": 72.1,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-27T04:07:10Z"
+      "last_checked": "2026-11-27T16:04:09Z"
     },
     {
       "asin": "B0FWS4P8TK",
@@ -1049,7 +1065,7 @@
       "reference_price": 230.0,
       "discount": 72.0,
       "first_seen": "2026-11-20T04:37:12Z",
-      "last_checked": "2026-11-27T04:07:25Z"
+      "last_checked": "2026-11-27T16:04:23Z"
     },
     {
       "asin": "B09WLJR3JD",
@@ -1065,7 +1081,7 @@
       "reference_price": 196.0,
       "discount": 72.0,
       "first_seen": "2026-11-25T20:00:29Z",
-      "last_checked": "2026-11-27T04:07:21Z"
+      "last_checked": "2026-11-27T16:04:21Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -1081,7 +1097,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-27T04:07:28Z"
+      "last_checked": "2026-11-27T16:04:27Z"
     },
     {
       "asin": "B0DJFVKRGC",
@@ -1097,7 +1113,7 @@
       "reference_price": 170.17,
       "discount": 71.9,
       "first_seen": "2026-11-27T04:07:31Z",
-      "last_checked": "2026-11-27T04:07:31Z"
+      "last_checked": "2026-11-27T16:04:30Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1113,7 +1129,7 @@
       "reference_price": 145.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-27T04:07:34Z"
+      "last_checked": "2026-11-27T16:04:32Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1161,7 +1177,7 @@
       "reference_price": 779.0,
       "discount": 71.6,
       "first_seen": "2026-11-17T14:24:53Z",
-      "last_checked": "2026-11-27T04:08:20Z"
+      "last_checked": "2026-11-27T16:03:28Z"
     },
     {
       "asin": "B0GJQWGSKZ",
@@ -1177,7 +1193,7 @@
       "reference_price": 164.53,
       "discount": 71.6,
       "first_seen": "2026-11-23T13:21:19Z",
-      "last_checked": "2026-11-27T04:07:38Z"
+      "last_checked": "2026-11-27T16:04:36Z"
     },
     {
       "asin": "B0968ZVF49",
@@ -1209,7 +1225,7 @@
       "reference_price": 151.2,
       "discount": 71.4,
       "first_seen": "2026-11-22T17:44:51Z",
-      "last_checked": "2026-11-27T04:07:40Z"
+      "last_checked": "2026-11-27T16:04:39Z"
     },
     {
       "asin": "B08YNM3H9Q",
@@ -1225,7 +1241,7 @@
       "reference_price": 165.0,
       "discount": 71.4,
       "first_seen": "2026-11-18T01:15:02Z",
-      "last_checked": "2026-11-27T04:07:43Z"
+      "last_checked": "2026-11-27T16:04:42Z"
     },
     {
       "asin": "B0F9YVBB73",
@@ -1241,23 +1257,7 @@
       "reference_price": 1129.0,
       "discount": 71.3,
       "first_seen": "2026-11-26T11:30:55Z",
-      "last_checked": "2026-11-27T04:08:53Z"
-    },
-    {
-      "asin": "B092MPGSXK",
-      "title": "SKY-TOUCH Silicone Cupcake Liners 12Pcs, Baking Cups Non-Stick Cake Muffin Chocolate Cupcake Liner Baking Cup Mold, Multicolor",
-      "image": "https://m.media-amazon.com/images/I/71wn0khTt2L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B092MPGSXK?aod=1",
-      "price": 36.72,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 46.43,
-      "list_price": 128.0,
-      "reference_price": 128.0,
-      "discount": 71.3,
-      "first_seen": "2026-11-27T04:07:46Z",
-      "last_checked": "2026-11-27T04:07:46Z"
+      "last_checked": "2026-11-27T16:03:32Z"
     },
     {
       "asin": "B0DPKXFS4S",
@@ -1280,16 +1280,16 @@
       "title": "Fresh Lemon Cup With Straw 0,7L",
       "image": "https://m.media-amazon.com/images/I/41SRhPCMhZL._AC_UL320_.jpg",
       "url": "https://www.amazon.eg/dp/B0D8199FKW?aod=1",
-      "price": 83.81,
+      "price": 82.9,
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
       "new_price": 285.0,
       "list_price": null,
       "reference_price": 285.0,
-      "discount": 70.6,
+      "discount": 70.9,
       "first_seen": "2026-11-18T01:14:55Z",
-      "last_checked": "2026-11-27T04:07:49Z"
+      "last_checked": "2026-11-27T16:04:49Z"
     },
     {
       "asin": "B0BDLXDKBQ",
@@ -1354,6 +1354,22 @@
       "discount": 70.3,
       "first_seen": "2026-11-23T13:21:15Z",
       "last_checked": "2026-11-27T04:07:56Z"
+    },
+    {
+      "asin": "B0F4DH75ZZ",
+      "title": "CARINA Womens Square Neck Corset Top Modern",
+      "image": "https://m.media-amazon.com/images/I/51iXxTKViJL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0F4DH75ZZ?aod=1",
+      "price": 282.38,
+      "condition": "Open Box - Very Good",
+      "condition_ar": "علبة مفتوحة - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 949.99,
+      "list_price": null,
+      "reference_price": 949.99,
+      "discount": 70.3,
+      "first_seen": "2026-11-27T16:03:34Z",
+      "last_checked": "2026-11-27T16:03:34Z"
     },
     {
       "asin": "B0DLLC56J9",
