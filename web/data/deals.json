@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-27T12:34:00Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-27T04:09:23Z",
+    "updated_at": "2026-11-27T13:57:06Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-27T13:57:06Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 894,
+      "candidates": 12,
+      "verified": 12,
+      "new_deals": 2,
+      "expired": 2,
       "alerts": 0
     },
     "sweep": {
-      "band": 5,
+      "band": 8,
       "bands": 15,
       "completed": 16,
       "last_completed_at": "2026-11-26T14:24:41Z"
@@ -41,7 +41,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-27T04:09:10Z"
+      "last_checked": "2026-11-27T13:55:23Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -73,7 +73,7 @@
       "reference_price": 220.0,
       "discount": 90.6,
       "first_seen": "2026-11-19T15:35:03Z",
-      "last_checked": "2026-11-27T04:06:07Z"
+      "last_checked": "2026-11-27T13:56:41Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -140,6 +140,38 @@
       "last_checked": "2026-11-27T04:08:17Z"
     },
     {
+      "asin": "B00BHHIPU2",
+      "title": "Bosch Fuel Filter F026402017",
+      "image": "https://m.media-amazon.com/images/I/41kOzuc8orL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B00BHHIPU2?aod=1",
+      "price": 147.31,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 1161.42,
+      "list_price": null,
+      "reference_price": 1161.42,
+      "discount": 87.3,
+      "first_seen": "2026-11-27T13:55:27Z",
+      "last_checked": "2026-11-27T13:55:27Z"
+    },
+    {
+      "asin": "1405328576",
+      "title": "Indiana Jones Heroes and Villains Sticker Book",
+      "image": "https://m.media-amazon.com/images/I/61IpQKmMaXL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/1405328576?aod=1",
+      "price": 29.35,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 175.5,
+      "list_price": 195.0,
+      "reference_price": 195.0,
+      "discount": 84.9,
+      "first_seen": "2026-11-17T00:27:05Z",
+      "last_checked": "2026-11-27T13:56:32Z"
+    },
+    {
       "asin": "B09HS5H4G4",
       "title": "Tensea for iPhone 13 Pro - iPhone 13 Pro Max Camera Lens Protector, 9H Tempered Glass Camera Cover Screen Protector Metal Individual Ring for iPhone 13Pro 6.1 inch iPhone 13 ProMax 6.7 inch 2021",
       "image": "https://m.media-amazon.com/images/I/71E-lnrx6dL._AC_UL320_.jpg",
@@ -153,7 +185,7 @@
       "reference_price": 259.0,
       "discount": 84.8,
       "first_seen": "2026-11-22T20:47:06Z",
-      "last_checked": "2026-11-26T14:25:41Z"
+      "last_checked": "2026-11-27T13:56:30Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -169,23 +201,7 @@
       "reference_price": 361.0,
       "discount": 84.6,
       "first_seen": "2026-11-17T04:34:21Z",
-      "last_checked": "2026-11-26T14:25:28Z"
-    },
-    {
-      "asin": "1405328576",
-      "title": "Indiana Jones Heroes and Villains Sticker Book",
-      "image": "https://m.media-amazon.com/images/I/61IpQKmMaXL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/1405328576?aod=1",
-      "price": 31.85,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
-      "seller": "Amazon Resale",
-      "new_price": 175.5,
-      "list_price": 195.0,
-      "reference_price": 195.0,
-      "discount": 83.7,
-      "first_seen": "2026-11-17T00:27:05Z",
-      "last_checked": "2026-11-26T14:25:45Z"
+      "last_checked": "2026-11-27T13:56:19Z"
     },
     {
       "asin": "0241583160",
@@ -201,7 +217,7 @@
       "reference_price": 1382.0,
       "discount": 83.1,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-26T14:26:08Z"
+      "last_checked": "2026-11-27T13:55:30Z"
     },
     {
       "asin": "B079T4XCFG",
@@ -217,7 +233,7 @@
       "reference_price": 799.92,
       "discount": 82.5,
       "first_seen": "2026-11-25T12:42:29Z",
-      "last_checked": "2026-11-26T14:26:11Z"
+      "last_checked": "2026-11-27T13:55:32Z"
     },
     {
       "asin": "B08W9K5CMK",
@@ -233,7 +249,7 @@
       "reference_price": 635.0,
       "discount": 81.5,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-27T04:09:16Z"
+      "last_checked": "2026-11-27T13:55:34Z"
     },
     {
       "asin": "B0FJ2KFK88",
@@ -249,7 +265,7 @@
       "reference_price": 99.0,
       "discount": 80.7,
       "first_seen": "2026-11-17T00:26:58Z",
-      "last_checked": "2026-11-26T14:24:52Z"
+      "last_checked": "2026-11-27T13:55:58Z"
     },
     {
       "asin": "B0DFH6VTXM",
@@ -281,7 +297,7 @@
       "reference_price": 119.0,
       "discount": 80.2,
       "first_seen": "2026-11-17T00:27:08Z",
-      "last_checked": "2026-11-27T04:06:10Z"
+      "last_checked": "2026-11-27T13:56:44Z"
     },
     {
       "asin": "B0C4M3D5ZN",
@@ -348,20 +364,20 @@
       "last_checked": "2026-11-27T04:08:32Z"
     },
     {
-      "asin": "B0B4WKS1YM",
-      "title": "فوطه مطبخ قطن 5 قطعه من الياسين 30 * 30 سم - متعدد الالوان",
-      "image": "https://m.media-amazon.com/images/I/61LJk452P6L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0B4WKS1YM?aod=1",
-      "price": 48.6,
+      "asin": "B09DKG7M9J",
+      "title": "Midkart Hard Shell Plastic Case Cover Compatible with MacBook Pro 13 Inch (Model M2 A2338 / M1 A2338 / A2289 / A2251 / A1706 / A1708 / A2159 / A1989, Release 2023-2016), Carbon Fiber Black",
+      "image": "https://m.media-amazon.com/images/I/61h97Xy2E8L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B09DKG7M9J?aod=1",
+      "price": 143.37,
       "condition": "Used - Like New",
       "condition_ar": "مستعمل - كالجديد",
       "seller": "Amazon Resale",
-      "new_price": 230.49,
+      "new_price": 680.0,
       "list_price": null,
-      "reference_price": 230.49,
+      "reference_price": 680.0,
       "discount": 78.9,
-      "first_seen": "2026-11-17T04:34:50Z",
-      "last_checked": "2026-11-26T14:25:51Z"
+      "first_seen": "2026-11-17T14:24:47Z",
+      "last_checked": "2026-11-27T13:55:36Z"
     },
     {
       "asin": "B09VSTZTHP",
@@ -377,7 +393,23 @@
       "reference_price": 562.5,
       "discount": 78.8,
       "first_seen": "2026-11-24T21:31:50Z",
-      "last_checked": "2026-11-26T14:25:32Z"
+      "last_checked": "2026-11-27T13:56:24Z"
+    },
+    {
+      "asin": "B0CZJ3T8FN",
+      "title": "Banana Protection Storage Box, Safe Plastic with Air Holes, Cute Durable Holder - 3 Pcs Random Colors",
+      "image": "https://m.media-amazon.com/images/I/51BruYF-SxL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CZJ3T8FN?aod=1",
+      "price": 47.71,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 79.81,
+      "list_price": 225.0,
+      "reference_price": 225.0,
+      "discount": 78.8,
+      "first_seen": "2026-11-20T04:36:04Z",
+      "last_checked": "2026-11-27T13:56:22Z"
     },
     {
       "asin": "B0B9P24XQX",
@@ -393,7 +425,7 @@
       "reference_price": 226.8,
       "discount": 78.7,
       "first_seen": "2026-11-17T04:34:44Z",
-      "last_checked": "2026-11-27T04:06:13Z"
+      "last_checked": "2026-11-27T13:56:48Z"
     },
     {
       "asin": "B0965LVXJ7",
@@ -409,7 +441,7 @@
       "reference_price": 272.88,
       "discount": 78.7,
       "first_seen": "2026-11-25T19:59:42Z",
-      "last_checked": "2026-11-27T04:06:16Z"
+      "last_checked": "2026-11-27T13:56:50Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -425,7 +457,7 @@
       "reference_price": 350.0,
       "discount": 78.6,
       "first_seen": "2026-11-17T04:35:04Z",
-      "last_checked": "2026-11-26T14:25:35Z"
+      "last_checked": "2026-11-27T13:56:27Z"
     },
     {
       "asin": "B09JL9VX3V",
@@ -441,23 +473,7 @@
       "reference_price": 255.52,
       "discount": 78.3,
       "first_seen": "2026-11-19T04:37:52Z",
-      "last_checked": "2026-11-27T04:06:19Z"
-    },
-    {
-      "asin": "B0CZJ3T8FN",
-      "title": "Banana Protection Storage Box, Safe Plastic with Air Holes, Cute Durable Holder - 3 Pcs Random Colors",
-      "image": "https://m.media-amazon.com/images/I/51BruYF-SxL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CZJ3T8FN?aod=1",
-      "price": 48.99,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
-      "seller": "Amazon Resale",
-      "new_price": 79.81,
-      "list_price": 225.0,
-      "reference_price": 225.0,
-      "discount": 78.2,
-      "first_seen": "2026-11-20T04:36:04Z",
-      "last_checked": "2026-11-26T14:25:30Z"
+      "last_checked": "2026-11-27T13:56:53Z"
     },
     {
       "asin": "B0GJMN88P9",
@@ -473,23 +489,23 @@
       "reference_price": 211.27,
       "discount": 77.9,
       "first_seen": "2026-11-20T04:36:21Z",
-      "last_checked": "2026-11-27T04:06:22Z"
+      "last_checked": "2026-11-27T13:56:57Z"
     },
     {
-      "asin": "B09DKG7M9J",
-      "title": "Midkart Hard Shell Plastic Case Cover Compatible with MacBook Pro 13 Inch (Model M2 A2338 / M1 A2338 / A2289 / A2251 / A1706 / A1708 / A2159 / A1989, Release 2023-2016), Carbon Fiber Black",
-      "image": "https://m.media-amazon.com/images/I/61h97Xy2E8L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B09DKG7M9J?aod=1",
-      "price": 153.86,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
+      "asin": "B0972NJM6W",
+      "title": "Stefanplast Tosca peçete tutucu, plastik, mavi",
+      "image": "https://m.media-amazon.com/images/I/41FRUtV83wL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0972NJM6W?aod=1",
+      "price": 101.51,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
-      "new_price": 680.0,
-      "list_price": null,
-      "reference_price": 680.0,
-      "discount": 77.4,
-      "first_seen": "2026-11-17T14:24:47Z",
-      "last_checked": "2026-11-26T14:25:24Z"
+      "new_price": 210.0,
+      "list_price": 460.0,
+      "reference_price": 460.0,
+      "discount": 77.9,
+      "first_seen": "2026-11-17T05:34:52Z",
+      "last_checked": "2026-11-27T13:55:39Z"
     },
     {
       "asin": "B0CFY3WH8B",
@@ -505,7 +521,7 @@
       "reference_price": 522.03,
       "discount": 77.3,
       "first_seen": "2026-11-21T22:43:57Z",
-      "last_checked": "2026-11-27T04:09:20Z"
+      "last_checked": "2026-11-27T13:55:42Z"
     },
     {
       "asin": "B0DJFVH12D",
@@ -521,7 +537,7 @@
       "reference_price": 230.0,
       "discount": 77.1,
       "first_seen": "2026-11-17T04:34:33Z",
-      "last_checked": "2026-11-27T04:06:26Z"
+      "last_checked": "2026-11-27T13:57:00Z"
     },
     {
       "asin": "B0DHRYP96X",
@@ -537,7 +553,7 @@
       "reference_price": 211.5,
       "discount": 76.8,
       "first_seen": "2026-11-26T01:15:06Z",
-      "last_checked": "2026-11-27T04:06:29Z"
+      "last_checked": "2026-11-27T13:57:03Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -553,7 +569,7 @@
       "reference_price": 184.63,
       "discount": 76.7,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-27T04:06:32Z"
+      "last_checked": "2026-11-27T13:57:06Z"
     },
     {
       "asin": "B07WRBDXZ8",
@@ -588,22 +604,6 @@
       "last_checked": "2026-11-27T04:06:39Z"
     },
     {
-      "asin": "B0972NJM6W",
-      "title": "Stefanplast Tosca peçete tutucu, plastik, mavi",
-      "image": "https://m.media-amazon.com/images/I/41FRUtV83wL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0972NJM6W?aod=1",
-      "price": 109.09,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 210.0,
-      "list_price": 460.0,
-      "reference_price": 460.0,
-      "discount": 76.3,
-      "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-26T11:31:34Z"
-    },
-    {
       "asin": "B0DBSR9Z6J",
       "title": "Dream Catcher Mirror Hanging - Multi Color",
       "image": "https://m.media-amazon.com/images/I/413QyF6bFwL._AC_UL320_.jpg",
@@ -636,36 +636,20 @@
       "last_checked": "2026-11-27T04:06:48Z"
     },
     {
-      "asin": "B091JHW2MJ",
-      "title": "ProPlus Glass Screen Protector 3D For Iphone 8 White",
-      "image": "https://m.media-amazon.com/images/I/51YRJSuWsbL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B091JHW2MJ?aod=1",
-      "price": 36.9,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
+      "asin": "B0CNVBFQVN",
+      "title": "SKY-TOUCH Large Laundry Basket Bags Foldable,3-Section Laundry Hamper Portable Dirty Clothes Bag Sorter with Handle,Large Capacity Fabric Washing Storage Baskets for Bathroom Bedroom Home 135L",
+      "image": "https://m.media-amazon.com/images/I/61STFPevL6L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CNVBFQVN?aod=1",
+      "price": 140.25,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
       "seller": "Amazon Resale",
-      "new_price": 150.0,
-      "list_price": null,
-      "reference_price": 150.0,
-      "discount": 75.4,
-      "first_seen": "2026-11-17T00:27:15Z",
-      "last_checked": "2026-11-26T14:26:17Z"
-    },
-    {
-      "asin": "B0DDQH997L",
-      "title": "Multipurpose Wet and Dry Dish Washing Wire Loofah, Stainless Steel Cleaning Tool, Non Scratch Wire Cloth for Washing Dishes, Sinks, Tables, Easy to Rinse Machine (Pack of 4)",
-      "image": "https://m.media-amazon.com/images/I/81RvtCh5lCL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DDQH997L?aod=1",
-      "price": 15.11,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 16.79,
-      "list_price": 60.0,
-      "reference_price": 60.0,
-      "discount": 74.8,
-      "first_seen": "2026-11-26T14:24:57Z",
-      "last_checked": "2026-11-26T14:24:57Z"
+      "new_price": 450.0,
+      "list_price": 562.59,
+      "reference_price": 562.59,
+      "discount": 75.1,
+      "first_seen": "2026-11-27T13:55:44Z",
+      "last_checked": "2026-11-27T13:55:44Z"
     },
     {
       "asin": "B0F79GSXW5",
@@ -729,7 +713,7 @@
       "reference_price": 2591.0,
       "discount": 74.1,
       "first_seen": "2026-11-17T20:07:38Z",
-      "last_checked": "2026-11-26T14:25:00Z"
+      "last_checked": "2026-11-27T13:56:04Z"
     },
     {
       "asin": "B0CQ6ZGNBK",
@@ -745,7 +729,7 @@
       "reference_price": 3589.0,
       "discount": 74.1,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-26T14:25:03Z"
+      "last_checked": "2026-11-27T13:56:08Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -764,6 +748,22 @@
       "last_checked": "2026-11-27T04:06:59Z"
     },
     {
+      "asin": "B0CPVNLZGW",
+      "title": "Whiteboard 35x50cm+Pack of G201 Black whiteboard",
+      "image": "https://m.media-amazon.com/images/I/61lBJoqaXaL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CPVNLZGW?aod=1",
+      "price": 129.7,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 498.18,
+      "list_price": null,
+      "reference_price": 498.18,
+      "discount": 74.0,
+      "first_seen": "2026-11-24T21:32:09Z",
+      "last_checked": "2026-11-27T13:55:47Z"
+    },
+    {
       "asin": "B0G262S77Z",
       "title": "M-Store Super J Hula Hoop Fitting",
       "image": "https://m.media-amazon.com/images/I/41P4NtMln-L._AC_UL320_.jpg",
@@ -777,7 +777,7 @@
       "reference_price": 437.0,
       "discount": 73.9,
       "first_seen": "2026-11-17T05:34:44Z",
-      "last_checked": "2026-11-26T11:31:43Z"
+      "last_checked": "2026-11-27T13:55:49Z"
     },
     {
       "asin": "B091CGHJ6W",
@@ -796,22 +796,6 @@
       "last_checked": "2026-11-27T04:06:56Z"
     },
     {
-      "asin": "B0CPVNLZGW",
-      "title": "Whiteboard 35x50cm+Pack of G201 Black whiteboard",
-      "image": "https://m.media-amazon.com/images/I/61lBJoqaXaL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CPVNLZGW?aod=1",
-      "price": 130.87,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 498.18,
-      "list_price": null,
-      "reference_price": 498.18,
-      "discount": 73.7,
-      "first_seen": "2026-11-24T21:32:09Z",
-      "last_checked": "2026-11-26T11:31:45Z"
-    },
-    {
       "asin": "B0FCXQWRHW",
       "title": "3 PCS Silicone Fishing Rod Holder Ball Straps with 5 Hole Portable,Rubber Fishing Pole Clips Fly Fishing Accessories.",
       "image": "https://m.media-amazon.com/images/I/51n8thXOkeL._AC_UL320_.jpg",
@@ -826,6 +810,22 @@
       "discount": 73.4,
       "first_seen": "2026-11-17T14:24:56Z",
       "last_checked": "2026-11-27T04:08:14Z"
+    },
+    {
+      "asin": "B091JHW2MJ",
+      "title": "ProPlus Glass Screen Protector 3D For Iphone 8 White",
+      "image": "https://m.media-amazon.com/images/I/51YRJSuWsbL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B091JHW2MJ?aod=1",
+      "price": 36.9,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 138.0,
+      "list_price": null,
+      "reference_price": 138.0,
+      "discount": 73.3,
+      "first_seen": "2026-11-17T00:27:15Z",
+      "last_checked": "2026-11-27T13:56:38Z"
     },
     {
       "asin": "B0CLYR41RL",
@@ -969,7 +969,7 @@
       "reference_price": 310.0,
       "discount": 72.6,
       "first_seen": "2026-11-19T05:39:54Z",
-      "last_checked": "2026-11-26T11:31:53Z"
+      "last_checked": "2026-11-27T13:55:55Z"
     },
     {
       "asin": "B0F7J2VFLP",
@@ -1129,7 +1129,7 @@
       "reference_price": 258.72,
       "discount": 71.7,
       "first_seen": "2026-11-19T05:39:57Z",
-      "last_checked": "2026-11-26T14:25:17Z"
+      "last_checked": "2026-11-27T13:56:16Z"
     },
     {
       "asin": "B0DYDTK1FY",
@@ -1145,7 +1145,7 @@
       "reference_price": 432.15,
       "discount": 71.7,
       "first_seen": "2026-11-20T05:39:27Z",
-      "last_checked": "2026-11-26T11:31:58Z"
+      "last_checked": "2026-11-27T13:55:52Z"
     },
     {
       "asin": "B0D4BWDG51",
@@ -1273,7 +1273,7 @@
       "reference_price": 41.0,
       "discount": 71.0,
       "first_seen": "2026-11-22T17:44:53Z",
-      "last_checked": "2026-11-26T14:25:10Z"
+      "last_checked": "2026-11-27T13:56:11Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1369,7 +1369,7 @@
       "reference_price": 59.0,
       "discount": 70.2,
       "first_seen": "2026-11-26T14:25:14Z",
-      "last_checked": "2026-11-26T14:25:14Z"
+      "last_checked": "2026-11-27T13:56:13Z"
     },
     {
       "asin": "B0FR3J4YQ5",
