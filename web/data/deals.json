@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-28T05:59:56Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-28T05:06:03Z",
+    "updated_at": "2026-11-28T07:16:54Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-28T07:16:54Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,16 +11,16 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 870,
+      "candidates": 24,
+      "verified": 24,
+      "new_deals": 2,
+      "expired": 2,
       "alerts": 0
     },
     "sweep": {
-      "band": 3,
+      "band": 6,
       "bands": 15,
       "completed": 17,
       "last_completed_at": "2026-11-28T05:02:05Z"
@@ -41,7 +41,7 @@
       "reference_price": 1490.0,
       "discount": 92.3,
       "first_seen": "2026-11-17T05:34:33Z",
-      "last_checked": "2026-11-27T21:32:19Z"
+      "last_checked": "2026-11-28T07:14:33Z"
     },
     {
       "asin": "B0DJK1SLCR",
@@ -57,7 +57,7 @@
       "reference_price": 581.0,
       "discount": 91.5,
       "first_seen": "2026-11-17T00:26:47Z",
-      "last_checked": "2026-11-28T05:02:54Z"
+      "last_checked": "2026-11-28T07:16:30Z"
     },
     {
       "asin": "B0BLN5VD8W",
@@ -73,7 +73,7 @@
       "reference_price": 220.0,
       "discount": 90.6,
       "first_seen": "2026-11-19T15:35:03Z",
-      "last_checked": "2026-11-28T05:02:58Z"
+      "last_checked": "2026-11-28T07:16:33Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -89,7 +89,7 @@
       "reference_price": 713.0,
       "discount": 90.5,
       "first_seen": "2026-11-17T04:34:03Z",
-      "last_checked": "2026-11-27T21:31:59Z"
+      "last_checked": "2026-11-28T07:14:36Z"
     },
     {
       "asin": "B09LD5Y2MW",
@@ -105,7 +105,7 @@
       "reference_price": 534.0,
       "discount": 89.4,
       "first_seen": "2026-11-21T22:43:32Z",
-      "last_checked": "2026-11-27T21:32:07Z"
+      "last_checked": "2026-11-28T07:16:10Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -121,7 +121,7 @@
       "reference_price": 649.0,
       "discount": 88.3,
       "first_seen": "2026-11-17T04:34:07Z",
-      "last_checked": "2026-11-27T21:32:16Z"
+      "last_checked": "2026-11-28T07:14:39Z"
     },
     {
       "asin": "B08T7P3J1S",
@@ -153,7 +153,7 @@
       "reference_price": 1161.42,
       "discount": 87.3,
       "first_seen": "2026-11-27T13:55:27Z",
-      "last_checked": "2026-11-27T21:32:21Z"
+      "last_checked": "2026-11-28T07:16:13Z"
     },
     {
       "asin": "1405328576",
@@ -169,7 +169,7 @@
       "reference_price": 195.0,
       "discount": 84.9,
       "first_seen": "2026-11-17T00:27:05Z",
-      "last_checked": "2026-11-28T05:03:01Z"
+      "last_checked": "2026-11-28T07:16:36Z"
     },
     {
       "asin": "B09HS5H4G4",
@@ -185,7 +185,7 @@
       "reference_price": 259.0,
       "discount": 84.8,
       "first_seen": "2026-11-22T20:47:06Z",
-      "last_checked": "2026-11-28T05:03:03Z"
+      "last_checked": "2026-11-28T07:16:39Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -202,6 +202,22 @@
       "discount": 84.6,
       "first_seen": "2026-11-17T04:34:21Z",
       "last_checked": "2026-11-28T05:05:01Z"
+    },
+    {
+      "asin": "B0D5J4DZHT",
+      "title": "Next Store Fashion Strong Hard Protective Folding Case Compatible For SamsungGalaxy Z Flip 4 With Finger Ring Holder (Light Blue)",
+      "image": "https://m.media-amazon.com/images/I/51iznUIzvSL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0D5J4DZHT?aod=1",
+      "price": 78.36,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 506.25,
+      "list_price": null,
+      "reference_price": 506.25,
+      "discount": 84.5,
+      "first_seen": "2026-11-28T07:14:42Z",
+      "last_checked": "2026-11-28T07:14:42Z"
     },
     {
       "asin": "0241583160",
@@ -233,7 +249,7 @@
       "reference_price": 799.92,
       "discount": 82.5,
       "first_seen": "2026-11-25T12:42:29Z",
-      "last_checked": "2026-11-27T21:32:24Z"
+      "last_checked": "2026-11-28T07:16:16Z"
     },
     {
       "asin": "B097F8WXWM",
@@ -249,7 +265,7 @@
       "reference_price": 148.88,
       "discount": 81.6,
       "first_seen": "2026-11-28T05:03:06Z",
-      "last_checked": "2026-11-28T05:03:06Z"
+      "last_checked": "2026-11-28T07:16:43Z"
     },
     {
       "asin": "B08W9K5CMK",
@@ -265,23 +281,7 @@
       "reference_price": 635.0,
       "discount": 81.5,
       "first_seen": "2026-11-17T05:34:36Z",
-      "last_checked": "2026-11-27T21:32:27Z"
-    },
-    {
-      "asin": "B0CWHDQCGR",
-      "title": "Silicone Hand Whisk, Black, Robust, 2f56a652-0d7f-43d7-bd45-4d8616cbb9e4",
-      "image": "https://m.media-amazon.com/images/I/617MW8qNgXL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CWHDQCGR?aod=1",
-      "price": 25.66,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 138.32,
-      "list_price": null,
-      "reference_price": 138.32,
-      "discount": 81.4,
-      "first_seen": "2026-11-28T05:03:08Z",
-      "last_checked": "2026-11-28T05:03:08Z"
+      "last_checked": "2026-11-28T07:14:45Z"
     },
     {
       "asin": "B0FJ2KFK88",
@@ -297,7 +297,7 @@
       "reference_price": 99.0,
       "discount": 80.7,
       "first_seen": "2026-11-17T00:26:58Z",
-      "last_checked": "2026-11-28T05:03:12Z"
+      "last_checked": "2026-11-28T07:16:48Z"
     },
     {
       "asin": "B0D56NMF1M",
@@ -329,7 +329,7 @@
       "reference_price": 263.0,
       "discount": 80.6,
       "first_seen": "2026-11-17T04:34:31Z",
-      "last_checked": "2026-11-27T21:32:10Z"
+      "last_checked": "2026-11-28T07:14:49Z"
     },
     {
       "asin": "B0C4M3D5ZN",
@@ -377,7 +377,23 @@
       "reference_price": 1800.0,
       "discount": 79.9,
       "first_seen": "2026-11-17T20:07:34Z",
-      "last_checked": "2026-11-27T21:32:01Z"
+      "last_checked": "2026-11-28T07:16:05Z"
+    },
+    {
+      "asin": "B0FVWKL973",
+      "title": "Desk Ornament - Delightful 3D Printed Turtle Coaster and Cup Holder Symbolizing Patience, Humor, and Comfort While Adding a Playful Vibe to Office Desks, Study Rooms, and Living Spaces (beige)",
+      "image": "https://m.media-amazon.com/images/I/51jgLju+giL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FVWKL973?aod=1",
+      "price": 80.88,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 401.28,
+      "list_price": null,
+      "reference_price": 401.28,
+      "discount": 79.8,
+      "first_seen": "2026-11-17T05:34:38Z",
+      "last_checked": "2026-11-28T07:14:51Z"
     },
     {
       "asin": "B09VSTZTHP",
@@ -393,23 +409,7 @@
       "reference_price": 562.5,
       "discount": 79.4,
       "first_seen": "2026-11-24T21:31:50Z",
-      "last_checked": "2026-11-28T05:05:07Z"
-    },
-    {
-      "asin": "B0FVWKL973",
-      "title": "Desk Ornament - Delightful 3D Printed Turtle Coaster and Cup Holder Symbolizing Patience, Humor, and Comfort While Adding a Playful Vibe to Office Desks, Study Rooms, and Living Spaces (beige)",
-      "image": "https://m.media-amazon.com/images/I/51jgLju+giL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0FVWKL973?aod=1",
-      "price": 82.98,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 401.28,
-      "list_price": null,
-      "reference_price": 401.28,
-      "discount": 79.3,
-      "first_seen": "2026-11-17T05:34:38Z",
-      "last_checked": "2026-11-27T21:32:13Z"
+      "last_checked": "2026-11-28T07:14:54Z"
     },
     {
       "asin": "B09DKG7M9J",
@@ -425,7 +425,7 @@
       "reference_price": 680.0,
       "discount": 78.9,
       "first_seen": "2026-11-17T14:24:47Z",
-      "last_checked": "2026-11-27T21:32:30Z"
+      "last_checked": "2026-11-28T07:16:19Z"
     },
     {
       "asin": "B0B9P24XQX",
@@ -441,7 +441,7 @@
       "reference_price": 226.8,
       "discount": 78.7,
       "first_seen": "2026-11-17T04:34:44Z",
-      "last_checked": "2026-11-28T05:03:15Z"
+      "last_checked": "2026-11-28T07:16:51Z"
     },
     {
       "asin": "B0965LVXJ7",
@@ -457,7 +457,7 @@
       "reference_price": 272.88,
       "discount": 78.7,
       "first_seen": "2026-11-25T19:59:42Z",
-      "last_checked": "2026-11-28T05:05:17Z"
+      "last_checked": "2026-11-28T07:14:56Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -473,7 +473,7 @@
       "reference_price": 350.0,
       "discount": 78.6,
       "first_seen": "2026-11-17T04:35:04Z",
-      "last_checked": "2026-11-28T05:05:10Z"
+      "last_checked": "2026-11-28T07:15:00Z"
     },
     {
       "asin": "B09JL9VX3V",
@@ -505,7 +505,7 @@
       "reference_price": 211.27,
       "discount": 77.9,
       "first_seen": "2026-11-20T04:36:21Z",
-      "last_checked": "2026-11-28T05:03:18Z"
+      "last_checked": "2026-11-28T07:16:54Z"
     },
     {
       "asin": "B0972NJM6W",
@@ -521,7 +521,23 @@
       "reference_price": 460.0,
       "discount": 77.9,
       "first_seen": "2026-11-17T05:34:52Z",
-      "last_checked": "2026-11-27T21:32:33Z"
+      "last_checked": "2026-11-28T07:15:03Z"
+    },
+    {
+      "asin": "B0FHKZMKHK",
+      "title": "Double face cork board 45 * 60 cm ideal for both adults and kids - wooden",
+      "image": "https://m.media-amazon.com/images/I/81n2Ht0OrhL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0FHKZMKHK?aod=1",
+      "price": 111.47,
+      "condition": "Used - Acceptable",
+      "condition_ar": "مستعمل - مقبول",
+      "seller": "Amazon Resale",
+      "new_price": 456.11,
+      "list_price": 499.0,
+      "reference_price": 499.0,
+      "discount": 77.7,
+      "first_seen": "2026-11-28T07:15:06Z",
+      "last_checked": "2026-11-28T07:15:06Z"
     },
     {
       "asin": "B0CFY3WH8B",
@@ -537,7 +553,7 @@
       "reference_price": 522.03,
       "discount": 77.3,
       "first_seen": "2026-11-21T22:43:57Z",
-      "last_checked": "2026-11-27T21:32:36Z"
+      "last_checked": "2026-11-28T07:16:22Z"
     },
     {
       "asin": "B0DJFVH12D",
@@ -553,7 +569,7 @@
       "reference_price": 230.0,
       "discount": 77.1,
       "first_seen": "2026-11-17T04:34:33Z",
-      "last_checked": "2026-11-28T05:05:24Z"
+      "last_checked": "2026-11-28T07:15:11Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -585,7 +601,7 @@
       "reference_price": 233.93,
       "discount": 76.6,
       "first_seen": "2026-11-27T04:06:35Z",
-      "last_checked": "2026-11-28T05:03:25Z"
+      "last_checked": "2026-11-28T07:15:14Z"
     },
     {
       "asin": "B09FN5T134",
@@ -665,7 +681,7 @@
       "reference_price": 230.0,
       "discount": 75.5,
       "first_seen": "2026-11-17T22:58:04Z",
-      "last_checked": "2026-11-28T05:06:03Z"
+      "last_checked": "2026-11-28T07:15:09Z"
     },
     {
       "asin": "B091CX7C8K",
@@ -698,6 +714,22 @@
       "discount": 75.2,
       "first_seen": "2026-11-28T05:03:39Z",
       "last_checked": "2026-11-28T05:03:39Z"
+    },
+    {
+      "asin": "B091CM9VJK",
+      "title": "Anti-Stress Fitness Boxing Stand Set With Adjustable Height, Punching Ball, Gloves, Inflation Pump - Gift for Boxing Lovers",
+      "image": "https://m.media-amazon.com/images/I/61jpw8Vw3HL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B091CM9VJK?aod=1",
+      "price": 650.54,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 2591.0,
+      "list_price": null,
+      "reference_price": 2591.0,
+      "discount": 74.9,
+      "first_seen": "2026-11-17T20:07:38Z",
+      "last_checked": "2026-11-28T07:15:49Z"
     },
     {
       "asin": "B0F79GSXW5",
@@ -746,22 +778,6 @@
       "discount": 74.4,
       "first_seen": "2026-11-17T14:24:51Z",
       "last_checked": "2026-11-28T05:05:44Z"
-    },
-    {
-      "asin": "B091CM9VJK",
-      "title": "Anti-Stress Fitness Boxing Stand Set With Adjustable Height, Punching Ball, Gloves, Inflation Pump - Gift for Boxing Lovers",
-      "image": "https://m.media-amazon.com/images/I/61jpw8Vw3HL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B091CM9VJK?aod=1",
-      "price": 670.85,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 2591.0,
-      "list_price": null,
-      "reference_price": 2591.0,
-      "discount": 74.1,
-      "first_seen": "2026-11-17T20:07:38Z",
-      "last_checked": "2026-11-27T21:31:26Z"
     },
     {
       "asin": "B0CQ6ZGNBK",
@@ -825,7 +841,7 @@
       "reference_price": 498.18,
       "discount": 74.0,
       "first_seen": "2026-11-24T21:32:09Z",
-      "last_checked": "2026-11-27T21:32:41Z"
+      "last_checked": "2026-11-28T07:15:19Z"
     },
     {
       "asin": "B0G262S77Z",
@@ -841,7 +857,7 @@
       "reference_price": 437.0,
       "discount": 73.9,
       "first_seen": "2026-11-17T05:34:44Z",
-      "last_checked": "2026-11-27T21:32:44Z"
+      "last_checked": "2026-11-28T07:16:25Z"
     },
     {
       "asin": "B08QGZT4YQ",
@@ -873,7 +889,7 @@
       "reference_price": 276.0,
       "discount": 73.7,
       "first_seen": "2026-11-17T04:35:14Z",
-      "last_checked": "2026-11-27T16:03:54Z"
+      "last_checked": "2026-11-28T07:15:16Z"
     },
     {
       "asin": "B0CM4XDW4Q",
@@ -937,7 +953,7 @@
       "reference_price": 599.0,
       "discount": 73.4,
       "first_seen": "2026-11-17T14:24:56Z",
-      "last_checked": "2026-11-27T21:31:53Z"
+      "last_checked": "2026-11-28T07:16:02Z"
     },
     {
       "asin": "B0084DMYB8",
@@ -1001,7 +1017,7 @@
       "reference_price": 1567.36,
       "discount": 73.0,
       "first_seen": "2026-11-22T14:52:55Z",
-      "last_checked": "2026-11-27T21:31:29Z"
+      "last_checked": "2026-11-28T07:15:53Z"
     },
     {
       "asin": "B0BN44LG9S",
@@ -1033,7 +1049,7 @@
       "reference_price": 1269.0,
       "discount": 73.0,
       "first_seen": "2026-11-18T05:41:19Z",
-      "last_checked": "2026-11-27T21:32:04Z"
+      "last_checked": "2026-11-28T07:16:07Z"
     },
     {
       "asin": "B0D4BWDG51",
@@ -1113,7 +1129,7 @@
       "reference_price": 300.0,
       "discount": 72.3,
       "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-27T16:04:16Z"
+      "last_checked": "2026-11-28T07:15:43Z"
     },
     {
       "asin": "B0C7P3R86C",
@@ -1161,7 +1177,7 @@
       "reference_price": 342.0,
       "discount": 72.1,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-27T16:04:09Z"
+      "last_checked": "2026-11-28T07:15:22Z"
     },
     {
       "asin": "B0FWS4P8TK",
@@ -1177,7 +1193,7 @@
       "reference_price": 230.0,
       "discount": 72.0,
       "first_seen": "2026-11-20T04:37:12Z",
-      "last_checked": "2026-11-27T16:04:23Z"
+      "last_checked": "2026-11-28T07:15:25Z"
     },
     {
       "asin": "B09WLJR3JD",
@@ -1273,23 +1289,7 @@
       "reference_price": 432.15,
       "discount": 71.7,
       "first_seen": "2026-11-20T05:39:27Z",
-      "last_checked": "2026-11-27T21:32:48Z"
-    },
-    {
-      "asin": "B0GJQWGSKZ",
-      "title": "Ramadan Crescent with Hanging Lantern, Golden Ramadan Decoration, Islamic Home Decor Price, White",
-      "image": "https://m.media-amazon.com/images/I/61C5FsYAIzL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0GJQWGSKZ?aod=1",
-      "price": 46.78,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 111.88,
-      "list_price": 164.53,
-      "reference_price": 164.53,
-      "discount": 71.6,
-      "first_seen": "2026-11-23T13:21:19Z",
-      "last_checked": "2026-11-27T16:04:36Z"
+      "last_checked": "2026-11-28T07:16:27Z"
     },
     {
       "asin": "B0968ZVF49",
@@ -1305,7 +1305,7 @@
       "reference_price": 1492.86,
       "discount": 71.6,
       "first_seen": "2026-11-26T11:30:52Z",
-      "last_checked": "2026-11-27T21:31:32Z"
+      "last_checked": "2026-11-28T07:15:56Z"
     },
     {
       "asin": "B08YNM3H9Q",
@@ -1401,7 +1401,7 @@
       "reference_price": 285.0,
       "discount": 70.9,
       "first_seen": "2026-11-18T01:14:55Z",
-      "last_checked": "2026-11-27T16:04:49Z"
+      "last_checked": "2026-11-28T07:15:28Z"
     },
     {
       "asin": "B0BDLXDKBQ",
@@ -1417,7 +1417,7 @@
       "reference_price": 245.0,
       "discount": 70.7,
       "first_seen": "2026-11-17T05:35:25Z",
-      "last_checked": "2026-11-28T05:04:50Z"
+      "last_checked": "2026-11-28T07:15:30Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1433,7 +1433,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-27T21:31:44Z"
+      "last_checked": "2026-11-28T07:15:36Z"
     },
     {
       "asin": "B09Q1QZLX9",
@@ -1449,7 +1449,7 @@
       "reference_price": 170.4,
       "discount": 70.3,
       "first_seen": "2026-11-22T20:48:32Z",
-      "last_checked": "2026-11-27T21:31:47Z"
+      "last_checked": "2026-11-28T07:15:40Z"
     },
     {
       "asin": "B0922ZNXHD",
@@ -1465,7 +1465,7 @@
       "reference_price": 139.0,
       "discount": 70.3,
       "first_seen": "2026-11-23T13:21:15Z",
-      "last_checked": "2026-11-27T21:31:41Z"
+      "last_checked": "2026-11-28T07:15:33Z"
     },
     {
       "asin": "B0F4DH75ZZ",
@@ -1497,7 +1497,7 @@
       "reference_price": 1586.4,
       "discount": 70.1,
       "first_seen": "2026-11-17T14:24:45Z",
-      "last_checked": "2026-11-27T21:31:34Z"
+      "last_checked": "2026-11-28T07:15:59Z"
     }
   ]
 }
