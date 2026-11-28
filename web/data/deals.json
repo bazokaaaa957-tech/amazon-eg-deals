@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-28T13:40:42Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-28T09:29:29Z",
+    "updated_at": "2026-11-28T14:54:53Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-28T14:54:53Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,19 +11,19 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
+      "pages": 20,
+      "products": 854,
+      "candidates": 15,
+      "verified": 15,
+      "new_deals": 2,
       "expired": 0,
       "alerts": 0
     },
     "sweep": {
-      "band": 12,
+      "band": 1,
       "bands": 15,
-      "completed": 17,
-      "last_completed_at": "2026-11-28T05:02:05Z"
+      "completed": 18,
+      "last_completed_at": "2026-11-28T14:52:45Z"
     }
   },
   "deals": [
@@ -57,7 +57,7 @@
       "reference_price": 581.0,
       "discount": 91.5,
       "first_seen": "2026-11-17T00:26:47Z",
-      "last_checked": "2026-11-28T07:16:30Z"
+      "last_checked": "2026-11-28T14:54:25Z"
     },
     {
       "asin": "B0BLN5VD8W",
@@ -73,7 +73,7 @@
       "reference_price": 220.0,
       "discount": 90.6,
       "first_seen": "2026-11-19T15:35:03Z",
-      "last_checked": "2026-11-28T07:16:33Z"
+      "last_checked": "2026-11-28T14:52:59Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -105,7 +105,7 @@
       "reference_price": 534.0,
       "discount": 89.4,
       "first_seen": "2026-11-21T22:43:32Z",
-      "last_checked": "2026-11-28T07:16:10Z"
+      "last_checked": "2026-11-28T14:54:15Z"
     },
     {
       "asin": "B0D49G7BNR",
@@ -153,7 +153,7 @@
       "reference_price": 1161.42,
       "discount": 87.3,
       "first_seen": "2026-11-27T13:55:27Z",
-      "last_checked": "2026-11-28T08:31:23Z"
+      "last_checked": "2026-11-28T14:54:35Z"
     },
     {
       "asin": "1405328576",
@@ -169,7 +169,7 @@
       "reference_price": 195.0,
       "discount": 84.9,
       "first_seen": "2026-11-17T00:27:05Z",
-      "last_checked": "2026-11-28T07:16:36Z"
+      "last_checked": "2026-11-28T14:53:02Z"
     },
     {
       "asin": "B09HS5H4G4",
@@ -185,7 +185,7 @@
       "reference_price": 259.0,
       "discount": 84.8,
       "first_seen": "2026-11-22T20:47:06Z",
-      "last_checked": "2026-11-28T07:16:39Z"
+      "last_checked": "2026-11-28T14:54:27Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -233,7 +233,7 @@
       "reference_price": 1382.0,
       "discount": 83.1,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-28T08:31:26Z"
+      "last_checked": "2026-11-28T14:54:38Z"
     },
     {
       "asin": "B079T4XCFG",
@@ -249,7 +249,7 @@
       "reference_price": 799.92,
       "discount": 82.5,
       "first_seen": "2026-11-25T12:42:29Z",
-      "last_checked": "2026-11-28T08:31:30Z"
+      "last_checked": "2026-11-28T14:54:41Z"
     },
     {
       "asin": "B097F8WXWM",
@@ -265,7 +265,7 @@
       "reference_price": 148.88,
       "discount": 81.6,
       "first_seen": "2026-11-28T05:03:06Z",
-      "last_checked": "2026-11-28T07:16:43Z"
+      "last_checked": "2026-11-28T14:53:06Z"
     },
     {
       "asin": "B08W9K5CMK",
@@ -288,16 +288,16 @@
       "title": "Next Store Number Birthday Candle – Elegant Design Birthday Cake Decorating Wax – Perfect for All Ages and Occasions (0)",
       "image": "https://m.media-amazon.com/images/I/51sbufYOQ9L._AC_UL320_.jpg",
       "url": "https://www.amazon.eg/dp/B0FJ2KFK88?aod=1",
-      "price": 19.13,
+      "price": 18.73,
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
       "new_price": 78.87,
       "list_price": 99.0,
       "reference_price": 99.0,
-      "discount": 80.7,
+      "discount": 81.1,
       "first_seen": "2026-11-17T00:26:58Z",
-      "last_checked": "2026-11-28T07:16:48Z"
+      "last_checked": "2026-11-28T14:53:09Z"
     },
     {
       "asin": "B0D56NMF1M",
@@ -345,7 +345,7 @@
       "reference_price": 1250.0,
       "discount": 80.4,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-28T08:31:33Z"
+      "last_checked": "2026-11-28T14:54:44Z"
     },
     {
       "asin": "B09232FTX8",
@@ -361,7 +361,7 @@
       "reference_price": 119.0,
       "discount": 80.2,
       "first_seen": "2026-11-17T00:27:08Z",
-      "last_checked": "2026-11-28T09:28:34Z"
+      "last_checked": "2026-11-28T14:53:12Z"
     },
     {
       "asin": "B0001AU7SO",
@@ -377,7 +377,7 @@
       "reference_price": 1800.0,
       "discount": 79.9,
       "first_seen": "2026-11-17T20:07:34Z",
-      "last_checked": "2026-11-28T07:16:05Z"
+      "last_checked": "2026-11-28T14:54:12Z"
     },
     {
       "asin": "B0FVWKL973",
@@ -425,7 +425,7 @@
       "reference_price": 680.0,
       "discount": 78.9,
       "first_seen": "2026-11-17T14:24:47Z",
-      "last_checked": "2026-11-28T08:31:36Z"
+      "last_checked": "2026-11-28T14:54:47Z"
     },
     {
       "asin": "B0B9P24XQX",
@@ -441,7 +441,7 @@
       "reference_price": 226.8,
       "discount": 78.7,
       "first_seen": "2026-11-17T04:34:44Z",
-      "last_checked": "2026-11-28T07:16:51Z"
+      "last_checked": "2026-11-28T14:54:30Z"
     },
     {
       "asin": "B0965LVXJ7",
@@ -505,7 +505,7 @@
       "reference_price": 211.27,
       "discount": 77.9,
       "first_seen": "2026-11-20T04:36:21Z",
-      "last_checked": "2026-11-28T07:16:54Z"
+      "last_checked": "2026-11-28T14:54:32Z"
     },
     {
       "asin": "B0972NJM6W",
@@ -553,7 +553,7 @@
       "reference_price": 522.03,
       "discount": 77.3,
       "first_seen": "2026-11-21T22:43:57Z",
-      "last_checked": "2026-11-28T07:16:22Z"
+      "last_checked": "2026-11-28T14:54:18Z"
     },
     {
       "asin": "B0DJFVH12D",
@@ -570,6 +570,22 @@
       "discount": 77.1,
       "first_seen": "2026-11-17T04:34:33Z",
       "last_checked": "2026-11-28T09:29:20Z"
+    },
+    {
+      "asin": "B091J5XMTN",
+      "title": "Sink Strainer (Set of 2)",
+      "image": "https://m.media-amazon.com/images/I/81o5PNkZIhS._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B091J5XMTN?aod=1",
+      "price": 20.61,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 37.62,
+      "list_price": 89.0,
+      "reference_price": 89.0,
+      "discount": 76.8,
+      "first_seen": "2026-11-28T14:53:16Z",
+      "last_checked": "2026-11-28T14:53:16Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -649,7 +665,7 @@
       "reference_price": 93.0,
       "discount": 75.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-28T08:31:55Z"
+      "last_checked": "2026-11-28T14:53:19Z"
     },
     {
       "asin": "B0F8C3KKCM",
@@ -681,7 +697,7 @@
       "reference_price": 2591.0,
       "discount": 74.9,
       "first_seen": "2026-11-17T20:07:38Z",
-      "last_checked": "2026-11-28T07:15:49Z"
+      "last_checked": "2026-11-28T14:53:22Z"
     },
     {
       "asin": "B0F79GSXW5",
@@ -745,7 +761,7 @@
       "reference_price": 3589.0,
       "discount": 74.1,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-28T08:32:07Z"
+      "last_checked": "2026-11-28T14:53:25Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -793,7 +809,7 @@
       "reference_price": 437.0,
       "discount": 73.9,
       "first_seen": "2026-11-17T05:34:44Z",
-      "last_checked": "2026-11-28T07:16:25Z"
+      "last_checked": "2026-11-28T14:54:20Z"
     },
     {
       "asin": "B091CGHJ6W",
@@ -841,7 +857,7 @@
       "reference_price": 911.46,
       "discount": 73.6,
       "first_seen": "2026-11-27T16:03:20Z",
-      "last_checked": "2026-11-28T08:31:41Z"
+      "last_checked": "2026-11-28T14:54:53Z"
     },
     {
       "asin": "B0F7J2VFLP",
@@ -873,7 +889,7 @@
       "reference_price": 599.0,
       "discount": 73.4,
       "first_seen": "2026-11-17T14:24:56Z",
-      "last_checked": "2026-11-28T07:16:02Z"
+      "last_checked": "2026-11-28T14:54:10Z"
     },
     {
       "asin": "B0084DMYB8",
@@ -985,7 +1001,7 @@
       "reference_price": 779.0,
       "discount": 73.0,
       "first_seen": "2026-11-17T14:24:53Z",
-      "last_checked": "2026-11-28T08:31:39Z"
+      "last_checked": "2026-11-28T14:54:50Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -1001,7 +1017,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-28T08:32:30Z"
+      "last_checked": "2026-11-28T14:53:27Z"
     },
     {
       "asin": "B091BVQ91K",
@@ -1033,7 +1049,7 @@
       "reference_price": 41.0,
       "discount": 72.6,
       "first_seen": "2026-11-22T17:44:53Z",
-      "last_checked": "2026-11-28T09:28:16Z"
+      "last_checked": "2026-11-28T14:53:31Z"
     },
     {
       "asin": "B096L7LJBZ",
@@ -1049,7 +1065,7 @@
       "reference_price": 48.23,
       "discount": 72.5,
       "first_seen": "2026-11-28T05:04:11Z",
-      "last_checked": "2026-11-28T08:32:33Z"
+      "last_checked": "2026-11-28T14:53:33Z"
     },
     {
       "asin": "B08YNPJKX3",
@@ -1065,7 +1081,7 @@
       "reference_price": 300.0,
       "discount": 72.3,
       "first_seen": "2026-11-18T12:04:43Z",
-      "last_checked": "2026-11-28T07:15:43Z"
+      "last_checked": "2026-11-28T14:54:07Z"
     },
     {
       "asin": "B091NYPJZ5",
@@ -1097,7 +1113,7 @@
       "reference_price": 342.0,
       "discount": 72.1,
       "first_seen": "2026-11-17T04:35:47Z",
-      "last_checked": "2026-11-28T07:15:22Z"
+      "last_checked": "2026-11-28T14:53:47Z"
     },
     {
       "asin": "B0FWS4P8TK",
@@ -1113,7 +1129,7 @@
       "reference_price": 230.0,
       "discount": 72.0,
       "first_seen": "2026-11-20T04:37:12Z",
-      "last_checked": "2026-11-28T07:15:25Z"
+      "last_checked": "2026-11-28T14:53:49Z"
     },
     {
       "asin": "B09WLJR3JD",
@@ -1132,6 +1148,22 @@
       "last_checked": "2026-11-28T08:32:42Z"
     },
     {
+      "asin": "B0B12KQ12D",
+      "title": "Fresh hot plate 2 eye stainless 2500 w",
+      "image": "https://m.media-amazon.com/images/I/51p3pM6UoyL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0B12KQ12D?aod=1",
+      "price": 821.32,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 2075.0,
+      "list_price": 2933.0,
+      "reference_price": 2933.0,
+      "discount": 72.0,
+      "first_seen": "2026-11-28T14:53:37Z",
+      "last_checked": "2026-11-28T14:53:37Z"
+    },
+    {
       "asin": "B0FJGXWS2T",
       "title": "Silicone Case High Quality Padded Inside With Camera Protection For Oppo A5X (Navy)",
       "image": "https://m.media-amazon.com/images/I/61FtGfddyZL._AC_UL320_.jpg",
@@ -1145,7 +1177,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-28T08:32:45Z"
+      "last_checked": "2026-11-28T14:53:40Z"
     },
     {
       "asin": "B0DJFVKRGC",
@@ -1209,7 +1241,7 @@
       "reference_price": 432.15,
       "discount": 71.7,
       "first_seen": "2026-11-20T05:39:27Z",
-      "last_checked": "2026-11-28T07:16:27Z"
+      "last_checked": "2026-11-28T14:54:22Z"
     },
     {
       "asin": "B0968ZVF49",
@@ -1289,7 +1321,7 @@
       "reference_price": 285.0,
       "discount": 70.9,
       "first_seen": "2026-11-18T01:14:55Z",
-      "last_checked": "2026-11-28T07:15:28Z"
+      "last_checked": "2026-11-28T14:53:52Z"
     },
     {
       "asin": "B0BDLXDKBQ",
@@ -1305,7 +1337,23 @@
       "reference_price": 245.0,
       "discount": 70.7,
       "first_seen": "2026-11-17T05:35:25Z",
-      "last_checked": "2026-11-28T07:15:30Z"
+      "last_checked": "2026-11-28T14:53:54Z"
+    },
+    {
+      "asin": "B0922ZNXHD",
+      "title": "Magnet side glass window area cleaning tool",
+      "image": "https://m.media-amazon.com/images/I/51n7KhkZ4UL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0922ZNXHD?aod=1",
+      "price": 41.01,
+      "condition": "Open Box - Very Good",
+      "condition_ar": "علبة مفتوحة - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 139.0,
+      "list_price": null,
+      "reference_price": 139.0,
+      "discount": 70.5,
+      "first_seen": "2026-11-23T13:21:15Z",
+      "last_checked": "2026-11-28T14:53:58Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1321,7 +1369,7 @@
       "reference_price": 151.88,
       "discount": 70.3,
       "first_seen": "2026-11-17T00:27:48Z",
-      "last_checked": "2026-11-28T07:15:36Z"
+      "last_checked": "2026-11-28T14:54:00Z"
     },
     {
       "asin": "B09Q1QZLX9",
@@ -1337,23 +1385,7 @@
       "reference_price": 170.4,
       "discount": 70.3,
       "first_seen": "2026-11-22T20:48:32Z",
-      "last_checked": "2026-11-28T07:15:40Z"
-    },
-    {
-      "asin": "B0922ZNXHD",
-      "title": "Magnet side glass window area cleaning tool",
-      "image": "https://m.media-amazon.com/images/I/51n7KhkZ4UL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0922ZNXHD?aod=1",
-      "price": 41.35,
-      "condition": "Open Box - Very Good",
-      "condition_ar": "علبة مفتوحة - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 139.0,
-      "list_price": null,
-      "reference_price": 139.0,
-      "discount": 70.3,
-      "first_seen": "2026-11-23T13:21:15Z",
-      "last_checked": "2026-11-28T07:15:33Z"
+      "last_checked": "2026-11-28T14:54:03Z"
     },
     {
       "asin": "B0F4DH75ZZ",
