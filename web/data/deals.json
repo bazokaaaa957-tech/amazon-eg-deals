@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-28T07:16:54Z",
+    "updated_at": "2026-11-28T08:32:56Z",
     "status": "ok",
     "block_reason": null,
-    "last_success_at": "2026-11-28T07:16:54Z",
+    "last_success_at": "2026-11-28T08:32:56Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -12,15 +12,15 @@
     },
     "run": {
       "pages": 20,
-      "products": 870,
-      "candidates": 24,
-      "verified": 24,
-      "new_deals": 2,
-      "expired": 2,
+      "products": 888,
+      "candidates": 8,
+      "verified": 8,
+      "new_deals": 0,
+      "expired": 6,
       "alerts": 0
     },
     "sweep": {
-      "band": 6,
+      "band": 9,
       "bands": 15,
       "completed": 17,
       "last_completed_at": "2026-11-28T05:02:05Z"
@@ -153,7 +153,7 @@
       "reference_price": 1161.42,
       "discount": 87.3,
       "first_seen": "2026-11-27T13:55:27Z",
-      "last_checked": "2026-11-28T07:16:13Z"
+      "last_checked": "2026-11-28T08:31:23Z"
     },
     {
       "asin": "1405328576",
@@ -233,7 +233,7 @@
       "reference_price": 1382.0,
       "discount": 83.1,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-28T05:05:32Z"
+      "last_checked": "2026-11-28T08:31:26Z"
     },
     {
       "asin": "B079T4XCFG",
@@ -249,7 +249,7 @@
       "reference_price": 799.92,
       "discount": 82.5,
       "first_seen": "2026-11-25T12:42:29Z",
-      "last_checked": "2026-11-28T07:16:16Z"
+      "last_checked": "2026-11-28T08:31:30Z"
     },
     {
       "asin": "B097F8WXWM",
@@ -345,7 +345,7 @@
       "reference_price": 1250.0,
       "discount": 80.4,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-28T05:05:35Z"
+      "last_checked": "2026-11-28T08:31:33Z"
     },
     {
       "asin": "B09232FTX8",
@@ -425,7 +425,7 @@
       "reference_price": 680.0,
       "discount": 78.9,
       "first_seen": "2026-11-17T14:24:47Z",
-      "last_checked": "2026-11-28T07:16:19Z"
+      "last_checked": "2026-11-28T08:31:36Z"
     },
     {
       "asin": "B0B9P24XQX",
@@ -585,7 +585,7 @@
       "reference_price": 184.63,
       "discount": 76.7,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-28T05:03:22Z"
+      "last_checked": "2026-11-28T08:31:47Z"
     },
     {
       "asin": "B07WRBDXZ8",
@@ -602,22 +602,6 @@
       "discount": 76.6,
       "first_seen": "2026-11-27T04:06:35Z",
       "last_checked": "2026-11-28T07:15:14Z"
-    },
-    {
-      "asin": "B09FN5T134",
-      "title": "Sport soft silicone bracelet for xiaomi redmi smartwatch - beige",
-      "image": "https://m.media-amazon.com/images/I/51fJmKNk4YL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B09FN5T134?aod=1",
-      "price": 34.31,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 145.0,
-      "list_price": null,
-      "reference_price": 145.0,
-      "discount": 76.3,
-      "first_seen": "2026-11-28T05:03:28Z",
-      "last_checked": "2026-11-28T05:03:28Z"
     },
     {
       "asin": "B0CZJ3T8FN",
@@ -649,7 +633,7 @@
       "reference_price": 149.0,
       "discount": 75.9,
       "first_seen": "2026-11-17T04:35:26Z",
-      "last_checked": "2026-11-28T05:03:30Z"
+      "last_checked": "2026-11-28T08:31:52Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -665,7 +649,7 @@
       "reference_price": 93.0,
       "discount": 75.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-28T05:03:33Z"
+      "last_checked": "2026-11-28T08:31:55Z"
     },
     {
       "asin": "B0F8C3KKCM",
@@ -682,38 +666,6 @@
       "discount": 75.5,
       "first_seen": "2026-11-17T22:58:04Z",
       "last_checked": "2026-11-28T07:15:09Z"
-    },
-    {
-      "asin": "B091CX7C8K",
-      "title": "Disposable Underarm Shields Pads - 6 Pairs for Short Sleeve and 6 Pairs for Long Sleeve",
-      "image": "https://m.media-amazon.com/images/I/61NiFVdrwDL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B091CX7C8K?aod=1",
-      "price": 24.45,
-      "condition": "Open Box - Very Good",
-      "condition_ar": "علبة مفتوحة - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 98.69,
-      "list_price": null,
-      "reference_price": 98.69,
-      "discount": 75.2,
-      "first_seen": "2026-11-28T05:03:36Z",
-      "last_checked": "2026-11-28T05:03:36Z"
-    },
-    {
-      "asin": "B01H50ZCJ6",
-      "title": "Acerich Set of 6 Stainless Steel Straws, Acerich Reusable Metal Straws for 30 oz & 20 oz Tumblers Cups Mugs Cold Beverage, Free Cleaning Brush Included",
-      "image": "https://m.media-amazon.com/images/I/71F638pOu2L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B01H50ZCJ6?aod=1",
-      "price": 30.98,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
-      "seller": "Amazon Resale",
-      "new_price": 125.0,
-      "list_price": null,
-      "reference_price": 125.0,
-      "discount": 75.2,
-      "first_seen": "2026-11-28T05:03:39Z",
-      "last_checked": "2026-11-28T05:03:39Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -761,7 +713,7 @@
       "reference_price": 119.0,
       "discount": 74.6,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-28T05:03:42Z"
+      "last_checked": "2026-11-28T08:32:04Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -793,23 +745,7 @@
       "reference_price": 3589.0,
       "discount": 74.1,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-28T05:03:45Z"
-    },
-    {
-      "asin": "B0DKD7LK7S",
-      "title": "Portal Elegant Glass Cup for Serving Juices and Iced Coffee Made of Premium Thermal Glass Material",
-      "image": "https://m.media-amazon.com/images/I/41iNphUb9CL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DKD7LK7S?aod=1",
-      "price": 32.1,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 124.0,
-      "list_price": null,
-      "reference_price": 124.0,
-      "discount": 74.1,
-      "first_seen": "2026-11-28T05:03:47Z",
-      "last_checked": "2026-11-28T05:03:47Z"
+      "last_checked": "2026-11-28T08:32:07Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -825,7 +761,7 @@
       "reference_price": 187.31,
       "discount": 74.0,
       "first_seen": "2026-11-20T04:36:58Z",
-      "last_checked": "2026-11-28T05:03:49Z"
+      "last_checked": "2026-11-28T08:32:12Z"
     },
     {
       "asin": "B0CPVNLZGW",
@@ -860,22 +796,6 @@
       "last_checked": "2026-11-28T07:16:25Z"
     },
     {
-      "asin": "B08QGZT4YQ",
-      "title": "Joseph Joseph JuiceMax Dual-Action Citrus Press, One Size, Yellow",
-      "image": "https://m.media-amazon.com/images/I/41cEMkMOfaL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B08QGZT4YQ?aod=1",
-      "price": 43.18,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 165.0,
-      "list_price": null,
-      "reference_price": 165.0,
-      "discount": 73.8,
-      "first_seen": "2026-11-22T17:44:51Z",
-      "last_checked": "2026-11-28T05:03:52Z"
-    },
-    {
       "asin": "B091CGHJ6W",
       "title": "Outer Space Planet 3D Wall Sticker Room Decor Removable Decals Home Living Room Decoration",
       "image": "https://m.media-amazon.com/images/I/51b4-2T6cpL._AC_UL320_.jpg",
@@ -905,7 +825,7 @@
       "reference_price": 157.01,
       "discount": 73.7,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-28T05:03:56Z"
+      "last_checked": "2026-11-28T08:32:17Z"
     },
     {
       "asin": "B08QN25VS4",
@@ -916,12 +836,12 @@
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
-      "new_price": null,
+      "new_price": 283.51,
       "list_price": 911.46,
       "reference_price": 911.46,
       "discount": 73.6,
       "first_seen": "2026-11-27T16:03:20Z",
-      "last_checked": "2026-11-28T05:05:46Z"
+      "last_checked": "2026-11-28T08:31:41Z"
     },
     {
       "asin": "B0F7J2VFLP",
@@ -937,7 +857,7 @@
       "reference_price": 909.0,
       "discount": 73.5,
       "first_seen": "2026-11-23T01:10:27Z",
-      "last_checked": "2026-11-28T05:05:49Z"
+      "last_checked": "2026-11-28T08:31:44Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -985,7 +905,7 @@
       "reference_price": 138.0,
       "discount": 73.3,
       "first_seen": "2026-11-17T00:27:15Z",
-      "last_checked": "2026-11-28T05:04:03Z"
+      "last_checked": "2026-11-28T08:32:24Z"
     },
     {
       "asin": "B0CLYR41RL",
@@ -1001,7 +921,7 @@
       "reference_price": 179.0,
       "discount": 73.3,
       "first_seen": "2026-11-20T04:36:41Z",
-      "last_checked": "2026-11-28T05:03:59Z"
+      "last_checked": "2026-11-28T08:32:20Z"
     },
     {
       "asin": "B0CZXZKFL3",
@@ -1033,7 +953,7 @@
       "reference_price": 120.0,
       "discount": 73.0,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-28T05:04:06Z"
+      "last_checked": "2026-11-28T08:32:27Z"
     },
     {
       "asin": "B0CP87RW7M",
@@ -1065,7 +985,7 @@
       "reference_price": 779.0,
       "discount": 73.0,
       "first_seen": "2026-11-17T14:24:53Z",
-      "last_checked": "2026-11-28T05:05:53Z"
+      "last_checked": "2026-11-28T08:31:39Z"
     },
     {
       "asin": "B08Y96XHX8",
@@ -1081,7 +1001,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-28T05:04:09Z"
+      "last_checked": "2026-11-28T08:32:30Z"
     },
     {
       "asin": "B091BVQ91K",
@@ -1113,7 +1033,7 @@
       "reference_price": 48.23,
       "discount": 72.5,
       "first_seen": "2026-11-28T05:04:11Z",
-      "last_checked": "2026-11-28T05:04:11Z"
+      "last_checked": "2026-11-28T08:32:33Z"
     },
     {
       "asin": "B08YNPJKX3",
@@ -1132,22 +1052,6 @@
       "last_checked": "2026-11-28T07:15:43Z"
     },
     {
-      "asin": "B0C7P3R86C",
-      "title": "Aksa Kova Plastic Strainer - Double Layer Rotatable - Baby Blue",
-      "image": "https://m.media-amazon.com/images/I/41Vi6RQKFcL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0C7P3R86C?aod=1",
-      "price": 58.14,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 210.0,
-      "list_price": null,
-      "reference_price": 210.0,
-      "discount": 72.3,
-      "first_seen": "2026-11-28T05:04:14Z",
-      "last_checked": "2026-11-28T05:04:14Z"
-    },
-    {
       "asin": "B091NYPJZ5",
       "title": "Colored magnetic buttons fq3012 30 mm. - set of 12",
       "image": "https://m.media-amazon.com/images/I/71wmcwVxsIL._AC_UL320_.jpg",
@@ -1156,12 +1060,12 @@
       "condition": "Used - Like New",
       "condition_ar": "مستعمل - كالجديد",
       "seller": "Amazon Resale",
-      "new_price": 95.0,
+      "new_price": 46.0,
       "list_price": 124.25,
       "reference_price": 124.25,
       "discount": 72.2,
       "first_seen": "2026-11-23T13:20:43Z",
-      "last_checked": "2026-11-28T05:04:17Z"
+      "last_checked": "2026-11-28T08:32:39Z"
     },
     {
       "asin": "B091BSGSRJ",
@@ -1209,7 +1113,7 @@
       "reference_price": 196.0,
       "discount": 72.0,
       "first_seen": "2026-11-25T20:00:29Z",
-      "last_checked": "2026-11-28T05:04:20Z"
+      "last_checked": "2026-11-28T08:32:42Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -1225,7 +1129,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-28T05:04:23Z"
+      "last_checked": "2026-11-28T08:32:45Z"
     },
     {
       "asin": "B0DJFVKRGC",
@@ -1241,7 +1145,7 @@
       "reference_price": 170.17,
       "discount": 71.9,
       "first_seen": "2026-11-27T04:07:31Z",
-      "last_checked": "2026-11-28T05:04:28Z"
+      "last_checked": "2026-11-28T08:32:48Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1257,7 +1161,7 @@
       "reference_price": 145.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-28T05:04:34Z"
+      "last_checked": "2026-11-28T08:32:50Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1308,6 +1212,22 @@
       "last_checked": "2026-11-28T07:15:56Z"
     },
     {
+      "asin": "B08QGZT4YQ",
+      "title": "Joseph Joseph JuiceMax Dual-Action Citrus Press, One Size, Yellow",
+      "image": "https://m.media-amazon.com/images/I/41cEMkMOfaL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B08QGZT4YQ?aod=1",
+      "price": 43.18,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 151.2,
+      "list_price": null,
+      "reference_price": 151.2,
+      "discount": 71.4,
+      "first_seen": "2026-11-22T17:44:51Z",
+      "last_checked": "2026-11-28T08:32:14Z"
+    },
+    {
       "asin": "B08YNM3H9Q",
       "title": "Microwave Popcorn Maker - Yellow",
       "image": "https://m.media-amazon.com/images/I/41GFxw0+vmL._AC_UL320_.jpg",
@@ -1321,7 +1241,7 @@
       "reference_price": 165.0,
       "discount": 71.4,
       "first_seen": "2026-11-18T01:15:02Z",
-      "last_checked": "2026-11-28T05:04:37Z"
+      "last_checked": "2026-11-28T08:32:53Z"
     },
     {
       "asin": "B0F9YVBB73",
@@ -1338,22 +1258,6 @@
       "discount": 71.3,
       "first_seen": "2026-11-26T11:30:55Z",
       "last_checked": "2026-11-28T05:05:57Z"
-    },
-    {
-      "asin": "B09GF1RVDB",
-      "title": "Frying Pan Cover Splatter Screen Guard Splash Lid Protective Mesh Grease New Kitchen Pans for Cooking Saucepan Metal Wired Round Black Colors Accessories Spatter Holder Home Sets",
-      "image": "https://m.media-amazon.com/images/I/718AOSGwBrL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B09GF1RVDB?aod=1",
-      "price": 26.02,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
-      "seller": "Amazon Resale",
-      "new_price": 89.9,
-      "list_price": null,
-      "reference_price": 89.9,
-      "discount": 71.1,
-      "first_seen": "2026-11-28T05:04:40Z",
-      "last_checked": "2026-11-28T05:04:40Z"
     },
     {
       "asin": "B0DPKXFS4S",
