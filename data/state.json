@@ -1,11 +1,39 @@
 {
   "cursor": {
-    "band": 13,
-    "page": 7
+    "band": 2,
+    "page": 5
   },
-  "queue": [],
+  "queue": [
+    {
+      "asin": "B0922ZNXHD",
+      "title": "Magnet side glass window area cleaning tool",
+      "image": "https://m.media-amazon.com/images/I/51n7KhkZ4UL._AC_UL320_.jpg",
+      "main_price": 139.0,
+      "list_price": null,
+      "secondary_price": 41.35,
+      "prelim_discount": 70.3
+    },
+    {
+      "asin": "B0DJN4BN12",
+      "title": "Next Store Compatible with Samsung Galaxy Watch 7 40mm Case Hard PC Edge with Tempered Glass Cover Shockproof Anti-Scratch - Men and Women (Clear)",
+      "image": "https://m.media-amazon.com/images/I/714KOmNgMeL._AC_UL320_.jpg",
+      "main_price": 151.88,
+      "list_price": null,
+      "secondary_price": 45.12,
+      "prelim_discount": 70.3
+    },
+    {
+      "asin": "B09Q1QZLX9",
+      "title": "Generic Naughty flying plate ball",
+      "image": "https://m.media-amazon.com/images/I/41V5HzW9WYL._AC_UL320_.jpg",
+      "main_price": 151.66,
+      "list_price": 170.4,
+      "secondary_price": 50.58,
+      "prelim_discount": 70.3
+    }
+  ],
   "notified": {},
-  "sweeps_completed": 16,
-  "blocked_streak": 6,
-  "last_sweep_completed_at": "2026-11-26T14:24:41Z"
+  "sweeps_completed": 17,
+  "blocked_streak": 0,
+  "last_sweep_completed_at": "2026-11-28T05:02:05Z"
 }

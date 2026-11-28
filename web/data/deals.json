@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated_at": "2026-11-28T03:57:50Z",
-    "status": "blocked",
-    "block_reason": "robot check",
-    "last_success_at": "2026-11-27T21:32:48Z",
+    "updated_at": "2026-11-28T05:06:03Z",
+    "status": "ok",
+    "block_reason": null,
+    "last_success_at": "2026-11-28T05:06:03Z",
     "filters": {
       "max_price": 1000,
       "min_price": 0,
@@ -11,19 +11,19 @@
       "discount_basis": "highest"
     },
     "run": {
-      "pages": 0,
-      "products": 0,
-      "candidates": 0,
-      "verified": 0,
-      "new_deals": 0,
-      "expired": 0,
+      "pages": 20,
+      "products": 826,
+      "candidates": 43,
+      "verified": 40,
+      "new_deals": 10,
+      "expired": 2,
       "alerts": 0
     },
     "sweep": {
-      "band": 14,
+      "band": 3,
       "bands": 15,
-      "completed": 16,
-      "last_completed_at": "2026-11-26T14:24:41Z"
+      "completed": 17,
+      "last_completed_at": "2026-11-28T05:02:05Z"
     }
   },
   "deals": [
@@ -57,7 +57,7 @@
       "reference_price": 581.0,
       "discount": 91.5,
       "first_seen": "2026-11-17T00:26:47Z",
-      "last_checked": "2026-11-27T21:31:57Z"
+      "last_checked": "2026-11-28T05:02:54Z"
     },
     {
       "asin": "B0BLN5VD8W",
@@ -73,7 +73,7 @@
       "reference_price": 220.0,
       "discount": 90.6,
       "first_seen": "2026-11-19T15:35:03Z",
-      "last_checked": "2026-11-27T13:56:41Z"
+      "last_checked": "2026-11-28T05:02:58Z"
     },
     {
       "asin": "B0DSSXZF2P",
@@ -137,7 +137,7 @@
       "reference_price": 2107.0,
       "discount": 87.4,
       "first_seen": "2026-11-17T14:24:39Z",
-      "last_checked": "2026-11-27T16:03:04Z"
+      "last_checked": "2026-11-28T05:05:29Z"
     },
     {
       "asin": "B00BHHIPU2",
@@ -169,7 +169,7 @@
       "reference_price": 195.0,
       "discount": 84.9,
       "first_seen": "2026-11-17T00:27:05Z",
-      "last_checked": "2026-11-27T13:56:32Z"
+      "last_checked": "2026-11-28T05:03:01Z"
     },
     {
       "asin": "B09HS5H4G4",
@@ -185,7 +185,7 @@
       "reference_price": 259.0,
       "discount": 84.8,
       "first_seen": "2026-11-22T20:47:06Z",
-      "last_checked": "2026-11-27T13:56:30Z"
+      "last_checked": "2026-11-28T05:03:03Z"
     },
     {
       "asin": "B0CWFKL6Q2",
@@ -201,7 +201,7 @@
       "reference_price": 361.0,
       "discount": 84.6,
       "first_seen": "2026-11-17T04:34:21Z",
-      "last_checked": "2026-11-27T13:56:19Z"
+      "last_checked": "2026-11-28T05:05:01Z"
     },
     {
       "asin": "0241583160",
@@ -217,7 +217,7 @@
       "reference_price": 1382.0,
       "discount": 83.1,
       "first_seen": "2026-11-17T14:24:41Z",
-      "last_checked": "2026-11-27T16:03:06Z"
+      "last_checked": "2026-11-28T05:05:32Z"
     },
     {
       "asin": "B079T4XCFG",
@@ -236,6 +236,22 @@
       "last_checked": "2026-11-27T21:32:24Z"
     },
     {
+      "asin": "B097F8WXWM",
+      "title": "Mert Plast Plastic Storage Basket Set, Small, 3 Pieces - Multi Color",
+      "image": "https://m.media-amazon.com/images/I/616g7TgZSXL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B097F8WXWM?aod=1",
+      "price": 27.43,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 148.88,
+      "list_price": null,
+      "reference_price": 148.88,
+      "discount": 81.6,
+      "first_seen": "2026-11-28T05:03:06Z",
+      "last_checked": "2026-11-28T05:03:06Z"
+    },
+    {
       "asin": "B08W9K5CMK",
       "title": "L-00737 Ice Cream Plate and Spoon Set 3-Pieces",
       "image": "https://m.media-amazon.com/images/I/51--1A0Ln6L._AC_UL320_.jpg",
@@ -252,6 +268,22 @@
       "last_checked": "2026-11-27T21:32:27Z"
     },
     {
+      "asin": "B0CWHDQCGR",
+      "title": "Silicone Hand Whisk, Black, Robust, 2f56a652-0d7f-43d7-bd45-4d8616cbb9e4",
+      "image": "https://m.media-amazon.com/images/I/617MW8qNgXL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CWHDQCGR?aod=1",
+      "price": 25.66,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 138.32,
+      "list_price": null,
+      "reference_price": 138.32,
+      "discount": 81.4,
+      "first_seen": "2026-11-28T05:03:08Z",
+      "last_checked": "2026-11-28T05:03:08Z"
+    },
+    {
       "asin": "B0FJ2KFK88",
       "title": "Next Store Number Birthday Candle – Elegant Design Birthday Cake Decorating Wax – Perfect for All Ages and Occasions (0)",
       "image": "https://m.media-amazon.com/images/I/51sbufYOQ9L._AC_UL320_.jpg",
@@ -265,7 +297,7 @@
       "reference_price": 99.0,
       "discount": 80.7,
       "first_seen": "2026-11-17T00:26:58Z",
-      "last_checked": "2026-11-27T13:55:58Z"
+      "last_checked": "2026-11-28T05:03:12Z"
     },
     {
       "asin": "B0D56NMF1M",
@@ -281,7 +313,7 @@
       "reference_price": 1435.0,
       "discount": 80.7,
       "first_seen": "2026-11-18T15:30:38Z",
-      "last_checked": "2026-11-27T16:03:11Z"
+      "last_checked": "2026-11-28T05:05:38Z"
     },
     {
       "asin": "B0DFH6VTXM",
@@ -313,7 +345,7 @@
       "reference_price": 1250.0,
       "discount": 80.4,
       "first_seen": "2026-11-18T02:37:03Z",
-      "last_checked": "2026-11-27T16:03:09Z"
+      "last_checked": "2026-11-28T05:05:35Z"
     },
     {
       "asin": "B09232FTX8",
@@ -329,7 +361,7 @@
       "reference_price": 119.0,
       "discount": 80.2,
       "first_seen": "2026-11-17T00:27:08Z",
-      "last_checked": "2026-11-27T13:56:44Z"
+      "last_checked": "2026-11-28T05:05:13Z"
     },
     {
       "asin": "B0001AU7SO",
@@ -346,6 +378,22 @@
       "discount": 79.9,
       "first_seen": "2026-11-17T20:07:34Z",
       "last_checked": "2026-11-27T21:32:01Z"
+    },
+    {
+      "asin": "B09VSTZTHP",
+      "title": "Portal Broom and Dustpan Set for Home, Set, Upright Stand Up Comb Office Home Kitchen Lobby Indoor Floor Cleaning Use Blue, 12.99 * 10.23 * 5.51 inch, 12MN",
+      "image": "https://m.media-amazon.com/images/I/61kUXtQiGNL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B09VSTZTHP?aod=1",
+      "price": 116.03,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 562.5,
+      "list_price": null,
+      "reference_price": 562.5,
+      "discount": 79.4,
+      "first_seen": "2026-11-24T21:31:50Z",
+      "last_checked": "2026-11-28T05:05:07Z"
     },
     {
       "asin": "B0FVWKL973",
@@ -380,38 +428,6 @@
       "last_checked": "2026-11-27T21:32:30Z"
     },
     {
-      "asin": "B09VSTZTHP",
-      "title": "Portal Broom and Dustpan Set for Home, Set, Upright Stand Up Comb Office Home Kitchen Lobby Indoor Floor Cleaning Use Blue, 12.99 * 10.23 * 5.51 inch, 12MN",
-      "image": "https://m.media-amazon.com/images/I/61kUXtQiGNL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B09VSTZTHP?aod=1",
-      "price": 119.14,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
-      "seller": "Amazon Resale",
-      "new_price": 562.5,
-      "list_price": null,
-      "reference_price": 562.5,
-      "discount": 78.8,
-      "first_seen": "2026-11-24T21:31:50Z",
-      "last_checked": "2026-11-27T13:56:24Z"
-    },
-    {
-      "asin": "B0CZJ3T8FN",
-      "title": "Banana Protection Storage Box, Safe Plastic with Air Holes, Cute Durable Holder - 3 Pcs Random Colors",
-      "image": "https://m.media-amazon.com/images/I/51BruYF-SxL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0CZJ3T8FN?aod=1",
-      "price": 47.71,
-      "condition": "Used - Good",
-      "condition_ar": "مستعمل - جيد",
-      "seller": "Amazon Resale",
-      "new_price": 79.81,
-      "list_price": 225.0,
-      "reference_price": 225.0,
-      "discount": 78.8,
-      "first_seen": "2026-11-20T04:36:04Z",
-      "last_checked": "2026-11-27T13:56:22Z"
-    },
-    {
       "asin": "B0B9P24XQX",
       "title": "Acrylic Ice Bowl With Plastic Handle And Plastic Ice Tong - Clear",
       "image": "https://m.media-amazon.com/images/I/412SFjdp7YL._AC_UL320_.jpg",
@@ -425,7 +441,7 @@
       "reference_price": 226.8,
       "discount": 78.7,
       "first_seen": "2026-11-17T04:34:44Z",
-      "last_checked": "2026-11-27T13:56:48Z"
+      "last_checked": "2026-11-28T05:03:15Z"
     },
     {
       "asin": "B0965LVXJ7",
@@ -441,7 +457,7 @@
       "reference_price": 272.88,
       "discount": 78.7,
       "first_seen": "2026-11-25T19:59:42Z",
-      "last_checked": "2026-11-27T13:56:50Z"
+      "last_checked": "2026-11-28T05:05:17Z"
     },
     {
       "asin": "B09J2TSHS7",
@@ -457,7 +473,7 @@
       "reference_price": 350.0,
       "discount": 78.6,
       "first_seen": "2026-11-17T04:35:04Z",
-      "last_checked": "2026-11-27T13:56:27Z"
+      "last_checked": "2026-11-28T05:05:10Z"
     },
     {
       "asin": "B09JL9VX3V",
@@ -473,7 +489,7 @@
       "reference_price": 255.52,
       "discount": 78.3,
       "first_seen": "2026-11-19T04:37:52Z",
-      "last_checked": "2026-11-27T13:56:53Z"
+      "last_checked": "2026-11-28T05:05:20Z"
     },
     {
       "asin": "B0GJMN88P9",
@@ -489,7 +505,7 @@
       "reference_price": 211.27,
       "discount": 77.9,
       "first_seen": "2026-11-20T04:36:21Z",
-      "last_checked": "2026-11-27T13:56:57Z"
+      "last_checked": "2026-11-28T05:03:18Z"
     },
     {
       "asin": "B0972NJM6W",
@@ -537,23 +553,7 @@
       "reference_price": 230.0,
       "discount": 77.1,
       "first_seen": "2026-11-17T04:34:33Z",
-      "last_checked": "2026-11-27T13:57:00Z"
-    },
-    {
-      "asin": "B0DHRYP96X",
-      "title": "Spanish Reusable Travel Mugs – Set of 2 – Black & Gold Marble Design – 500ml",
-      "image": "https://m.media-amazon.com/images/I/517fsdqj-nL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DHRYP96X?aod=1",
-      "price": 48.99,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 211.5,
-      "list_price": null,
-      "reference_price": 211.5,
-      "discount": 76.8,
-      "first_seen": "2026-11-26T01:15:06Z",
-      "last_checked": "2026-11-27T13:57:03Z"
+      "last_checked": "2026-11-28T05:05:24Z"
     },
     {
       "asin": "B0D11N23QH",
@@ -569,7 +569,7 @@
       "reference_price": 184.63,
       "discount": 76.7,
       "first_seen": "2026-11-17T00:27:20Z",
-      "last_checked": "2026-11-27T13:57:06Z"
+      "last_checked": "2026-11-28T05:03:22Z"
     },
     {
       "asin": "B07WRBDXZ8",
@@ -585,7 +585,39 @@
       "reference_price": 233.93,
       "discount": 76.6,
       "first_seen": "2026-11-27T04:06:35Z",
-      "last_checked": "2026-11-27T16:03:37Z"
+      "last_checked": "2026-11-28T05:03:25Z"
+    },
+    {
+      "asin": "B09FN5T134",
+      "title": "Sport soft silicone bracelet for xiaomi redmi smartwatch - beige",
+      "image": "https://m.media-amazon.com/images/I/51fJmKNk4YL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B09FN5T134?aod=1",
+      "price": 34.31,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 145.0,
+      "list_price": null,
+      "reference_price": 145.0,
+      "discount": 76.3,
+      "first_seen": "2026-11-28T05:03:28Z",
+      "last_checked": "2026-11-28T05:03:28Z"
+    },
+    {
+      "asin": "B0CZJ3T8FN",
+      "title": "Banana Protection Storage Box, Safe Plastic with Air Holes, Cute Durable Holder - 3 Pcs Random Colors",
+      "image": "https://m.media-amazon.com/images/I/51BruYF-SxL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CZJ3T8FN?aod=1",
+      "price": 54.07,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 79.81,
+      "list_price": 225.0,
+      "reference_price": 225.0,
+      "discount": 76.0,
+      "first_seen": "2026-11-20T04:36:04Z",
+      "last_checked": "2026-11-28T05:05:04Z"
     },
     {
       "asin": "B0DBSR9Z6J",
@@ -601,7 +633,7 @@
       "reference_price": 149.0,
       "discount": 75.9,
       "first_seen": "2026-11-17T04:35:26Z",
-      "last_checked": "2026-11-27T16:03:45Z"
+      "last_checked": "2026-11-28T05:03:30Z"
     },
     {
       "asin": "B0CF9DK8L3",
@@ -617,7 +649,55 @@
       "reference_price": 93.0,
       "discount": 75.8,
       "first_seen": "2026-11-17T00:27:24Z",
-      "last_checked": "2026-11-27T16:03:48Z"
+      "last_checked": "2026-11-28T05:03:33Z"
+    },
+    {
+      "asin": "B0F8C3KKCM",
+      "title": "Glass Tumbler with Wooden Lid and Straw - Suitable for Iced Coffee, Juices, Hot and Cold Drinks (1)",
+      "image": "https://m.media-amazon.com/images/I/31sVzUyjg0L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0F8C3KKCM?aod=1",
+      "price": 56.25,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 230.0,
+      "list_price": null,
+      "reference_price": 230.0,
+      "discount": 75.5,
+      "first_seen": "2026-11-17T22:58:04Z",
+      "last_checked": "2026-11-28T05:06:03Z"
+    },
+    {
+      "asin": "B091CX7C8K",
+      "title": "Disposable Underarm Shields Pads - 6 Pairs for Short Sleeve and 6 Pairs for Long Sleeve",
+      "image": "https://m.media-amazon.com/images/I/61NiFVdrwDL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B091CX7C8K?aod=1",
+      "price": 24.45,
+      "condition": "Open Box - Very Good",
+      "condition_ar": "علبة مفتوحة - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 98.69,
+      "list_price": null,
+      "reference_price": 98.69,
+      "discount": 75.2,
+      "first_seen": "2026-11-28T05:03:36Z",
+      "last_checked": "2026-11-28T05:03:36Z"
+    },
+    {
+      "asin": "B01H50ZCJ6",
+      "title": "Acerich Set of 6 Stainless Steel Straws, Acerich Reusable Metal Straws for 30 oz & 20 oz Tumblers Cups Mugs Cold Beverage, Free Cleaning Brush Included",
+      "image": "https://m.media-amazon.com/images/I/71F638pOu2L._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B01H50ZCJ6?aod=1",
+      "price": 30.98,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 125.0,
+      "list_price": null,
+      "reference_price": 125.0,
+      "discount": 75.2,
+      "first_seen": "2026-11-28T05:03:39Z",
+      "last_checked": "2026-11-28T05:03:39Z"
     },
     {
       "asin": "B0F79GSXW5",
@@ -633,7 +713,7 @@
       "reference_price": 1272.0,
       "discount": 74.7,
       "first_seen": "2026-11-25T17:07:17Z",
-      "last_checked": "2026-11-27T16:03:14Z"
+      "last_checked": "2026-11-28T05:05:41Z"
     },
     {
       "asin": "B0F2K1SFWM",
@@ -649,7 +729,7 @@
       "reference_price": 119.0,
       "discount": 74.6,
       "first_seen": "2026-11-17T00:27:31Z",
-      "last_checked": "2026-11-27T16:03:51Z"
+      "last_checked": "2026-11-28T05:03:42Z"
     },
     {
       "asin": "B0BD63TK8P",
@@ -665,23 +745,7 @@
       "reference_price": 1029.0,
       "discount": 74.4,
       "first_seen": "2026-11-17T14:24:51Z",
-      "last_checked": "2026-11-27T16:03:17Z"
-    },
-    {
-      "asin": "B0F8C3KKCM",
-      "title": "Glass Tumbler with Wooden Lid and Straw - Suitable for Iced Coffee, Juices, Hot and Cold Drinks (1)",
-      "image": "https://m.media-amazon.com/images/I/31sVzUyjg0L._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0F8C3KKCM?aod=1",
-      "price": 59.45,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 230.0,
-      "list_price": null,
-      "reference_price": 230.0,
-      "discount": 74.2,
-      "first_seen": "2026-11-17T22:58:04Z",
-      "last_checked": "2026-11-27T16:03:43Z"
+      "last_checked": "2026-11-28T05:05:44Z"
     },
     {
       "asin": "B091CM9VJK",
@@ -713,7 +777,23 @@
       "reference_price": 3589.0,
       "discount": 74.1,
       "first_seen": "2026-11-17T22:57:59Z",
-      "last_checked": "2026-11-27T13:56:08Z"
+      "last_checked": "2026-11-28T05:03:45Z"
+    },
+    {
+      "asin": "B0DKD7LK7S",
+      "title": "Portal Elegant Glass Cup for Serving Juices and Iced Coffee Made of Premium Thermal Glass Material",
+      "image": "https://m.media-amazon.com/images/I/41iNphUb9CL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0DKD7LK7S?aod=1",
+      "price": 32.1,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 124.0,
+      "list_price": null,
+      "reference_price": 124.0,
+      "discount": 74.1,
+      "first_seen": "2026-11-28T05:03:47Z",
+      "last_checked": "2026-11-28T05:03:47Z"
     },
     {
       "asin": "B0D5MHJND8",
@@ -729,7 +809,7 @@
       "reference_price": 187.31,
       "discount": 74.0,
       "first_seen": "2026-11-20T04:36:58Z",
-      "last_checked": "2026-11-27T16:03:57Z"
+      "last_checked": "2026-11-28T05:03:49Z"
     },
     {
       "asin": "B0CPVNLZGW",
@@ -764,6 +844,22 @@
       "last_checked": "2026-11-27T21:32:44Z"
     },
     {
+      "asin": "B08QGZT4YQ",
+      "title": "Joseph Joseph JuiceMax Dual-Action Citrus Press, One Size, Yellow",
+      "image": "https://m.media-amazon.com/images/I/41cEMkMOfaL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B08QGZT4YQ?aod=1",
+      "price": 43.18,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 165.0,
+      "list_price": null,
+      "reference_price": 165.0,
+      "discount": 73.8,
+      "first_seen": "2026-11-22T17:44:51Z",
+      "last_checked": "2026-11-28T05:03:52Z"
+    },
+    {
       "asin": "B091CGHJ6W",
       "title": "Outer Space Planet 3D Wall Sticker Room Decor Removable Decals Home Living Room Decoration",
       "image": "https://m.media-amazon.com/images/I/51b4-2T6cpL._AC_UL320_.jpg",
@@ -793,7 +889,7 @@
       "reference_price": 157.01,
       "discount": 73.7,
       "first_seen": "2026-11-17T00:27:10Z",
-      "last_checked": "2026-11-27T16:04:00Z"
+      "last_checked": "2026-11-28T05:03:56Z"
     },
     {
       "asin": "B08QN25VS4",
@@ -804,12 +900,12 @@
       "condition": "Used - Very Good",
       "condition_ar": "مستعمل - جيد جداً",
       "seller": "Amazon Resale",
-      "new_price": 283.51,
+      "new_price": null,
       "list_price": 911.46,
       "reference_price": 911.46,
       "discount": 73.6,
       "first_seen": "2026-11-27T16:03:20Z",
-      "last_checked": "2026-11-27T16:03:20Z"
+      "last_checked": "2026-11-28T05:05:46Z"
     },
     {
       "asin": "B0F7J2VFLP",
@@ -825,7 +921,7 @@
       "reference_price": 909.0,
       "discount": 73.5,
       "first_seen": "2026-11-23T01:10:27Z",
-      "last_checked": "2026-11-27T16:03:23Z"
+      "last_checked": "2026-11-28T05:05:49Z"
     },
     {
       "asin": "B0FCXQWRHW",
@@ -857,7 +953,7 @@
       "reference_price": 1300.0,
       "discount": 73.4,
       "first_seen": "2026-11-27T16:03:25Z",
-      "last_checked": "2026-11-27T16:03:25Z"
+      "last_checked": "2026-11-28T05:05:51Z"
     },
     {
       "asin": "B091JHW2MJ",
@@ -873,7 +969,7 @@
       "reference_price": 138.0,
       "discount": 73.3,
       "first_seen": "2026-11-17T00:27:15Z",
-      "last_checked": "2026-11-27T13:56:38Z"
+      "last_checked": "2026-11-28T05:04:03Z"
     },
     {
       "asin": "B0CLYR41RL",
@@ -889,7 +985,7 @@
       "reference_price": 179.0,
       "discount": 73.3,
       "first_seen": "2026-11-20T04:36:41Z",
-      "last_checked": "2026-11-27T16:04:03Z"
+      "last_checked": "2026-11-28T05:03:59Z"
     },
     {
       "asin": "B0CZXZKFL3",
@@ -921,7 +1017,7 @@
       "reference_price": 120.0,
       "discount": 73.0,
       "first_seen": "2026-11-17T00:27:45Z",
-      "last_checked": "2026-11-27T16:04:05Z"
+      "last_checked": "2026-11-28T05:04:06Z"
     },
     {
       "asin": "B0CP87RW7M",
@@ -940,6 +1036,22 @@
       "last_checked": "2026-11-27T21:32:04Z"
     },
     {
+      "asin": "B0D4BWDG51",
+      "title": "BasketBall Size 5, Multi Color",
+      "image": "https://m.media-amazon.com/images/I/819TffIOacL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0D4BWDG51?aod=1",
+      "price": 210.2,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 779.0,
+      "list_price": null,
+      "reference_price": 779.0,
+      "discount": 73.0,
+      "first_seen": "2026-11-17T14:24:53Z",
+      "last_checked": "2026-11-28T05:05:53Z"
+    },
+    {
       "asin": "B08Y96XHX8",
       "title": "Tempered glass screen protector for huawei honor 8X-black5d",
       "image": "https://m.media-amazon.com/images/I/61zorf1MdfL._AC_UL320_.jpg",
@@ -953,7 +1065,7 @@
       "reference_price": 89.09,
       "discount": 72.8,
       "first_seen": "2026-11-17T00:26:52Z",
-      "last_checked": "2026-11-27T16:04:12Z"
+      "last_checked": "2026-11-28T05:04:09Z"
     },
     {
       "asin": "B091BVQ91K",
@@ -969,7 +1081,23 @@
       "reference_price": 310.0,
       "discount": 72.6,
       "first_seen": "2026-11-19T05:39:54Z",
-      "last_checked": "2026-11-27T13:55:55Z"
+      "last_checked": "2026-11-28T05:04:54Z"
+    },
+    {
+      "asin": "B096L7LJBZ",
+      "title": "Plastic Ventilated Refrigerator Drawer with Pull Grip - assorte color",
+      "image": "https://m.media-amazon.com/images/I/61YjfN9giWL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B096L7LJBZ?aod=1",
+      "price": 13.24,
+      "condition": "Used - Very Good",
+      "condition_ar": "مستعمل - جيد جداً",
+      "seller": "Amazon Resale",
+      "new_price": 34.15,
+      "list_price": 48.23,
+      "reference_price": 48.23,
+      "discount": 72.5,
+      "first_seen": "2026-11-28T05:04:11Z",
+      "last_checked": "2026-11-28T05:04:11Z"
     },
     {
       "asin": "B08YNPJKX3",
@@ -988,6 +1116,22 @@
       "last_checked": "2026-11-27T16:04:16Z"
     },
     {
+      "asin": "B0C7P3R86C",
+      "title": "Aksa Kova Plastic Strainer - Double Layer Rotatable - Baby Blue",
+      "image": "https://m.media-amazon.com/images/I/41Vi6RQKFcL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0C7P3R86C?aod=1",
+      "price": 58.14,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 210.0,
+      "list_price": null,
+      "reference_price": 210.0,
+      "discount": 72.3,
+      "first_seen": "2026-11-28T05:04:14Z",
+      "last_checked": "2026-11-28T05:04:14Z"
+    },
+    {
       "asin": "B091NYPJZ5",
       "title": "Colored magnetic buttons fq3012 30 mm. - set of 12",
       "image": "https://m.media-amazon.com/images/I/71wmcwVxsIL._AC_UL320_.jpg",
@@ -996,12 +1140,12 @@
       "condition": "Used - Like New",
       "condition_ar": "مستعمل - كالجديد",
       "seller": "Amazon Resale",
-      "new_price": 46.0,
+      "new_price": 95.0,
       "list_price": 124.25,
       "reference_price": 124.25,
       "discount": 72.2,
       "first_seen": "2026-11-23T13:20:43Z",
-      "last_checked": "2026-11-27T16:04:18Z"
+      "last_checked": "2026-11-28T05:04:17Z"
     },
     {
       "asin": "B091BSGSRJ",
@@ -1049,7 +1193,7 @@
       "reference_price": 196.0,
       "discount": 72.0,
       "first_seen": "2026-11-25T20:00:29Z",
-      "last_checked": "2026-11-27T16:04:21Z"
+      "last_checked": "2026-11-28T05:04:20Z"
     },
     {
       "asin": "B0FJGXWS2T",
@@ -1065,7 +1209,7 @@
       "reference_price": 95.0,
       "discount": 71.9,
       "first_seen": "2026-11-17T00:27:34Z",
-      "last_checked": "2026-11-27T16:04:27Z"
+      "last_checked": "2026-11-28T05:04:23Z"
     },
     {
       "asin": "B0DJFVKRGC",
@@ -1081,7 +1225,7 @@
       "reference_price": 170.17,
       "discount": 71.9,
       "first_seen": "2026-11-27T04:07:31Z",
-      "last_checked": "2026-11-27T16:04:30Z"
+      "last_checked": "2026-11-28T05:04:28Z"
     },
     {
       "asin": "B0DLTQ7B7F",
@@ -1097,7 +1241,7 @@
       "reference_price": 145.0,
       "discount": 71.7,
       "first_seen": "2026-11-17T00:29:30Z",
-      "last_checked": "2026-11-27T16:04:32Z"
+      "last_checked": "2026-11-28T05:04:34Z"
     },
     {
       "asin": "B0DGDT46N6",
@@ -1113,7 +1257,7 @@
       "reference_price": 258.72,
       "discount": 71.7,
       "first_seen": "2026-11-19T05:39:57Z",
-      "last_checked": "2026-11-27T13:56:16Z"
+      "last_checked": "2026-11-28T05:04:59Z"
     },
     {
       "asin": "B0DYDTK1FY",
@@ -1130,22 +1274,6 @@
       "discount": 71.7,
       "first_seen": "2026-11-20T05:39:27Z",
       "last_checked": "2026-11-27T21:32:48Z"
-    },
-    {
-      "asin": "B0D4BWDG51",
-      "title": "BasketBall Size 5, Multi Color",
-      "image": "https://m.media-amazon.com/images/I/819TffIOacL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0D4BWDG51?aod=1",
-      "price": 221.4,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 779.0,
-      "list_price": null,
-      "reference_price": 779.0,
-      "discount": 71.6,
-      "first_seen": "2026-11-17T14:24:53Z",
-      "last_checked": "2026-11-27T16:03:28Z"
     },
     {
       "asin": "B0GJQWGSKZ",
@@ -1180,22 +1308,6 @@
       "last_checked": "2026-11-27T21:31:32Z"
     },
     {
-      "asin": "B08QGZT4YQ",
-      "title": "Joseph Joseph JuiceMax Dual-Action Citrus Press, One Size, Yellow",
-      "image": "https://m.media-amazon.com/images/I/41cEMkMOfaL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B08QGZT4YQ?aod=1",
-      "price": 43.18,
-      "condition": "Used - Very Good",
-      "condition_ar": "مستعمل - جيد جداً",
-      "seller": "Amazon Resale",
-      "new_price": 151.2,
-      "list_price": null,
-      "reference_price": 151.2,
-      "discount": 71.4,
-      "first_seen": "2026-11-22T17:44:51Z",
-      "last_checked": "2026-11-27T16:04:39Z"
-    },
-    {
       "asin": "B08YNM3H9Q",
       "title": "Microwave Popcorn Maker - Yellow",
       "image": "https://m.media-amazon.com/images/I/41GFxw0+vmL._AC_UL320_.jpg",
@@ -1209,7 +1321,7 @@
       "reference_price": 165.0,
       "discount": 71.4,
       "first_seen": "2026-11-18T01:15:02Z",
-      "last_checked": "2026-11-27T16:04:42Z"
+      "last_checked": "2026-11-28T05:04:37Z"
     },
     {
       "asin": "B0F9YVBB73",
@@ -1225,7 +1337,23 @@
       "reference_price": 1129.0,
       "discount": 71.3,
       "first_seen": "2026-11-26T11:30:55Z",
-      "last_checked": "2026-11-27T16:03:32Z"
+      "last_checked": "2026-11-28T05:05:57Z"
+    },
+    {
+      "asin": "B09GF1RVDB",
+      "title": "Frying Pan Cover Splatter Screen Guard Splash Lid Protective Mesh Grease New Kitchen Pans for Cooking Saucepan Metal Wired Round Black Colors Accessories Spatter Holder Home Sets",
+      "image": "https://m.media-amazon.com/images/I/718AOSGwBrL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B09GF1RVDB?aod=1",
+      "price": 26.02,
+      "condition": "Used - Good",
+      "condition_ar": "مستعمل - جيد",
+      "seller": "Amazon Resale",
+      "new_price": 89.9,
+      "list_price": null,
+      "reference_price": 89.9,
+      "discount": 71.1,
+      "first_seen": "2026-11-28T05:04:40Z",
+      "last_checked": "2026-11-28T05:04:40Z"
     },
     {
       "asin": "B0DPKXFS4S",
@@ -1241,7 +1369,23 @@
       "reference_price": 41.0,
       "discount": 71.0,
       "first_seen": "2026-11-22T17:44:53Z",
-      "last_checked": "2026-11-27T13:56:11Z"
+      "last_checked": "2026-11-28T05:04:44Z"
+    },
+    {
+      "asin": "B0CGZYSWMM",
+      "title": "LDNIO HP06 In-ear Earphone With Controller , Comfortable Design , Noise Reduction Upgrade 3.5mm - Black",
+      "image": "https://m.media-amazon.com/images/I/51XjMI3gpAL._AC_UL320_.jpg",
+      "url": "https://www.amazon.eg/dp/B0CGZYSWMM?aod=1",
+      "price": 50.71,
+      "condition": "Used - Like New",
+      "condition_ar": "مستعمل - كالجديد",
+      "seller": "Amazon Resale",
+      "new_price": 175.0,
+      "list_price": null,
+      "reference_price": 175.0,
+      "discount": 71.0,
+      "first_seen": "2026-11-28T05:04:47Z",
+      "last_checked": "2026-11-28T05:04:47Z"
     },
     {
       "asin": "B0D8199FKW",
@@ -1264,16 +1408,16 @@
       "title": "Yrzper Compatible with Apple Watch Ultra 49mm Hard PC Case Cover Resistant Impact Shockproof Protective All-Around Edge Protective PC Hard Bumper Cover Face for Apple Watch Ultra 49mm (Star Color)",
       "image": "https://m.media-amazon.com/images/I/71WfJQcwSuL._AC_UL320_.jpg",
       "url": "https://www.amazon.eg/dp/B0BDLXDKBQ?aod=1",
-      "price": 72.36,
+      "price": 71.82,
       "condition": "Used - Like New",
       "condition_ar": "مستعمل - كالجديد",
       "seller": "Amazon Resale",
       "new_price": 245.0,
       "list_price": null,
       "reference_price": 245.0,
-      "discount": 70.5,
+      "discount": 70.7,
       "first_seen": "2026-11-17T05:35:25Z",
-      "last_checked": "2026-11-27T21:31:38Z"
+      "last_checked": "2026-11-28T05:04:50Z"
     },
     {
       "asin": "B0DJN4BN12",
@@ -1337,23 +1481,7 @@
       "reference_price": 949.99,
       "discount": 70.3,
       "first_seen": "2026-11-27T16:03:34Z",
-      "last_checked": "2026-11-27T16:03:34Z"
-    },
-    {
-      "asin": "B0DLLC56J9",
-      "title": "Soft Fur Cleaning Brush, Multifunctional Shoe Brush with Liquid Box, Household Soft Shoe Brush for Cleaning Shoes, Long Handle, Clothes Cleaning Tools",
-      "image": "https://m.media-amazon.com/images/I/5126ARQ5ycL._AC_UL320_.jpg",
-      "url": "https://www.amazon.eg/dp/B0DLLC56J9?aod=1",
-      "price": 17.59,
-      "condition": "Used - Like New",
-      "condition_ar": "مستعمل - كالجديد",
-      "seller": "Amazon Resale",
-      "new_price": 19.54,
-      "list_price": 59.0,
-      "reference_price": 59.0,
-      "discount": 70.2,
-      "first_seen": "2026-11-26T14:25:14Z",
-      "last_checked": "2026-11-27T13:56:13Z"
+      "last_checked": "2026-11-28T05:06:00Z"
     },
     {
       "asin": "B0FR3J4YQ5",
